@@ -1,0 +1,6504 @@
+{
+  "f49be72f-ee0e-4bd1-82c6-e6074a233825": {
+    "url": "db://assets/Libraries",
+    "value": {},
+    "versionCode": 1
+  },
+  "2e383ac5-51ba-43f2-a101-710b4d1c7dff": {
+    "url": "db://assets/Libraries/Algorithm.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "ef686639-1c3b-451c-9b1e-f234189ff79f": {
+    "url": "db://assets/Libraries/Debug.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "66f856d8-9e21-4970-8fdc-60ed83748a97": {
+    "url": "db://assets/Libraries/EventManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "494e5387-3bde-48c3-ab4f-2dfc04912c32": {
+    "url": "db://assets/Libraries/List.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "bd4e86d3-2bc6-428a-85c0-3364ea627885": {
+    "url": "db://assets/Libraries/Validator.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "49d8e021-b217-4cb9-904a-7e54fd5549a9": {
+    "url": "db://assets/Game",
+    "value": {},
+    "versionCode": 1
+  },
+  "504fee44-5ae5-4053-b1ad-10249d60c926": {
+    "url": "db://assets/Game/Images",
+    "value": {},
+    "versionCode": 1
+  },
+  "81e2f4fd-fdf5-4718-a497-1b9e645c22a6": {
+    "url": "db://assets/Game/Prefabs",
+    "value": {},
+    "versionCode": 1
+  },
+  "38db499d-4d60-4c46-8062-91685fa0a7dc": {
+    "url": "db://assets/Game/Scenes",
+    "value": {},
+    "versionCode": 1
+  },
+  "f415bc0b-c814-4bf9-ac47-b3864d42525a": {
+    "url": "db://assets/Game/Scripts",
+    "value": {},
+    "versionCode": 1
+  },
+  "daa67414-2fea-4e93-a752-dc6ab9fda581": {
+    "url": "db://assets/Game/Scripts/Architecture.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "4a83ac87-9f1b-4bf8-ba94-96dfdb5dfeba": {
+    "url": "db://assets/Game/Scripts/Common",
+    "value": {},
+    "versionCode": 1
+  },
+  "116e6b63-21f0-4e84-bea2-0e88e19058f3": {
+    "url": "db://assets/Game/Scripts/Game",
+    "value": {},
+    "versionCode": 1
+  },
+  "8b4c71a9-1a13-4f66-bd97-2c12d65fdad0": {
+    "url": "db://assets/Game/Scripts/Common/NodeRef.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "ff2e889a-3d89-4617-b8ff-19f9aa40544a": {
+    "url": "db://assets/Game/Scripts/Common/TouchEventProxy.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "2421e2eb-3d77-4996-833e-c7967fbb3fac": {
+    "url": "db://assets/Game/Scripts/Game/Ball.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "172df504-4892-425b-99be-f1d8a6a0f9a7": {
+    "url": "db://assets/Game/Scripts/Game/GameCtrl.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "418e657c-ad10-4a30-92b1-107b9eebbd24": {
+    "url": "db://assets/Game/Scripts/Game/GameUICtrl.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "8392054c-0da3-47b5-b486-9eafbbe61b78": {
+    "url": "db://assets/Game/Scripts/Game/Outline.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "f1f4d924-c632-492c-a66a-1b71427652d5": {
+    "url": "db://assets/Game/Images/circle.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "b99f0e44-2891-495f-8654-8fb5af0e8188": {
+    "url": "db://assets/Game/Images/circle_fill.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "d42eadd8-1887-4290-af2b-a1f229a0f2c9": {
+    "url": "db://assets/Game/Images/circle_full.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "667e3de3-033c-4a41-8183-0d87fe25c717": {
+    "url": "db://assets/Game/Images/circle_half_door.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "022164b7-02e2-4d7d-847c-0cea86ee4d02": {
+    "url": "db://assets/Game/Images/half_sep.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f1f4d924-c632-492c-a66a-1b71427652d5@6c48a": {
+    "url": "db://assets/Game/Images/circle.png@6c48a",
+    "value": {
+      "depends": [
+        "f1f4d924-c632-492c-a66a-1b71427652d5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "667e3de3-033c-4a41-8183-0d87fe25c717@6c48a": {
+    "url": "db://assets/Game/Images/circle_half_door.png@6c48a",
+    "value": {
+      "depends": [
+        "667e3de3-033c-4a41-8183-0d87fe25c717"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b99f0e44-2891-495f-8654-8fb5af0e8188@6c48a": {
+    "url": "db://assets/Game/Images/circle_fill.png@6c48a",
+    "value": {
+      "depends": [
+        "b99f0e44-2891-495f-8654-8fb5af0e8188"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d42eadd8-1887-4290-af2b-a1f229a0f2c9@6c48a": {
+    "url": "db://assets/Game/Images/circle_full.png@6c48a",
+    "value": {
+      "depends": [
+        "d42eadd8-1887-4290-af2b-a1f229a0f2c9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "022164b7-02e2-4d7d-847c-0cea86ee4d02@6c48a": {
+    "url": "db://assets/Game/Images/half_sep.png@6c48a",
+    "value": {
+      "depends": [
+        "022164b7-02e2-4d7d-847c-0cea86ee4d02"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f1f4d924-c632-492c-a66a-1b71427652d5@f9941": {
+    "url": "db://assets/Game/Images/circle.png@f9941",
+    "value": {
+      "depends": [
+        "f1f4d924-c632-492c-a66a-1b71427652d5@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8fa82b13-37ec-4dd4-9fbf-82c3b9636f09": {
+    "url": "db://assets/Game/Images/OneQuaters.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "b99f0e44-2891-495f-8654-8fb5af0e8188@f9941": {
+    "url": "db://assets/Game/Images/circle_fill.png@f9941",
+    "value": {
+      "depends": [
+        "b99f0e44-2891-495f-8654-8fb5af0e8188@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "67b257c9-ee09-4d5a-914c-9e3582d4bef5": {
+    "url": "db://assets/Game/Images/ThreeQuaters.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "667e3de3-033c-4a41-8183-0d87fe25c717@f9941": {
+    "url": "db://assets/Game/Images/circle_half_door.png@f9941",
+    "value": {
+      "depends": [
+        "667e3de3-033c-4a41-8183-0d87fe25c717@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "db512db8-d411-4e34-8c57-8ebf30887aa5": {
+    "url": "db://assets/Game/Prefabs/Ball.prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "d42eadd8-1887-4290-af2b-a1f229a0f2c9@f9941": {
+    "url": "db://assets/Game/Images/circle_full.png@f9941",
+    "value": {
+      "depends": [
+        "d42eadd8-1887-4290-af2b-a1f229a0f2c9@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c4693477-5284-458d-a26e-109e243dd4c3": {
+    "url": "db://assets/Game/Prefabs/Outline.prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "022164b7-02e2-4d7d-847c-0cea86ee4d02@f9941": {
+    "url": "db://assets/Game/Images/half_sep.png@f9941",
+    "value": {
+      "depends": [
+        "022164b7-02e2-4d7d-847c-0cea86ee4d02@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b5d61b98-c024-4d94-a7d3-2dc251d990ce": {
+    "url": "db://assets/Game/Prefabs/OutlineOneQuater.prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "7ce6f4a6-2445-499a-b56e-5f484daf7193": {
+    "url": "db://assets/Game/Scenes/Game.scene",
+    "value": {},
+    "versionCode": 1
+  },
+  "8fa82b13-37ec-4dd4-9fbf-82c3b9636f09@6c48a": {
+    "url": "db://assets/Game/Images/OneQuaters.png@6c48a",
+    "value": {
+      "depends": [
+        "8fa82b13-37ec-4dd4-9fbf-82c3b9636f09"
+      ]
+    },
+    "versionCode": 1
+  },
+  "67b257c9-ee09-4d5a-914c-9e3582d4bef5@6c48a": {
+    "url": "db://assets/Game/Images/ThreeQuaters.png@6c48a",
+    "value": {
+      "depends": [
+        "67b257c9-ee09-4d5a-914c-9e3582d4bef5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8fa82b13-37ec-4dd4-9fbf-82c3b9636f09@f9941": {
+    "url": "db://assets/Game/Images/OneQuaters.png@f9941",
+    "value": {
+      "depends": [
+        "8fa82b13-37ec-4dd4-9fbf-82c3b9636f09@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "67b257c9-ee09-4d5a-914c-9e3582d4bef5@f9941": {
+    "url": "db://assets/Game/Images/ThreeQuaters.png@f9941",
+    "value": {
+      "depends": [
+        "67b257c9-ee09-4d5a-914c-9e3582d4bef5@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "49d2fca9-9fa0-4ac4-aa39-5b86afcba392": {
+    "url": "db://assets/Game/Scenes/Game.scene",
+    "value": {
+      "depends": [
+        "49d2fca9-9fa0-4ac4-aa39-5b86afcba392",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "e80debe2-d321-4766-b71b-e1c3adbcdb55": {
+    "url": "db://assets/Game/animation",
+    "value": {},
+    "versionCode": 1
+  },
+  "55ba02c2-d269-4d81-8fb0-61645f4b7a59": {
+    "url": "db://assets/Game/animation/tabs",
+    "value": {},
+    "versionCode": 1
+  },
+  "1210c08c-e904-4e3e-a21c-fd0d37e1e341": {
+    "url": "db://assets/Game/animation/figure_breath.anim",
+    "value": {},
+    "versionCode": 1
+  },
+  "95bc1c50-a456-4845-a533-5a8d8d2fd16b": {
+    "url": "db://assets/Game/animation/menu_back.anim",
+    "value": {},
+    "versionCode": 1
+  },
+  "8125423d-2c3c-4780-b483-dcfd4532c05f": {
+    "url": "db://assets/Game/animation/menu_intro.anim",
+    "value": {},
+    "versionCode": 1
+  },
+  "0c6f4595-4696-4740-9a41-d39aafc2734a": {
+    "url": "db://assets/Game/animation/menu_reset.anim",
+    "value": {},
+    "versionCode": 1
+  },
+  "1472f312-9671-4996-a036-34c3f3c1bd41": {
+    "url": "db://assets/Game/animation/shop_intro.anim",
+    "value": {},
+    "versionCode": 1
+  },
+  "68c4d91b-ba25-408a-9588-89f1e5b5fc64": {
+    "url": "db://assets/Game/animation/shop_outro.anim",
+    "value": {},
+    "versionCode": 1
+  },
+  "848b2e65-93ba-4411-be84-8e836dd5b25f": {
+    "url": "db://assets/Game/animation/shop_reset.anim",
+    "value": {},
+    "versionCode": 1
+  },
+  "a5da42bf-54a8-4f59-8ac5-70ccce1ed990": {
+    "url": "db://assets/Game/animation/sub_fold.anim",
+    "value": {},
+    "versionCode": 1
+  },
+  "5ab2e3ea-b712-480d-ab01-0f41b2e92b12": {
+    "url": "db://assets/Game/animation/sub_pop.anim",
+    "value": {},
+    "versionCode": 1
+  },
+  "f70ce0f4-11cd-4f3e-b24f-6d7786f5ca76": {
+    "url": "db://assets/Game/animation/tab_turn_big.anim",
+    "value": {},
+    "versionCode": 1
+  },
+  "25a5c5f0-6d35-4440-bc6e-c3c7f637f8cd": {
+    "url": "db://assets/Game/animation/tab_turn_small.anim",
+    "value": {},
+    "versionCode": 1
+  },
+  "f64f87e6-913b-43b6-b4e9-4fafa5775951": {
+    "url": "db://assets/Game/animation/tabs/tab_turnbig.anim",
+    "value": {},
+    "versionCode": 1
+  },
+  "7ec8ee3b-013d-4ae6-90e2-0446bac580fd": {
+    "url": "db://assets/Game/animation/tabs/tab_turnsmall.anim",
+    "value": {},
+    "versionCode": 1
+  },
+  "837dfd61-e153-482d-9590-97d29f9f74a5": {
+    "url": "db://assets/Game/font",
+    "value": {},
+    "versionCode": 1
+  },
+  "ce8f2ad5-a316-4653-ba49-398b4f04557f": {
+    "url": "db://assets/Game/font/haibao_outline.fnt",
+    "value": {},
+    "versionCode": 1
+  },
+  "225ed31a-60be-425b-b94a-dd19050730a4": {
+    "url": "db://assets/Game/font/haibao_outline.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "1316ed6c-3cd7-469b-8f14-ab659123629c": {
+    "url": "db://assets/Game/font/haibao_shadow.fnt",
+    "value": {},
+    "versionCode": 1
+  },
+  "0c2bef11-b494-4511-9c56-f5195e65f929": {
+    "url": "db://assets/Game/font/haibao_shadow.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "225ed31a-60be-425b-b94a-dd19050730a4@6c48a": {
+    "url": "db://assets/Game/font/haibao_outline.png@6c48a",
+    "value": {
+      "depends": [
+        "225ed31a-60be-425b-b94a-dd19050730a4"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0c2bef11-b494-4511-9c56-f5195e65f929@6c48a": {
+    "url": "db://assets/Game/font/haibao_shadow.png@6c48a",
+    "value": {
+      "depends": [
+        "0c2bef11-b494-4511-9c56-f5195e65f929"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0c2bef11-b494-4511-9c56-f5195e65f929@f9941": {
+    "url": "db://assets/Game/font/haibao_shadow.png@f9941",
+    "value": {
+      "depends": [
+        "0c2bef11-b494-4511-9c56-f5195e65f929@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "225ed31a-60be-425b-b94a-dd19050730a4@f9941": {
+    "url": "db://assets/Game/font/haibao_outline.png@f9941",
+    "value": {
+      "depends": [
+        "225ed31a-60be-425b-b94a-dd19050730a4@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0b084d87-7bd1-44ef-a4ea-9a30bbc618f8": {
+    "url": "db://assets/Game/model",
+    "value": {},
+    "versionCode": 1
+  },
+  "de267643-b22f-4ad9-b531-e69d755ff709": {
+    "url": "db://assets/Game/model/cocos",
+    "value": {},
+    "versionCode": 1
+  },
+  "140c33f2-f713-447d-976b-04e0b355e6b0": {
+    "url": "db://assets/Game/model/knight",
+    "value": {},
+    "versionCode": 1
+  },
+  "75b08e51-53d1-4bca-b3de-ad7713d25d2c": {
+    "url": "db://assets/Game/model/cocos/animations",
+    "value": {},
+    "versionCode": 1
+  },
+  "fbbae3f7-8907-488a-b2c2-0eca0985008d": {
+    "url": "db://assets/Game/model/knight/textures",
+    "value": {},
+    "versionCode": 1
+  },
+  "58cf3db3-e6f4-4943-a076-26157912429c": {
+    "url": "db://assets/Game/model/cocos/body.mtl",
+    "value": {},
+    "versionCode": 1
+  },
+  "6cd4e8c1-b63f-4bbb-b3db-b323fa08b435": {
+    "url": "db://assets/Game/model/cocos/Cocos.prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "b3df5b21-2fe6-410e-a10d-3df317e61bb5": {
+    "url": "db://assets/Game/model/cocos/cocosfinish_01.bin",
+    "value": {},
+    "versionCode": 1
+  },
+  "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed": {
+    "url": "db://assets/Game/model/cocos/cocosfinish_01_baseColor.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "026c4a15-e07d-4053-86de-9f9fe30188e5": {
+    "url": "db://assets/Game/model/cocos/cocosfinish_01_emissive.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "3af9be2f-93d2-41a0-b7b7-3cc03054b34a": {
+    "url": "db://assets/Game/model/cocos/cocosfinish_01_normal.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "64b1edbd-75c7-4159-a65a-f1e6d8c9812a": {
+    "url": "db://assets/Game/model/cocos/cocosfinish_01_occlusionRoughnessMetallic.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "dcab7d1f-201e-45d8-911c-833cc5427723": {
+    "url": "db://assets/Game/model/cocos/cocosfinish_02.bin",
+    "value": {},
+    "versionCode": 1
+  },
+  "026c4a15-e07d-4053-86de-9f9fe30188e5@6c48a": {
+    "url": "db://assets/Game/model/cocos/cocosfinish_01_emissive.png@6c48a",
+    "value": {
+      "depends": [
+        "026c4a15-e07d-4053-86de-9f9fe30188e5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8949c1f1-9b2b-418c-b150-611a94543416": {
+    "url": "db://assets/Game/model/cocos/cocosfinish_02_baseColor.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed@6c48a": {
+    "url": "db://assets/Game/model/cocos/cocosfinish_01_baseColor.png@6c48a",
+    "value": {
+      "depends": [
+        "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed"
+      ]
+    },
+    "versionCode": 1
+  },
+  "19819162-ce3f-4f7c-8889-8b2f35bf274c": {
+    "url": "db://assets/Game/model/cocos/cocosfinish_02_normal.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "cd618de5-59fc-4899-ba4f-55195f3e24ce": {
+    "url": "db://assets/Game/model/cocos/cocosfinish_02_occlusionRoughnessMetallic.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "64b1edbd-75c7-4159-a65a-f1e6d8c9812a@6c48a": {
+    "url": "db://assets/Game/model/cocos/cocosfinish_01_occlusionRoughnessMetallic.png@6c48a",
+    "value": {
+      "depends": [
+        "64b1edbd-75c7-4159-a65a-f1e6d8c9812a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5bee9f0c-9771-4e73-b0ea-0bbb6da67698": {
+    "url": "db://assets/Game/model/cocos/cocos_mesh.gltf",
+    "value": {},
+    "versionCode": 1
+  },
+  "3af9be2f-93d2-41a0-b7b7-3cc03054b34a@6c48a": {
+    "url": "db://assets/Game/model/cocos/cocosfinish_01_normal.png@6c48a",
+    "value": {
+      "depends": [
+        "3af9be2f-93d2-41a0-b7b7-3cc03054b34a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fb9825a0-fd7f-48c5-b121-9af90f9f2011": {
+    "url": "db://assets/Game/model/cocos/cocos_mesh_helmet.gltf",
+    "value": {},
+    "versionCode": 1
+  },
+  "8949c1f1-9b2b-418c-b150-611a94543416@6c48a": {
+    "url": "db://assets/Game/model/cocos/cocosfinish_02_baseColor.png@6c48a",
+    "value": {
+      "depends": [
+        "8949c1f1-9b2b-418c-b150-611a94543416"
+      ]
+    },
+    "versionCode": 1
+  },
+  "90f86573-5baf-41e2-97db-8604d1f42b65": {
+    "url": "db://assets/Game/model/cocos/cocos_skel.gltf",
+    "value": {},
+    "versionCode": 1
+  },
+  "19819162-ce3f-4f7c-8889-8b2f35bf274c@6c48a": {
+    "url": "db://assets/Game/model/cocos/cocosfinish_02_normal.png@6c48a",
+    "value": {
+      "depends": [
+        "19819162-ce3f-4f7c-8889-8b2f35bf274c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8d2d3098-6841-41fc-af7f-4bac9e32b080": {
+    "url": "db://assets/Game/model/cocos/cocos_skel_ibm.bin",
+    "value": {},
+    "versionCode": 1
+  },
+  "cd618de5-59fc-4899-ba4f-55195f3e24ce@6c48a": {
+    "url": "db://assets/Game/model/cocos/cocosfinish_02_occlusionRoughnessMetallic.png@6c48a",
+    "value": {
+      "depends": [
+        "cd618de5-59fc-4899-ba4f-55195f3e24ce"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b9ab6374-4e67-4db2-bb75-0256c62f6c7b": {
+    "url": "db://assets/Game/model/cocos/cocos_squat_anim.bin",
+    "value": {},
+    "versionCode": 1
+  },
+  "fb9825a0-fd7f-48c5-b121-9af90f9f2011@72704": {
+    "url": "db://assets/Game/model/cocos/cocos_mesh_helmet.gltf@72704",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "90f86573-5baf-41e2-97db-8604d1f42b65@a9630": {
+    "url": "db://assets/Game/model/cocos/cocos_skel.gltf@a9630",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "5bee9f0c-9771-4e73-b0ea-0bbb6da67698@a865e": {
+    "url": "db://assets/Game/model/cocos/cocos_mesh.gltf@a865e",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "fb9825a0-fd7f-48c5-b121-9af90f9f2011@28c31": {
+    "url": "db://assets/Game/model/cocos/cocos_mesh_helmet.gltf@28c31",
+    "value": {
+      "depends": [
+        "fb9825a0-fd7f-48c5-b121-9af90f9f2011@72704"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7e81a899-6c7c-493d-80cf-e4f730e4f48f": {
+    "url": "db://assets/Game/model/cocos/helmet.mtl",
+    "value": {},
+    "versionCode": 1
+  },
+  "90f86573-5baf-41e2-97db-8604d1f42b65@41e97": {
+    "url": "db://assets/Game/model/cocos/cocos_skel.gltf@41e97",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "708ea3ab-7caa-4235-9f22-a554e2240687": {
+    "url": "db://assets/Game/model/knight/role.mtl",
+    "value": {},
+    "versionCode": 1
+  },
+  "0884a4a8-dd0b-448a-bab6-c34c7709e84e": {
+    "url": "db://assets/Game/model/knight/scene.bin",
+    "value": {},
+    "versionCode": 1
+  },
+  "5bee9f0c-9771-4e73-b0ea-0bbb6da67698@e69d3": {
+    "url": "db://assets/Game/model/cocos/cocos_mesh.gltf@e69d3",
+    "value": {
+      "depends": [
+        "5bee9f0c-9771-4e73-b0ea-0bbb6da67698@a865e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5cc5f0f4-43dd-405c-a9c0-6247d1bfa1b0": {
+    "url": "db://assets/Game/model/knight/scene.gltf",
+    "value": {},
+    "versionCode": 1
+  },
+  "73443895-6d8f-41b5-8e3f-4110d0f4dc31": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_attack.bin",
+    "value": {},
+    "versionCode": 1
+  },
+  "a873a742-b503-4a96-8570-6fe542697035": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_attack.gltf",
+    "value": {},
+    "versionCode": 1
+  },
+  "d1a7cd09-b5d9-422f-a4f3-112d85f1059c": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_die.bin",
+    "value": {},
+    "versionCode": 1
+  },
+  "caf172df-03b7-4c5a-8a53-93f3e4be5146": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_die.gltf",
+    "value": {},
+    "versionCode": 1
+  },
+  "fe407fd3-1b9c-4fb7-9a97-edb4cdae6314": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_down.bin",
+    "value": {},
+    "versionCode": 1
+  },
+  "27ac412c-9efa-4ead-8e2c-fe6533c7878f": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_down.gltf",
+    "value": {},
+    "versionCode": 1
+  },
+  "a1efb6ff-ef74-4037-8801-d310eca22fd5": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_hurt.bin",
+    "value": {},
+    "versionCode": 1
+  },
+  "5cc5f0f4-43dd-405c-a9c0-6247d1bfa1b0@f605f": {
+    "url": "db://assets/Game/model/knight/scene.gltf@f605f",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "a873a742-b503-4a96-8570-6fe542697035@57e42": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_attack.gltf@57e42",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "a873a742-b503-4a96-8570-6fe542697035@325cb": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_attack.gltf@325cb",
+    "value": {
+      "depends": [
+        "a873a742-b503-4a96-8570-6fe542697035@57e42"
+      ]
+    },
+    "versionCode": 1
+  },
+  "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_hurt.gltf",
+    "value": {},
+    "versionCode": 1
+  },
+  "e9d41da7-da95-4119-8a6c-0937de2adb57": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_idle.bin",
+    "value": {},
+    "versionCode": 1
+  },
+  "caf172df-03b7-4c5a-8a53-93f3e4be5146@5ecd9": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_die.gltf@5ecd9",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "5cc5f0f4-43dd-405c-a9c0-6247d1bfa1b0@73b7f": {
+    "url": "db://assets/Game/model/knight/scene.gltf@73b7f",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "27ac412c-9efa-4ead-8e2c-fe6533c7878f@96245": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_down.gltf@96245",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "caf172df-03b7-4c5a-8a53-93f3e4be5146@578b6": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_die.gltf@578b6",
+    "value": {
+      "depends": [
+        "caf172df-03b7-4c5a-8a53-93f3e4be5146@5ecd9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5cc5f0f4-43dd-405c-a9c0-6247d1bfa1b0@438fe": {
+    "url": "db://assets/Game/model/knight/scene.gltf@438fe",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "445d5d9d-c56b-4528-bc90-c847357e5d94": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_idle.gltf",
+    "value": {},
+    "versionCode": 1
+  },
+  "27ac412c-9efa-4ead-8e2c-fe6533c7878f@bce50": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_down.gltf@bce50",
+    "value": {
+      "depends": [
+        "27ac412c-9efa-4ead-8e2c-fe6533c7878f@96245"
+      ]
+    },
+    "versionCode": 1
+  },
+  "33a7dcc9-4eed-4d49-baac-d190c3d2a157": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_jump.bin",
+    "value": {},
+    "versionCode": 1
+  },
+  "501da3c5-f2d8-45f7-bc04-5130d58811ff": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_jump.gltf",
+    "value": {},
+    "versionCode": 1
+  },
+  "5cc5f0f4-43dd-405c-a9c0-6247d1bfa1b0@e39f7": {
+    "url": "db://assets/Game/model/knight/scene.gltf@e39f7",
+    "value": {
+      "depends": [
+        "39c01d9f-4fa2-4f90-ad50-c8f4c35cc5e6"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5cc5f0f4-43dd-405c-a9c0-6247d1bfa1b0@b4e6b": {
+    "url": "db://assets/Game/model/knight/scene.gltf@b4e6b",
+    "value": {
+      "depends": [
+        "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+        "5cc5f0f4-43dd-405c-a9c0-6247d1bfa1b0@e39f7"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5cc5f0f4-43dd-405c-a9c0-6247d1bfa1b0@d1932": {
+    "url": "db://assets/Game/model/knight/scene.gltf@d1932",
+    "value": {
+      "depends": [
+        "5cc5f0f4-43dd-405c-a9c0-6247d1bfa1b0@b4e6b",
+        "5cc5f0f4-43dd-405c-a9c0-6247d1bfa1b0@f605f",
+        "5cc5f0f4-43dd-405c-a9c0-6247d1bfa1b0@438fe",
+        "5cc5f0f4-43dd-405c-a9c0-6247d1bfa1b0@73b7f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f1d8a0c8-d2d8-473f-a769-803842978f68": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_run.bin",
+    "value": {},
+    "versionCode": 1
+  },
+  "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1@51885": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_hurt.gltf@51885",
+    "value": {
+      "depends": [
+        "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1@4cafd"
+      ]
+    },
+    "versionCode": 1
+  },
+  "50735e20-7211-4e9c-b676-4d648cdc0cbb": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_run.gltf",
+    "value": {},
+    "versionCode": 1
+  },
+  "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1@4cafd": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_hurt.gltf@4cafd",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "a9e047be-e87a-43d9-bbd5-1b3f5dbe2026": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_shoot.bin",
+    "value": {},
+    "versionCode": 1
+  },
+  "1cf73293-3e10-49c1-bfa1-59daaadbd18b": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_shoot.gltf",
+    "value": {},
+    "versionCode": 1
+  },
+  "501da3c5-f2d8-45f7-bc04-5130d58811ff@cd579": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_jump.gltf@cd579",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "445d5d9d-c56b-4528-bc90-c847357e5d94@ab65f": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_idle.gltf@ab65f",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "445d5d9d-c56b-4528-bc90-c847357e5d94@0ea50": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_idle.gltf@0ea50",
+    "value": {
+      "depends": [
+        "445d5d9d-c56b-4528-bc90-c847357e5d94@ab65f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "501da3c5-f2d8-45f7-bc04-5130d58811ff@645e0": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_jump.gltf@645e0",
+    "value": {
+      "depends": [
+        "501da3c5-f2d8-45f7-bc04-5130d58811ff@cd579"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7290f264-a898-4355-8041-8514dbd0051f": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_squat.bin",
+    "value": {},
+    "versionCode": 1
+  },
+  "58c9fdbf-de49-4141-83fa-9ad83f78591c": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_squat.gltf",
+    "value": {},
+    "versionCode": 1
+  },
+  "e08b2140-55f5-4d1f-af55-565183504a80": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_walk.bin",
+    "value": {},
+    "versionCode": 1
+  },
+  "50735e20-7211-4e9c-b676-4d648cdc0cbb@b6423": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_run.gltf@b6423",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "b1cb32e6-c8c9-40c9-9d52-119dae416b32": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_walk.gltf",
+    "value": {},
+    "versionCode": 1
+  },
+  "50735e20-7211-4e9c-b676-4d648cdc0cbb@6ebd2": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_run.gltf@6ebd2",
+    "value": {
+      "depends": [
+        "50735e20-7211-4e9c-b676-4d648cdc0cbb@b6423"
+      ]
+    },
+    "versionCode": 1
+  },
+  "39c01d9f-4fa2-4f90-ad50-c8f4c35cc5e6": {
+    "url": "db://assets/Game/model/knight/textures/Material_baseColor.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "1cf73293-3e10-49c1-bfa1-59daaadbd18b@b452c": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_shoot.gltf@b452c",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "58c9fdbf-de49-4141-83fa-9ad83f78591c@b940a": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_squat.gltf@b940a",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "1cf73293-3e10-49c1-bfa1-59daaadbd18b@7d7b5": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_shoot.gltf@7d7b5",
+    "value": {
+      "depends": [
+        "1cf73293-3e10-49c1-bfa1-59daaadbd18b@b452c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "58c9fdbf-de49-4141-83fa-9ad83f78591c@6c8e7": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_squat.gltf@6c8e7",
+    "value": {
+      "depends": [
+        "58c9fdbf-de49-4141-83fa-9ad83f78591c@b940a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "39c01d9f-4fa2-4f90-ad50-c8f4c35cc5e6@6c48a": {
+    "url": "db://assets/Game/model/knight/textures/Material_baseColor.png@6c48a",
+    "value": {
+      "depends": [
+        "39c01d9f-4fa2-4f90-ad50-c8f4c35cc5e6"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b1cb32e6-c8c9-40c9-9d52-119dae416b32@0a7b5": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_walk.gltf@0a7b5",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "b1cb32e6-c8c9-40c9-9d52-119dae416b32@6ac0b": {
+    "url": "db://assets/Game/model/cocos/animations/cocos_anim_walk.gltf@6ac0b",
+    "value": {
+      "depends": [
+        "b1cb32e6-c8c9-40c9-9d52-119dae416b32@0a7b5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "474e831f-46fc-4c3b-b865-a1e22d683bcf": {
+    "url": "db://assets/Game/prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "dc78ac71-e8bb-4c89-9115-71bce6cc4928": {
+    "url": "db://assets/Game/prefab/heroslot.prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "2125d7ef-b22b-472a-9b75-9614156e272d": {
+    "url": "db://assets/Game/prefab/item.prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "576c8694-8c35-4537-9711-30b8d26a6dc8": {
+    "url": "db://assets/Game/prefab/ListItem.prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "ffe5c4c2-a7a6-4196-a3a4-34d40fcb706b": {
+    "url": "db://assets/Game/prefab/tab.prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "4932a7e0-9cb0-420b-b575-385e245f0eab": {
+    "url": "db://assets/Game/scene",
+    "value": {},
+    "versionCode": 1
+  },
+  "b59e0761-ea04-4a78-b7c0-1672219c7f18": {
+    "url": "db://assets/Game/scene/home.scene",
+    "value": {},
+    "versionCode": 1
+  },
+  "8c6b0112-f426-4ad0-b99f-46b1a0a06111": {
+    "url": "db://assets/Game/scene/list-with-data.scene",
+    "value": {},
+    "versionCode": 1
+  },
+  "540207eb-24f5-4198-9e73-0854aff12ed8": {
+    "url": "db://assets/Game/scene/rocker.scene",
+    "value": {},
+    "versionCode": 1
+  },
+  "d282105e-d88e-4458-9f83-513400b9f2b1": {
+    "url": "db://assets/Game/scene/test-list.scene",
+    "value": {},
+    "versionCode": 1
+  },
+  "1aa710af-41d7-4ff9-9af7-09c042ad9e36": {
+    "url": "db://assets/Game/scripts-001",
+    "value": {},
+    "versionCode": 1
+  },
+  "b7e585b8-8eaf-43e7-af26-6712a75911a4": {
+    "url": "db://assets/Game/scripts-001/AdapterContent.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "88c12fbd-556f-4c49-ad24-db7b43b1ffab": {
+    "url": "db://assets/Game/scripts-001/BackPackUI.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d": {
+    "url": "db://assets/Game/scripts-001/ButtonScaler.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "6cf85d70-4f6c-4afb-b6a9-044a55d8f176": {
+    "url": "db://assets/Game/scripts-001/ChallengeUI.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "73177ee7-dcb7-45ee-b12b-886de351de0a": {
+    "url": "db://assets/Game/scripts-001/ChargeUI.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "ee01cbae-5d67-4a3e-9dca-e99487f9788e": {
+    "url": "db://assets/Game/scripts-001/EnergyCounter.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "57d1506f-0e3c-4b04-bc50-4fa87f57169b": {
+    "url": "db://assets/Game/scripts-001/HeroSlot.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "edc2aee2-b5da-4343-9043-63eb155a4c09": {
+    "url": "db://assets/Game/scripts-001/HomeUI.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "65624be9-42bf-46c3-8e05-3de4041d684c": {
+    "url": "db://assets/Game/scripts-001/ItemList.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "34f7e749-44ce-4c2b-a097-0da0cec66834": {
+    "url": "db://assets/Game/scripts-001/ItemTemplate.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "a254bdaf-9915-45af-99c5-84247b5b0c1b": {
+    "url": "db://assets/Game/scripts-001/PanelTransition.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "da599459-849c-438d-a0f5-deff0b4ceee5": {
+    "url": "db://assets/Game/scripts-001/PanelType.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "2fc7fd0d-922c-4f34-a282-d42e3d1811a9": {
+    "url": "db://assets/Game/scripts-001/rocker",
+    "value": {},
+    "versionCode": 1
+  },
+  "0d6f9406-2f8f-456b-8506-545f5f999add": {
+    "url": "db://assets/Game/scripts-001/ShopUI.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "bc2c4cd6-d3d9-47c2-99dd-5dfb8f1f366f": {
+    "url": "db://assets/Game/scripts-001/SubBtnsUI.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "5c7e7d96-a19b-4655-ae9d-e9ae094b33d9": {
+    "url": "db://assets/Game/scripts-001/tabs",
+    "value": {},
+    "versionCode": 1
+  },
+  "7480f582-cd47-4b2a-9cef-42ae1521f860": {
+    "url": "db://assets/Game/scripts-001/test-list",
+    "value": {},
+    "versionCode": 1
+  },
+  "7b93d422-45f5-4472-af8e-bd9a005669ce": {
+    "url": "db://assets/Game/scripts-001/rocker/head-scale.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "03934756-ae55-4a2c-921b-a4f0850a5cf7": {
+    "url": "db://assets/Game/scripts-001/rocker/rockerCtrl.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "b6ee5850-f54b-4174-8875-018c3653eda0": {
+    "url": "db://assets/Game/scripts-001/tabs/MainMenu.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "f6bf218f-c16f-4184-97e1-3a959db3d0cf": {
+    "url": "db://assets/Game/scripts-001/tabs/MenuSidebar.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "9e9b3dc1-e9e5-412a-b554-487ca44448e8": {
+    "url": "db://assets/Game/scripts-001/tabs/TabCtrl.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "b20ed616-639a-4ca3-abfd-9efa57c03b1b": {
+    "url": "db://assets/Game/scripts-001/test-list/BackButton.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "dfb24d20-524e-45cc-b256-dbe19b1c946f": {
+    "url": "db://assets/Game/scripts-001/test-list/ListItem.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "56ce0300-7432-47da-a05e-c3232e4d09d6": {
+    "url": "db://assets/Game/scripts-001/test-list/SceneList.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "2fd221c0-1c1f-4bca-8df9-9507e1879c37": {
+    "url": "db://assets/Game/textures/portrait",
+    "value": {},
+    "versionCode": 1
+  },
+  "79958760-72ce-4a74-9321-3aec40b5117d": {
+    "url": "db://assets/Game/textures/shop",
+    "value": {},
+    "versionCode": 1
+  },
+  "c00c234d-44d9-4e79-83ae-2b1499fcd946": {
+    "url": "db://assets/Game/textures/testlist",
+    "value": {},
+    "versionCode": 1
+  },
+  "4234457a-edc1-4c85-aff7-abfb2b74180a": {
+    "url": "db://assets/Game/textures/portrait/qin",
+    "value": {},
+    "versionCode": 1
+  },
+  "c4075533-4d36-45f0-9844-dc553fbbdd9a": {
+    "url": "db://assets/Game/textures",
+    "value": {},
+    "versionCode": 1
+  },
+  "87dec5c9-20a5-4a97-a737-0e7aa520cf6f": {
+    "url": "db://assets/Game/textures/portrait/qin/hero",
+    "value": {},
+    "versionCode": 1
+  },
+  "5b618d2b-db5f-4d47-beb7-f1230073306b": {
+    "url": "db://assets/Game/textures/portrait/qin/monster",
+    "value": {},
+    "versionCode": 1
+  },
+  "8d1e3998-ea38-4133-b609-0f5f4147a600": {
+    "url": "db://assets/Game/textures/singleColor.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "4ac85aea-60d8-4f78-9b30-6b8c627f13b9": {
+    "url": "db://assets/Game/textures/timer_bar.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "8241bc51-cd62-498f-89fb-9aa26c3ec321": {
+    "url": "db://assets/Game/textures/timer_slot.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "a7609cf2-2718-402a-850e-1f882dd21903": {
+    "url": "db://assets/Game/textures/txt_beibao.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "af48b30b-0a6c-4117-9a19-46979c28982a": {
+    "url": "db://assets/Game/textures/txt_chuzhan.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "4ac85aea-60d8-4f78-9b30-6b8c627f13b9@6c48a": {
+    "url": "db://assets/Game/textures/timer_bar.png@6c48a",
+    "value": {
+      "depends": [
+        "4ac85aea-60d8-4f78-9b30-6b8c627f13b9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8d1e3998-ea38-4133-b609-0f5f4147a600@6c48a": {
+    "url": "db://assets/Game/textures/singleColor.png@6c48a",
+    "value": {
+      "depends": [
+        "8d1e3998-ea38-4133-b609-0f5f4147a600"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a7609cf2-2718-402a-850e-1f882dd21903@6c48a": {
+    "url": "db://assets/Game/textures/txt_beibao.png@6c48a",
+    "value": {
+      "depends": [
+        "a7609cf2-2718-402a-850e-1f882dd21903"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8241bc51-cd62-498f-89fb-9aa26c3ec321@6c48a": {
+    "url": "db://assets/Game/textures/timer_slot.png@6c48a",
+    "value": {
+      "depends": [
+        "8241bc51-cd62-498f-89fb-9aa26c3ec321"
+      ]
+    },
+    "versionCode": 1
+  },
+  "af48b30b-0a6c-4117-9a19-46979c28982a@6c48a": {
+    "url": "db://assets/Game/textures/txt_chuzhan.png@6c48a",
+    "value": {
+      "depends": [
+        "af48b30b-0a6c-4117-9a19-46979c28982a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8241bc51-cd62-498f-89fb-9aa26c3ec321@f9941": {
+    "url": "db://assets/Game/textures/timer_slot.png@f9941",
+    "value": {
+      "depends": [
+        "8241bc51-cd62-498f-89fb-9aa26c3ec321@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4ac85aea-60d8-4f78-9b30-6b8c627f13b9@f9941": {
+    "url": "db://assets/Game/textures/timer_bar.png@f9941",
+    "value": {
+      "depends": [
+        "4ac85aea-60d8-4f78-9b30-6b8c627f13b9@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "af48b30b-0a6c-4117-9a19-46979c28982a@f9941": {
+    "url": "db://assets/Game/textures/txt_chuzhan.png@f9941",
+    "value": {
+      "depends": [
+        "af48b30b-0a6c-4117-9a19-46979c28982a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8f182ff8-ecc0-4ab4-a6ee-f35ee9ae0870": {
+    "url": "db://assets/Game/textures/txt_hecheng.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f4f34005-226d-41fd-8f6c-9fcb3734f53d": {
+    "url": "db://assets/Game/textures/txt_liuyan.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "3b6a0bf5-4c05-457e-9928-702e3e85d0b6": {
+    "url": "db://assets/Game/textures/txt_renwu.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "a7609cf2-2718-402a-850e-1f882dd21903@f9941": {
+    "url": "db://assets/Game/textures/txt_beibao.png@f9941",
+    "value": {
+      "depends": [
+        "a7609cf2-2718-402a-850e-1f882dd21903@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8d1e3998-ea38-4133-b609-0f5f4147a600@f9941": {
+    "url": "db://assets/Game/textures/singleColor.png@f9941",
+    "value": {
+      "depends": [
+        "8d1e3998-ea38-4133-b609-0f5f4147a600@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f1c132d7-af62-423a-ae57-d0b889d98159": {
+    "url": "db://assets/Game/textures/txt_rongyu.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "e8694ba4-6656-423c-940b-cf867130a097": {
+    "url": "db://assets/Game/textures/shop/banner_goumai_egypt.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "8f182ff8-ecc0-4ab4-a6ee-f35ee9ae0870@6c48a": {
+    "url": "db://assets/Game/textures/txt_hecheng.png@6c48a",
+    "value": {
+      "depends": [
+        "8f182ff8-ecc0-4ab4-a6ee-f35ee9ae0870"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3b6a0bf5-4c05-457e-9928-702e3e85d0b6@6c48a": {
+    "url": "db://assets/Game/textures/txt_renwu.png@6c48a",
+    "value": {
+      "depends": [
+        "3b6a0bf5-4c05-457e-9928-702e3e85d0b6"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f1c132d7-af62-423a-ae57-d0b889d98159@6c48a": {
+    "url": "db://assets/Game/textures/txt_rongyu.png@6c48a",
+    "value": {
+      "depends": [
+        "f1c132d7-af62-423a-ae57-d0b889d98159"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f4f34005-226d-41fd-8f6c-9fcb3734f53d@6c48a": {
+    "url": "db://assets/Game/textures/txt_liuyan.png@6c48a",
+    "value": {
+      "depends": [
+        "f4f34005-226d-41fd-8f6c-9fcb3734f53d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e8694ba4-6656-423c-940b-cf867130a097@6c48a": {
+    "url": "db://assets/Game/textures/shop/banner_goumai_egypt.png@6c48a",
+    "value": {
+      "depends": [
+        "e8694ba4-6656-423c-940b-cf867130a097"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8f182ff8-ecc0-4ab4-a6ee-f35ee9ae0870@f9941": {
+    "url": "db://assets/Game/textures/txt_hecheng.png@f9941",
+    "value": {
+      "depends": [
+        "8f182ff8-ecc0-4ab4-a6ee-f35ee9ae0870@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e174d60b-9c9b-4bc3-aad4-bbd8c14b2e78": {
+    "url": "db://assets/Game/textures/shop/banner_goumai_ocean.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "3b6a0bf5-4c05-457e-9928-702e3e85d0b6@f9941": {
+    "url": "db://assets/Game/textures/txt_renwu.png@f9941",
+    "value": {
+      "depends": [
+        "3b6a0bf5-4c05-457e-9928-702e3e85d0b6@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "441a6473-a030-480e-b100-2f57c7d90e54": {
+    "url": "db://assets/Game/textures/shop/banner_gradient.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f4f34005-226d-41fd-8f6c-9fcb3734f53d@f9941": {
+    "url": "db://assets/Game/textures/txt_liuyan.png@f9941",
+    "value": {
+      "depends": [
+        "f4f34005-226d-41fd-8f6c-9fcb3734f53d@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f1c132d7-af62-423a-ae57-d0b889d98159@f9941": {
+    "url": "db://assets/Game/textures/txt_rongyu.png@f9941",
+    "value": {
+      "depends": [
+        "f1c132d7-af62-423a-ae57-d0b889d98159@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "de42000a-e7c7-4063-b713-805a935c45fe": {
+    "url": "db://assets/Game/textures/shop/banner_green.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "46b38b38-ee1b-4e93-bfb9-521818afdd07": {
+    "url": "db://assets/Game/textures/shop/banner_red_long.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "e8694ba4-6656-423c-940b-cf867130a097@f9941": {
+    "url": "db://assets/Game/textures/shop/banner_goumai_egypt.png@f9941",
+    "value": {
+      "depends": [
+        "e8694ba4-6656-423c-940b-cf867130a097@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9fb9a7d5-fcf4-4b79-91a4-c1df2b65780c": {
+    "url": "db://assets/Game/textures/shop/banner_subscribe.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "e174d60b-9c9b-4bc3-aad4-bbd8c14b2e78@6c48a": {
+    "url": "db://assets/Game/textures/shop/banner_goumai_ocean.png@6c48a",
+    "value": {
+      "depends": [
+        "e174d60b-9c9b-4bc3-aad4-bbd8c14b2e78"
+      ]
+    },
+    "versionCode": 1
+  },
+  "de42000a-e7c7-4063-b713-805a935c45fe@6c48a": {
+    "url": "db://assets/Game/textures/shop/banner_green.png@6c48a",
+    "value": {
+      "depends": [
+        "de42000a-e7c7-4063-b713-805a935c45fe"
+      ]
+    },
+    "versionCode": 1
+  },
+  "441a6473-a030-480e-b100-2f57c7d90e54@6c48a": {
+    "url": "db://assets/Game/textures/shop/banner_gradient.png@6c48a",
+    "value": {
+      "depends": [
+        "441a6473-a030-480e-b100-2f57c7d90e54"
+      ]
+    },
+    "versionCode": 1
+  },
+  "46b38b38-ee1b-4e93-bfb9-521818afdd07@6c48a": {
+    "url": "db://assets/Game/textures/shop/banner_red_long.png@6c48a",
+    "value": {
+      "depends": [
+        "46b38b38-ee1b-4e93-bfb9-521818afdd07"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9fb9a7d5-fcf4-4b79-91a4-c1df2b65780c@6c48a": {
+    "url": "db://assets/Game/textures/shop/banner_subscribe.png@6c48a",
+    "value": {
+      "depends": [
+        "9fb9a7d5-fcf4-4b79-91a4-c1df2b65780c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "de42000a-e7c7-4063-b713-805a935c45fe@f9941": {
+    "url": "db://assets/Game/textures/shop/banner_green.png@f9941",
+    "value": {
+      "depends": [
+        "de42000a-e7c7-4063-b713-805a935c45fe@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "441a6473-a030-480e-b100-2f57c7d90e54@f9941": {
+    "url": "db://assets/Game/textures/shop/banner_gradient.png@f9941",
+    "value": {
+      "depends": [
+        "441a6473-a030-480e-b100-2f57c7d90e54@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "300b1f69-c2cf-40a8-a15c-6b1f7b1d67f0": {
+    "url": "db://assets/Game/textures/shop/bg_shop.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "d87be67e-395c-47ac-bd29-0bff0b6e4fc8": {
+    "url": "db://assets/Game/textures/shop/bot_frame.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "e174d60b-9c9b-4bc3-aad4-bbd8c14b2e78@f9941": {
+    "url": "db://assets/Game/textures/shop/banner_goumai_ocean.png@f9941",
+    "value": {
+      "depends": [
+        "e174d60b-9c9b-4bc3-aad4-bbd8c14b2e78@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c6691cf2-4900-43e7-9c69-a52525117d8a": {
+    "url": "db://assets/Game/textures/shop/btn_green_diamond.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "46b38b38-ee1b-4e93-bfb9-521818afdd07@f9941": {
+    "url": "db://assets/Game/textures/shop/banner_red_long.png@f9941",
+    "value": {
+      "depends": [
+        "46b38b38-ee1b-4e93-bfb9-521818afdd07@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c01311ba-6c23-47bf-b052-729bebe3a42b": {
+    "url": "db://assets/Game/textures/shop/btn_purple.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "9fb9a7d5-fcf4-4b79-91a4-c1df2b65780c@f9941": {
+    "url": "db://assets/Game/textures/shop/banner_subscribe.png@f9941",
+    "value": {
+      "depends": [
+        "9fb9a7d5-fcf4-4b79-91a4-c1df2b65780c@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e3d93cc3-ac8e-4957-b5bf-14e478a7be90": {
+    "url": "db://assets/Game/textures/shop/btn_purple2.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "d87be67e-395c-47ac-bd29-0bff0b6e4fc8@6c48a": {
+    "url": "db://assets/Game/textures/shop/bot_frame.png@6c48a",
+    "value": {
+      "depends": [
+        "d87be67e-395c-47ac-bd29-0bff0b6e4fc8"
+      ]
+    },
+    "versionCode": 1
+  },
+  "300b1f69-c2cf-40a8-a15c-6b1f7b1d67f0@6c48a": {
+    "url": "db://assets/Game/textures/shop/bg_shop.png@6c48a",
+    "value": {
+      "depends": [
+        "300b1f69-c2cf-40a8-a15c-6b1f7b1d67f0"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c6691cf2-4900-43e7-9c69-a52525117d8a@6c48a": {
+    "url": "db://assets/Game/textures/shop/btn_green_diamond.png@6c48a",
+    "value": {
+      "depends": [
+        "c6691cf2-4900-43e7-9c69-a52525117d8a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e3d93cc3-ac8e-4957-b5bf-14e478a7be90@6c48a": {
+    "url": "db://assets/Game/textures/shop/btn_purple2.png@6c48a",
+    "value": {
+      "depends": [
+        "e3d93cc3-ac8e-4957-b5bf-14e478a7be90"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c01311ba-6c23-47bf-b052-729bebe3a42b@6c48a": {
+    "url": "db://assets/Game/textures/shop/btn_purple.png@6c48a",
+    "value": {
+      "depends": [
+        "c01311ba-6c23-47bf-b052-729bebe3a42b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c6691cf2-4900-43e7-9c69-a52525117d8a@f9941": {
+    "url": "db://assets/Game/textures/shop/btn_green_diamond.png@f9941",
+    "value": {
+      "depends": [
+        "c6691cf2-4900-43e7-9c69-a52525117d8a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "389c6364-70f1-4c5c-8f5f-26f359f5bcf7": {
+    "url": "db://assets/Game/textures/shop/btn_red.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "e3d93cc3-ac8e-4957-b5bf-14e478a7be90@f9941": {
+    "url": "db://assets/Game/textures/shop/btn_purple2.png@f9941",
+    "value": {
+      "depends": [
+        "e3d93cc3-ac8e-4957-b5bf-14e478a7be90@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "20e7ac1d-8656-400c-975f-0a977e3b9da5": {
+    "url": "db://assets/Game/textures/shop/btn_sm_blue.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "d87be67e-395c-47ac-bd29-0bff0b6e4fc8@f9941": {
+    "url": "db://assets/Game/textures/shop/bot_frame.png@f9941",
+    "value": {
+      "depends": [
+        "d87be67e-395c-47ac-bd29-0bff0b6e4fc8@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "767c0341-f58d-4aee-b24f-8e4f1620ba44": {
+    "url": "db://assets/Game/textures/shop/btn_sm_red.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "c01311ba-6c23-47bf-b052-729bebe3a42b@f9941": {
+    "url": "db://assets/Game/textures/shop/btn_purple.png@f9941",
+    "value": {
+      "depends": [
+        "c01311ba-6c23-47bf-b052-729bebe3a42b@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fbb5cf79-0ce6-4a03-9381-2f6510574155": {
+    "url": "db://assets/Game/textures/shop/icon_crystal.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "300b1f69-c2cf-40a8-a15c-6b1f7b1d67f0@f9941": {
+    "url": "db://assets/Game/textures/shop/bg_shop.png@f9941",
+    "value": {
+      "depends": [
+        "300b1f69-c2cf-40a8-a15c-6b1f7b1d67f0@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a8fec483-0424-4c4d-8b95-288c14808e3e": {
+    "url": "db://assets/Game/textures/shop/icon_ticket.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "389c6364-70f1-4c5c-8f5f-26f359f5bcf7@6c48a": {
+    "url": "db://assets/Game/textures/shop/btn_red.png@6c48a",
+    "value": {
+      "depends": [
+        "389c6364-70f1-4c5c-8f5f-26f359f5bcf7"
+      ]
+    },
+    "versionCode": 1
+  },
+  "20e7ac1d-8656-400c-975f-0a977e3b9da5@6c48a": {
+    "url": "db://assets/Game/textures/shop/btn_sm_blue.png@6c48a",
+    "value": {
+      "depends": [
+        "20e7ac1d-8656-400c-975f-0a977e3b9da5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fbb5cf79-0ce6-4a03-9381-2f6510574155@6c48a": {
+    "url": "db://assets/Game/textures/shop/icon_crystal.png@6c48a",
+    "value": {
+      "depends": [
+        "fbb5cf79-0ce6-4a03-9381-2f6510574155"
+      ]
+    },
+    "versionCode": 1
+  },
+  "767c0341-f58d-4aee-b24f-8e4f1620ba44@6c48a": {
+    "url": "db://assets/Game/textures/shop/btn_sm_red.png@6c48a",
+    "value": {
+      "depends": [
+        "767c0341-f58d-4aee-b24f-8e4f1620ba44"
+      ]
+    },
+    "versionCode": 1
+  },
+  "389c6364-70f1-4c5c-8f5f-26f359f5bcf7@f9941": {
+    "url": "db://assets/Game/textures/shop/btn_red.png@f9941",
+    "value": {
+      "depends": [
+        "389c6364-70f1-4c5c-8f5f-26f359f5bcf7@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6b1c93db-2320-4f9c-a3ee-3a67bb88f161": {
+    "url": "db://assets/Game/textures/shop/item1.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "20e7ac1d-8656-400c-975f-0a977e3b9da5@f9941": {
+    "url": "db://assets/Game/textures/shop/btn_sm_blue.png@f9941",
+    "value": {
+      "depends": [
+        "20e7ac1d-8656-400c-975f-0a977e3b9da5@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2ccbf417-2d62-4a1d-9107-630f5badbcb6": {
+    "url": "db://assets/Game/textures/shop/item2.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "fbb5cf79-0ce6-4a03-9381-2f6510574155@f9941": {
+    "url": "db://assets/Game/textures/shop/icon_crystal.png@f9941",
+    "value": {
+      "depends": [
+        "fbb5cf79-0ce6-4a03-9381-2f6510574155@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4f4e03f1-31f0-4f93-8540-c0c3cbb318c5": {
+    "url": "db://assets/Game/textures/shop/item3.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "767c0341-f58d-4aee-b24f-8e4f1620ba44@f9941": {
+    "url": "db://assets/Game/textures/shop/btn_sm_red.png@f9941",
+    "value": {
+      "depends": [
+        "767c0341-f58d-4aee-b24f-8e4f1620ba44@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "84122a76-903d-4578-824a-28ac0cd2460a": {
+    "url": "db://assets/Game/textures/shop/shop_chain.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "a8fec483-0424-4c4d-8b95-288c14808e3e@6c48a": {
+    "url": "db://assets/Game/textures/shop/icon_ticket.png@6c48a",
+    "value": {
+      "depends": [
+        "a8fec483-0424-4c4d-8b95-288c14808e3e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6b1c93db-2320-4f9c-a3ee-3a67bb88f161@6c48a": {
+    "url": "db://assets/Game/textures/shop/item1.png@6c48a",
+    "value": {
+      "depends": [
+        "6b1c93db-2320-4f9c-a3ee-3a67bb88f161"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a8fec483-0424-4c4d-8b95-288c14808e3e@f9941": {
+    "url": "db://assets/Game/textures/shop/icon_ticket.png@f9941",
+    "value": {
+      "depends": [
+        "a8fec483-0424-4c4d-8b95-288c14808e3e@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f31071bd-281a-414f-b843-ccd5796f7ebb": {
+    "url": "db://assets/Game/textures/shop/shop_figure.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "2ccbf417-2d62-4a1d-9107-630f5badbcb6@6c48a": {
+    "url": "db://assets/Game/textures/shop/item2.png@6c48a",
+    "value": {
+      "depends": [
+        "2ccbf417-2d62-4a1d-9107-630f5badbcb6"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4f4e03f1-31f0-4f93-8540-c0c3cbb318c5@6c48a": {
+    "url": "db://assets/Game/textures/shop/item3.png@6c48a",
+    "value": {
+      "depends": [
+        "4f4e03f1-31f0-4f93-8540-c0c3cbb318c5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "84122a76-903d-4578-824a-28ac0cd2460a@6c48a": {
+    "url": "db://assets/Game/textures/shop/shop_chain.png@6c48a",
+    "value": {
+      "depends": [
+        "84122a76-903d-4578-824a-28ac0cd2460a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6b1c93db-2320-4f9c-a3ee-3a67bb88f161@f9941": {
+    "url": "db://assets/Game/textures/shop/item1.png@f9941",
+    "value": {
+      "depends": [
+        "6b1c93db-2320-4f9c-a3ee-3a67bb88f161@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f8eef53e-99c2-4b3e-8e67-6cf504c7b20d": {
+    "url": "db://assets/Game/textures/shop/shop_title_bg.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "2ccbf417-2d62-4a1d-9107-630f5badbcb6@f9941": {
+    "url": "db://assets/Game/textures/shop/item2.png@f9941",
+    "value": {
+      "depends": [
+        "2ccbf417-2d62-4a1d-9107-630f5badbcb6@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4f4e03f1-31f0-4f93-8540-c0c3cbb318c5@f9941": {
+    "url": "db://assets/Game/textures/shop/item3.png@f9941",
+    "value": {
+      "depends": [
+        "4f4e03f1-31f0-4f93-8540-c0c3cbb318c5@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0e1b01d2-0269-4286-9541-428fd9bc47bf": {
+    "url": "db://assets/Game/textures/shop/text_be_vip.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "b7a9ebc1-96f6-49c9-82e3-17ab2be15805": {
+    "url": "db://assets/Game/textures/shop/text_buchongjingli.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "84122a76-903d-4578-824a-28ac0cd2460a@f9941": {
+    "url": "db://assets/Game/textures/shop/shop_chain.png@f9941",
+    "value": {
+      "depends": [
+        "84122a76-903d-4578-824a-28ac0cd2460a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d50ae28a-62c0-447a-8e0e-cd49842acfe5": {
+    "url": "db://assets/Game/textures/shop/text_buchongtili.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f31071bd-281a-414f-b843-ccd5796f7ebb@6c48a": {
+    "url": "db://assets/Game/textures/shop/shop_figure.png@6c48a",
+    "value": {
+      "depends": [
+        "f31071bd-281a-414f-b843-ccd5796f7ebb"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f8eef53e-99c2-4b3e-8e67-6cf504c7b20d@6c48a": {
+    "url": "db://assets/Game/textures/shop/shop_title_bg.png@6c48a",
+    "value": {
+      "depends": [
+        "f8eef53e-99c2-4b3e-8e67-6cf504c7b20d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0e1b01d2-0269-4286-9541-428fd9bc47bf@6c48a": {
+    "url": "db://assets/Game/textures/shop/text_be_vip.png@6c48a",
+    "value": {
+      "depends": [
+        "0e1b01d2-0269-4286-9541-428fd9bc47bf"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b7a9ebc1-96f6-49c9-82e3-17ab2be15805@6c48a": {
+    "url": "db://assets/Game/textures/shop/text_buchongjingli.png@6c48a",
+    "value": {
+      "depends": [
+        "b7a9ebc1-96f6-49c9-82e3-17ab2be15805"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d50ae28a-62c0-447a-8e0e-cd49842acfe5@6c48a": {
+    "url": "db://assets/Game/textures/shop/text_buchongtili.png@6c48a",
+    "value": {
+      "depends": [
+        "d50ae28a-62c0-447a-8e0e-cd49842acfe5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f8eef53e-99c2-4b3e-8e67-6cf504c7b20d@f9941": {
+    "url": "db://assets/Game/textures/shop/shop_title_bg.png@f9941",
+    "value": {
+      "depends": [
+        "f8eef53e-99c2-4b3e-8e67-6cf504c7b20d@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "36b83f6d-2106-4b6a-b37b-484ca0552e94": {
+    "url": "db://assets/Game/textures/shop/text_buy1.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "0e1b01d2-0269-4286-9541-428fd9bc47bf@f9941": {
+    "url": "db://assets/Game/textures/shop/text_be_vip.png@f9941",
+    "value": {
+      "depends": [
+        "0e1b01d2-0269-4286-9541-428fd9bc47bf@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4364c054-c8ff-4413-96a1-89f6cf362a6a": {
+    "url": "db://assets/Game/textures/shop/text_buy10.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f31071bd-281a-414f-b843-ccd5796f7ebb@f9941": {
+    "url": "db://assets/Game/textures/shop/shop_figure.png@f9941",
+    "value": {
+      "depends": [
+        "f31071bd-281a-414f-b843-ccd5796f7ebb@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0e46df5d-a9ba-476d-95c6-d5dca8c6843f": {
+    "url": "db://assets/Game/textures/shop/text_chongzhi.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "b7a9ebc1-96f6-49c9-82e3-17ab2be15805@f9941": {
+    "url": "db://assets/Game/textures/shop/text_buchongjingli.png@f9941",
+    "value": {
+      "depends": [
+        "b7a9ebc1-96f6-49c9-82e3-17ab2be15805@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "116b799f-09ea-47ad-964a-013f0b472788": {
+    "url": "db://assets/Game/textures/shop/text_diamond_gift.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "d50ae28a-62c0-447a-8e0e-cd49842acfe5@f9941": {
+    "url": "db://assets/Game/textures/shop/text_buchongtili.png@f9941",
+    "value": {
+      "depends": [
+        "d50ae28a-62c0-447a-8e0e-cd49842acfe5@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4e7d173c-116d-4741-a892-eaed6ee48548": {
+    "url": "db://assets/Game/textures/shop/text_duihuan.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "36b83f6d-2106-4b6a-b37b-484ca0552e94@6c48a": {
+    "url": "db://assets/Game/textures/shop/text_buy1.png@6c48a",
+    "value": {
+      "depends": [
+        "36b83f6d-2106-4b6a-b37b-484ca0552e94"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4364c054-c8ff-4413-96a1-89f6cf362a6a@6c48a": {
+    "url": "db://assets/Game/textures/shop/text_buy10.png@6c48a",
+    "value": {
+      "depends": [
+        "4364c054-c8ff-4413-96a1-89f6cf362a6a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0e46df5d-a9ba-476d-95c6-d5dca8c6843f@6c48a": {
+    "url": "db://assets/Game/textures/shop/text_chongzhi.png@6c48a",
+    "value": {
+      "depends": [
+        "0e46df5d-a9ba-476d-95c6-d5dca8c6843f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "116b799f-09ea-47ad-964a-013f0b472788@6c48a": {
+    "url": "db://assets/Game/textures/shop/text_diamond_gift.png@6c48a",
+    "value": {
+      "depends": [
+        "116b799f-09ea-47ad-964a-013f0b472788"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4e7d173c-116d-4741-a892-eaed6ee48548@6c48a": {
+    "url": "db://assets/Game/textures/shop/text_duihuan.png@6c48a",
+    "value": {
+      "depends": [
+        "4e7d173c-116d-4741-a892-eaed6ee48548"
+      ]
+    },
+    "versionCode": 1
+  },
+  "36b83f6d-2106-4b6a-b37b-484ca0552e94@f9941": {
+    "url": "db://assets/Game/textures/shop/text_buy1.png@f9941",
+    "value": {
+      "depends": [
+        "36b83f6d-2106-4b6a-b37b-484ca0552e94@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d8e39ac8-7374-4f62-b2f3-82dab255da8a": {
+    "url": "db://assets/Game/textures/shop/text_goumai.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "4364c054-c8ff-4413-96a1-89f6cf362a6a@f9941": {
+    "url": "db://assets/Game/textures/shop/text_buy10.png@f9941",
+    "value": {
+      "depends": [
+        "4364c054-c8ff-4413-96a1-89f6cf362a6a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7acfc981-61e9-41e0-92bd-0248c87ea4ba": {
+    "url": "db://assets/Game/textures/shop/text_kuochong.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "0e46df5d-a9ba-476d-95c6-d5dca8c6843f@f9941": {
+    "url": "db://assets/Game/textures/shop/text_chongzhi.png@f9941",
+    "value": {
+      "depends": [
+        "0e46df5d-a9ba-476d-95c6-d5dca8c6843f@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1ceb471e-0076-4b9f-a0ea-6e9a307e3e9b": {
+    "url": "db://assets/Game/textures/shop/text_sm_chongzhi.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "116b799f-09ea-47ad-964a-013f0b472788@f9941": {
+    "url": "db://assets/Game/textures/shop/text_diamond_gift.png@f9941",
+    "value": {
+      "depends": [
+        "116b799f-09ea-47ad-964a-013f0b472788@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4e7d173c-116d-4741-a892-eaed6ee48548@f9941": {
+    "url": "db://assets/Game/textures/shop/text_duihuan.png@f9941",
+    "value": {
+      "depends": [
+        "4e7d173c-116d-4741-a892-eaed6ee48548@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0a4620d3-49a1-45a2-b35e-5b0626c8ccc9": {
+    "url": "db://assets/Game/textures/shop/text_sm_goumai.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "ddac677f-8ca7-461f-afd9-21ee8a31eb60": {
+    "url": "db://assets/Game/textures/shop/text_subscribe.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "d8e39ac8-7374-4f62-b2f3-82dab255da8a@6c48a": {
+    "url": "db://assets/Game/textures/shop/text_goumai.png@6c48a",
+    "value": {
+      "depends": [
+        "d8e39ac8-7374-4f62-b2f3-82dab255da8a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7acfc981-61e9-41e0-92bd-0248c87ea4ba@6c48a": {
+    "url": "db://assets/Game/textures/shop/text_kuochong.png@6c48a",
+    "value": {
+      "depends": [
+        "7acfc981-61e9-41e0-92bd-0248c87ea4ba"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1ceb471e-0076-4b9f-a0ea-6e9a307e3e9b@6c48a": {
+    "url": "db://assets/Game/textures/shop/text_sm_chongzhi.png@6c48a",
+    "value": {
+      "depends": [
+        "1ceb471e-0076-4b9f-a0ea-6e9a307e3e9b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ddac677f-8ca7-461f-afd9-21ee8a31eb60@6c48a": {
+    "url": "db://assets/Game/textures/shop/text_subscribe.png@6c48a",
+    "value": {
+      "depends": [
+        "ddac677f-8ca7-461f-afd9-21ee8a31eb60"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0a4620d3-49a1-45a2-b35e-5b0626c8ccc9@6c48a": {
+    "url": "db://assets/Game/textures/shop/text_sm_goumai.png@6c48a",
+    "value": {
+      "depends": [
+        "0a4620d3-49a1-45a2-b35e-5b0626c8ccc9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d8e39ac8-7374-4f62-b2f3-82dab255da8a@f9941": {
+    "url": "db://assets/Game/textures/shop/text_goumai.png@f9941",
+    "value": {
+      "depends": [
+        "d8e39ac8-7374-4f62-b2f3-82dab255da8a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8a6c7d28-8c40-40ae-a676-63387f2e837c": {
+    "url": "db://assets/Game/textures/shop/text_title_chongzhi.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "7acfc981-61e9-41e0-92bd-0248c87ea4ba@f9941": {
+    "url": "db://assets/Game/textures/shop/text_kuochong.png@f9941",
+    "value": {
+      "depends": [
+        "7acfc981-61e9-41e0-92bd-0248c87ea4ba@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "05c5cd61-47b9-4736-825d-4a3e96c8bf0e": {
+    "url": "db://assets/Game/textures/shop/text_title_goumai.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "1ceb471e-0076-4b9f-a0ea-6e9a307e3e9b@f9941": {
+    "url": "db://assets/Game/textures/shop/text_sm_chongzhi.png@f9941",
+    "value": {
+      "depends": [
+        "1ceb471e-0076-4b9f-a0ea-6e9a307e3e9b@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "21da35a1-af78-44c6-936a-71939fc44177": {
+    "url": "db://assets/Game/textures/shop/title_vip.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "0a4620d3-49a1-45a2-b35e-5b0626c8ccc9@f9941": {
+    "url": "db://assets/Game/textures/shop/text_sm_goumai.png@f9941",
+    "value": {
+      "depends": [
+        "0a4620d3-49a1-45a2-b35e-5b0626c8ccc9@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ddac677f-8ca7-461f-afd9-21ee8a31eb60@f9941": {
+    "url": "db://assets/Game/textures/shop/text_subscribe.png@f9941",
+    "value": {
+      "depends": [
+        "ddac677f-8ca7-461f-afd9-21ee8a31eb60@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "79517e2c-8be9-43b2-b827-a7627668fd3e": {
+    "url": "db://assets/Game/textures/shop/v_progressbar_bar.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f24eda59-2fbc-4049-8fcb-b8760e722567": {
+    "url": "db://assets/Game/textures/shop/v_progressbar_frame.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "8a6c7d28-8c40-40ae-a676-63387f2e837c@6c48a": {
+    "url": "db://assets/Game/textures/shop/text_title_chongzhi.png@6c48a",
+    "value": {
+      "depends": [
+        "8a6c7d28-8c40-40ae-a676-63387f2e837c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "05c5cd61-47b9-4736-825d-4a3e96c8bf0e@6c48a": {
+    "url": "db://assets/Game/textures/shop/text_title_goumai.png@6c48a",
+    "value": {
+      "depends": [
+        "05c5cd61-47b9-4736-825d-4a3e96c8bf0e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "21da35a1-af78-44c6-936a-71939fc44177@6c48a": {
+    "url": "db://assets/Game/textures/shop/title_vip.png@6c48a",
+    "value": {
+      "depends": [
+        "21da35a1-af78-44c6-936a-71939fc44177"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f24eda59-2fbc-4049-8fcb-b8760e722567@6c48a": {
+    "url": "db://assets/Game/textures/shop/v_progressbar_frame.png@6c48a",
+    "value": {
+      "depends": [
+        "f24eda59-2fbc-4049-8fcb-b8760e722567"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8a6c7d28-8c40-40ae-a676-63387f2e837c@f9941": {
+    "url": "db://assets/Game/textures/shop/text_title_chongzhi.png@f9941",
+    "value": {
+      "depends": [
+        "8a6c7d28-8c40-40ae-a676-63387f2e837c@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ef1ece82-46e5-43f3-b7ae-f8ca066eb041": {
+    "url": "db://assets/Game/textures/testlist/exitLeft.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "79517e2c-8be9-43b2-b827-a7627668fd3e@6c48a": {
+    "url": "db://assets/Game/textures/shop/v_progressbar_bar.png@6c48a",
+    "value": {
+      "depends": [
+        "79517e2c-8be9-43b2-b827-a7627668fd3e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "05c5cd61-47b9-4736-825d-4a3e96c8bf0e@f9941": {
+    "url": "db://assets/Game/textures/shop/text_title_goumai.png@f9941",
+    "value": {
+      "depends": [
+        "05c5cd61-47b9-4736-825d-4a3e96c8bf0e@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0d68e115-799b-4fc4-a809-d2db26efa613": {
+    "url": "db://assets/Game/textures/testlist/left.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "21da35a1-af78-44c6-936a-71939fc44177@f9941": {
+    "url": "db://assets/Game/textures/shop/title_vip.png@f9941",
+    "value": {
+      "depends": [
+        "21da35a1-af78-44c6-936a-71939fc44177@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "18abe283-bda0-4c34-820a-eacb447b8d55": {
+    "url": "db://assets/Game/textures/testlist/panelBG.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f24eda59-2fbc-4049-8fcb-b8760e722567@f9941": {
+    "url": "db://assets/Game/textures/shop/v_progressbar_frame.png@f9941",
+    "value": {
+      "depends": [
+        "f24eda59-2fbc-4049-8fcb-b8760e722567@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "aa2f4b86-f9f6-4434-94ff-10165c4e9780": {
+    "url": "db://assets/Game/textures/testlist/right.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "79517e2c-8be9-43b2-b827-a7627668fd3e@f9941": {
+    "url": "db://assets/Game/textures/shop/v_progressbar_bar.png@f9941",
+    "value": {
+      "depends": [
+        "79517e2c-8be9-43b2-b827-a7627668fd3e@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "93e99691-afa5-4a9c-89e8-79c0a7cd0af5": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/ic_yuji.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "ef1ece82-46e5-43f3-b7ae-f8ca066eb041@6c48a": {
+    "url": "db://assets/Game/textures/testlist/exitLeft.png@6c48a",
+    "value": {
+      "depends": [
+        "ef1ece82-46e5-43f3-b7ae-f8ca066eb041"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0d68e115-799b-4fc4-a809-d2db26efa613@6c48a": {
+    "url": "db://assets/Game/textures/testlist/left.png@6c48a",
+    "value": {
+      "depends": [
+        "0d68e115-799b-4fc4-a809-d2db26efa613"
+      ]
+    },
+    "versionCode": 1
+  },
+  "18abe283-bda0-4c34-820a-eacb447b8d55@6c48a": {
+    "url": "db://assets/Game/textures/testlist/panelBG.png@6c48a",
+    "value": {
+      "depends": [
+        "18abe283-bda0-4c34-820a-eacb447b8d55"
+      ]
+    },
+    "versionCode": 1
+  },
+  "aa2f4b86-f9f6-4434-94ff-10165c4e9780@6c48a": {
+    "url": "db://assets/Game/textures/testlist/right.png@6c48a",
+    "value": {
+      "depends": [
+        "aa2f4b86-f9f6-4434-94ff-10165c4e9780"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ef1ece82-46e5-43f3-b7ae-f8ca066eb041@f9941": {
+    "url": "db://assets/Game/textures/testlist/exitLeft.png@f9941",
+    "value": {
+      "depends": [
+        "ef1ece82-46e5-43f3-b7ae-f8ca066eb041@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a6928338-f5c6-4737-b6bd-0e71616b5c77": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/17.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "93e99691-afa5-4a9c-89e8-79c0a7cd0af5@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/ic_yuji.png@6c48a",
+    "value": {
+      "depends": [
+        "93e99691-afa5-4a9c-89e8-79c0a7cd0af5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0d68e115-799b-4fc4-a809-d2db26efa613@f9941": {
+    "url": "db://assets/Game/textures/testlist/left.png@f9941",
+    "value": {
+      "depends": [
+        "0d68e115-799b-4fc4-a809-d2db26efa613@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8505a290-2050-4292-bde0-c64037765e21": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/18.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "18abe283-bda0-4c34-820a-eacb447b8d55@f9941": {
+    "url": "db://assets/Game/textures/testlist/panelBG.png@f9941",
+    "value": {
+      "depends": [
+        "18abe283-bda0-4c34-820a-eacb447b8d55@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0deb361c-04fb-42ec-bbb9-de65ccb66cba": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/19.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "aa2f4b86-f9f6-4434-94ff-10165c4e9780@f9941": {
+    "url": "db://assets/Game/textures/testlist/right.png@f9941",
+    "value": {
+      "depends": [
+        "aa2f4b86-f9f6-4434-94ff-10165c4e9780@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "29226ebe-ef79-4d1a-8c86-fa2af419bada": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/20.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "93e99691-afa5-4a9c-89e8-79c0a7cd0af5@f9941": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/ic_yuji.png@f9941",
+    "value": {
+      "depends": [
+        "93e99691-afa5-4a9c-89e8-79c0a7cd0af5@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d630bee3-6a76-400b-864d-0832423ab0b2": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/21.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "a6928338-f5c6-4737-b6bd-0e71616b5c77@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/17.png@6c48a",
+    "value": {
+      "depends": [
+        "a6928338-f5c6-4737-b6bd-0e71616b5c77"
+      ]
+    },
+    "versionCode": 1
+  },
+  "853063f5-6ad7-42b3-9815-fe251cef94f8": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/22.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "8505a290-2050-4292-bde0-c64037765e21@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/18.png@6c48a",
+    "value": {
+      "depends": [
+        "8505a290-2050-4292-bde0-c64037765e21"
+      ]
+    },
+    "versionCode": 1
+  },
+  "cede0b52-5fc9-4d87-a685-0813aea29c82": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/23.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "0deb361c-04fb-42ec-bbb9-de65ccb66cba@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/19.png@6c48a",
+    "value": {
+      "depends": [
+        "0deb361c-04fb-42ec-bbb9-de65ccb66cba"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c2e444cc-564f-4681-916b-861afac01c2d": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/24.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "29226ebe-ef79-4d1a-8c86-fa2af419bada@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/20.png@6c48a",
+    "value": {
+      "depends": [
+        "29226ebe-ef79-4d1a-8c86-fa2af419bada"
+      ]
+    },
+    "versionCode": 1
+  },
+  "13035411-a75f-4176-bb2d-323628f31616": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/25.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "d630bee3-6a76-400b-864d-0832423ab0b2@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/21.png@6c48a",
+    "value": {
+      "depends": [
+        "d630bee3-6a76-400b-864d-0832423ab0b2"
+      ]
+    },
+    "versionCode": 1
+  },
+  "eb545d90-8d8d-497c-bc8e-95e9f59a253e": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/26.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "853063f5-6ad7-42b3-9815-fe251cef94f8@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/22.png@6c48a",
+    "value": {
+      "depends": [
+        "853063f5-6ad7-42b3-9815-fe251cef94f8"
+      ]
+    },
+    "versionCode": 1
+  },
+  "01af2912-d2ae-4714-9a36-a1f50882e096": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/27.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "cede0b52-5fc9-4d87-a685-0813aea29c82@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/23.png@6c48a",
+    "value": {
+      "depends": [
+        "cede0b52-5fc9-4d87-a685-0813aea29c82"
+      ]
+    },
+    "versionCode": 1
+  },
+  "39f4d357-ba84-4c98-8e9a-11839d5a2b21": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/28.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "c2e444cc-564f-4681-916b-861afac01c2d@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/24.png@6c48a",
+    "value": {
+      "depends": [
+        "c2e444cc-564f-4681-916b-861afac01c2d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4cd18926-49cb-4e0d-81e7-be8115c27db7": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/29.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "13035411-a75f-4176-bb2d-323628f31616@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/25.png@6c48a",
+    "value": {
+      "depends": [
+        "13035411-a75f-4176-bb2d-323628f31616"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ecec6729-475a-4d26-857c-9a5eba2fd4cc": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/30.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "eb545d90-8d8d-497c-bc8e-95e9f59a253e@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/26.png@6c48a",
+    "value": {
+      "depends": [
+        "eb545d90-8d8d-497c-bc8e-95e9f59a253e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ac791e15-78c2-4e7f-9a87-73a61dc66b1a": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/31.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "01af2912-d2ae-4714-9a36-a1f50882e096@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/27.png@6c48a",
+    "value": {
+      "depends": [
+        "01af2912-d2ae-4714-9a36-a1f50882e096"
+      ]
+    },
+    "versionCode": 1
+  },
+  "39f4d357-ba84-4c98-8e9a-11839d5a2b21@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/28.png@6c48a",
+    "value": {
+      "depends": [
+        "39f4d357-ba84-4c98-8e9a-11839d5a2b21"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4cd18926-49cb-4e0d-81e7-be8115c27db7@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/29.png@6c48a",
+    "value": {
+      "depends": [
+        "4cd18926-49cb-4e0d-81e7-be8115c27db7"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ecec6729-475a-4d26-857c-9a5eba2fd4cc@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/30.png@6c48a",
+    "value": {
+      "depends": [
+        "ecec6729-475a-4d26-857c-9a5eba2fd4cc"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ac791e15-78c2-4e7f-9a87-73a61dc66b1a@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/monster/31.png@6c48a",
+    "value": {
+      "depends": [
+        "ac791e15-78c2-4e7f-9a87-73a61dc66b1a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6dbfd9f5-b5ed-4026-b8bb-23330fd09095": {
+    "url": "db://assets/Game/textures/portrait/indi",
+    "value": {},
+    "versionCode": 1
+  },
+  "507dd030-cdb3-46e1-8555-01993a637942": {
+    "url": "db://assets/Game/textures/portrait/init",
+    "value": {},
+    "versionCode": 1
+  },
+  "c32ff1b1-59bc-4384-b26b-de27019ce6f9": {
+    "url": "db://assets/Game/textures/portrait/indi/monster",
+    "value": {},
+    "versionCode": 1
+  },
+  "abcc3f3b-2596-4cf2-a1d8-9429bbbe4e98": {
+    "url": "db://assets/Game/textures/portrait/qin/boss",
+    "value": {},
+    "versionCode": 1
+  },
+  "05c9cb4f-0d9b-4a0f-ba59-604fc1c4a55f": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead",
+    "value": {},
+    "versionCode": 1
+  },
+  "2c8316d0-05c5-4d7f-8be9-75caa6346a1f": {
+    "url": "db://assets/Game/textures/portrait/init/ic_hilf.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "8c7b3fb3-1f8a-4647-a85c-84c592b4720a": {
+    "url": "db://assets/Game/textures/portrait/init/ic_norm.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "026453df-ae8a-49aa-88f9-4efa42416e10": {
+    "url": "db://assets/Game/textures/portrait/init/ic_salamander.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f9702168-f18a-43c8-93cc-8f4babe6a9c8": {
+    "url": "db://assets/Game/textures/portrait/init/ic_shilf.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "893f6783-50a1-46d7-a74d-dafc7e24f27c": {
+    "url": "db://assets/Game/textures/portrait/init/ic_snrom.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f9702168-f18a-43c8-93cc-8f4babe6a9c8@6c48a": {
+    "url": "db://assets/Game/textures/portrait/init/ic_shilf.png@6c48a",
+    "value": {
+      "depends": [
+        "f9702168-f18a-43c8-93cc-8f4babe6a9c8"
+      ]
+    },
+    "versionCode": 1
+  },
+  "026453df-ae8a-49aa-88f9-4efa42416e10@6c48a": {
+    "url": "db://assets/Game/textures/portrait/init/ic_salamander.png@6c48a",
+    "value": {
+      "depends": [
+        "026453df-ae8a-49aa-88f9-4efa42416e10"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8c7b3fb3-1f8a-4647-a85c-84c592b4720a@6c48a": {
+    "url": "db://assets/Game/textures/portrait/init/ic_norm.png@6c48a",
+    "value": {
+      "depends": [
+        "8c7b3fb3-1f8a-4647-a85c-84c592b4720a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2c8316d0-05c5-4d7f-8be9-75caa6346a1f@6c48a": {
+    "url": "db://assets/Game/textures/portrait/init/ic_hilf.png@6c48a",
+    "value": {
+      "depends": [
+        "2c8316d0-05c5-4d7f-8be9-75caa6346a1f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "893f6783-50a1-46d7-a74d-dafc7e24f27c@6c48a": {
+    "url": "db://assets/Game/textures/portrait/init/ic_snrom.png@6c48a",
+    "value": {
+      "depends": [
+        "893f6783-50a1-46d7-a74d-dafc7e24f27c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "026453df-ae8a-49aa-88f9-4efa42416e10@f9941": {
+    "url": "db://assets/Game/textures/portrait/init/ic_salamander.png@f9941",
+    "value": {
+      "depends": [
+        "026453df-ae8a-49aa-88f9-4efa42416e10@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f9702168-f18a-43c8-93cc-8f4babe6a9c8@f9941": {
+    "url": "db://assets/Game/textures/portrait/init/ic_shilf.png@f9941",
+    "value": {
+      "depends": [
+        "f9702168-f18a-43c8-93cc-8f4babe6a9c8@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7c038c21-7242-48d4-b962-aa8b5cb384b9": {
+    "url": "db://assets/Game/textures/portrait/init/ic_ssalamander.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "6c8824f5-7919-4160-96cf-df00e4925f74": {
+    "url": "db://assets/Game/textures/portrait/init/ic_sundine.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "8c7b3fb3-1f8a-4647-a85c-84c592b4720a@f9941": {
+    "url": "db://assets/Game/textures/portrait/init/ic_norm.png@f9941",
+    "value": {
+      "depends": [
+        "8c7b3fb3-1f8a-4647-a85c-84c592b4720a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9df40ffb-41f7-451a-a583-58a1275a176b": {
+    "url": "db://assets/Game/textures/portrait/init/ic_undine.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "2c8316d0-05c5-4d7f-8be9-75caa6346a1f@f9941": {
+    "url": "db://assets/Game/textures/portrait/init/ic_hilf.png@f9941",
+    "value": {
+      "depends": [
+        "2c8316d0-05c5-4d7f-8be9-75caa6346a1f@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e6e4f4d0-edad-4eaa-9427-208b91c3b9b6": {
+    "url": "db://assets/Game/textures/portrait/qin/boss/ic_chterminator.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "893f6783-50a1-46d7-a74d-dafc7e24f27c@f9941": {
+    "url": "db://assets/Game/textures/portrait/init/ic_snrom.png@f9941",
+    "value": {
+      "depends": [
+        "893f6783-50a1-46d7-a74d-dafc7e24f27c@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a8dcc43f-396f-4d30-9a2a-4115287245f5": {
+    "url": "db://assets/Game/textures/portrait/qin/boss/ic_ninetales.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "6c8824f5-7919-4160-96cf-df00e4925f74@6c48a": {
+    "url": "db://assets/Game/textures/portrait/init/ic_sundine.png@6c48a",
+    "value": {
+      "depends": [
+        "6c8824f5-7919-4160-96cf-df00e4925f74"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7c038c21-7242-48d4-b962-aa8b5cb384b9@6c48a": {
+    "url": "db://assets/Game/textures/portrait/init/ic_ssalamander.png@6c48a",
+    "value": {
+      "depends": [
+        "7c038c21-7242-48d4-b962-aa8b5cb384b9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9df40ffb-41f7-451a-a583-58a1275a176b@6c48a": {
+    "url": "db://assets/Game/textures/portrait/init/ic_undine.png@6c48a",
+    "value": {
+      "depends": [
+        "9df40ffb-41f7-451a-a583-58a1275a176b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e6e4f4d0-edad-4eaa-9427-208b91c3b9b6@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/boss/ic_chterminator.png@6c48a",
+    "value": {
+      "depends": [
+        "e6e4f4d0-edad-4eaa-9427-208b91c3b9b6"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a8dcc43f-396f-4d30-9a2a-4115287245f5@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/boss/ic_ninetales.png@6c48a",
+    "value": {
+      "depends": [
+        "a8dcc43f-396f-4d30-9a2a-4115287245f5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "946a7e47-1937-4e6f-a0e5-8f3d743327ac": {
+    "url": "db://assets/Game/textures/portrait/qin/boss/ic_schterminator.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f8dbb1b3-bed5-4acb-8307-fb94ce08d0dd": {
+    "url": "db://assets/Game/textures/portrait/qin/boss/ic_sninetales.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "6c8824f5-7919-4160-96cf-df00e4925f74@f9941": {
+    "url": "db://assets/Game/textures/portrait/init/ic_sundine.png@f9941",
+    "value": {
+      "depends": [
+        "6c8824f5-7919-4160-96cf-df00e4925f74@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "125386c6-cc44-4610-8826-92bf97743a41": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/4.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "7c038c21-7242-48d4-b962-aa8b5cb384b9@f9941": {
+    "url": "db://assets/Game/textures/portrait/init/ic_ssalamander.png@f9941",
+    "value": {
+      "depends": [
+        "7c038c21-7242-48d4-b962-aa8b5cb384b9@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9df40ffb-41f7-451a-a583-58a1275a176b@f9941": {
+    "url": "db://assets/Game/textures/portrait/init/ic_undine.png@f9941",
+    "value": {
+      "depends": [
+        "9df40ffb-41f7-451a-a583-58a1275a176b@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "abd7a017-e7e6-42f8-a71e-fb8e80ea4556": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/5.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "a63ffc16-5eff-44e0-b5c1-0a600ab9ed3d": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/6.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f8dbb1b3-bed5-4acb-8307-fb94ce08d0dd@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/boss/ic_sninetales.png@6c48a",
+    "value": {
+      "depends": [
+        "f8dbb1b3-bed5-4acb-8307-fb94ce08d0dd"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3bf24284-94f2-45f1-9847-c87bef4b5922": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/ic_jingke.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "946a7e47-1937-4e6f-a0e5-8f3d743327ac@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/boss/ic_schterminator.png@6c48a",
+    "value": {
+      "depends": [
+        "946a7e47-1937-4e6f-a0e5-8f3d743327ac"
+      ]
+    },
+    "versionCode": 1
+  },
+  "125386c6-cc44-4610-8826-92bf97743a41@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/4.png@6c48a",
+    "value": {
+      "depends": [
+        "125386c6-cc44-4610-8826-92bf97743a41"
+      ]
+    },
+    "versionCode": 1
+  },
+  "46bd4c3a-8b2c-4bde-88df-a3e1286224c3": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/ic_xiangyu.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "abd7a017-e7e6-42f8-a71e-fb8e80ea4556@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/5.png@6c48a",
+    "value": {
+      "depends": [
+        "abd7a017-e7e6-42f8-a71e-fb8e80ea4556"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a63ffc16-5eff-44e0-b5c1-0a600ab9ed3d@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/6.png@6c48a",
+    "value": {
+      "depends": [
+        "a63ffc16-5eff-44e0-b5c1-0a600ab9ed3d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "125386c6-cc44-4610-8826-92bf97743a41@f9941": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/4.png@f9941",
+    "value": {
+      "depends": [
+        "125386c6-cc44-4610-8826-92bf97743a41@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a4408bef-a3fa-4925-91a1-050b9b477124": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/ic_yingzheng.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "abd7a017-e7e6-42f8-a71e-fb8e80ea4556@f9941": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/5.png@f9941",
+    "value": {
+      "depends": [
+        "abd7a017-e7e6-42f8-a71e-fb8e80ea4556@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a63ffc16-5eff-44e0-b5c1-0a600ab9ed3d@f9941": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/6.png@f9941",
+    "value": {
+      "depends": [
+        "a63ffc16-5eff-44e0-b5c1-0a600ab9ed3d@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "951e6a60-63d5-456f-9b46-ac6332b896fa": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/murloc_gray.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "7ad4dfcb-f12d-42d8-b5df-726727ab9eda": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/murloc_green.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "3bf24284-94f2-45f1-9847-c87bef4b5922@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/ic_jingke.png@6c48a",
+    "value": {
+      "depends": [
+        "3bf24284-94f2-45f1-9847-c87bef4b5922"
+      ]
+    },
+    "versionCode": 1
+  },
+  "46bd4c3a-8b2c-4bde-88df-a3e1286224c3@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/ic_xiangyu.png@6c48a",
+    "value": {
+      "depends": [
+        "46bd4c3a-8b2c-4bde-88df-a3e1286224c3"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a4408bef-a3fa-4925-91a1-050b9b477124@6c48a": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/ic_yingzheng.png@6c48a",
+    "value": {
+      "depends": [
+        "a4408bef-a3fa-4925-91a1-050b9b477124"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3bf24284-94f2-45f1-9847-c87bef4b5922@f9941": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/ic_jingke.png@f9941",
+    "value": {
+      "depends": [
+        "3bf24284-94f2-45f1-9847-c87bef4b5922@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "30a15940-3c7d-4338-8978-3e5ed6c62782": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/murloc_red.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "46bd4c3a-8b2c-4bde-88df-a3e1286224c3@f9941": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/ic_xiangyu.png@f9941",
+    "value": {
+      "depends": [
+        "46bd4c3a-8b2c-4bde-88df-a3e1286224c3@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c431afb0-8e19-40e9-9177-9b4ea38eb468": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/murloc_sred.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "951e6a60-63d5-456f-9b46-ac6332b896fa@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/murloc_gray.png@6c48a",
+    "value": {
+      "depends": [
+        "951e6a60-63d5-456f-9b46-ac6332b896fa"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a4408bef-a3fa-4925-91a1-050b9b477124@f9941": {
+    "url": "db://assets/Game/textures/portrait/qin/hero/ic_yingzheng.png@f9941",
+    "value": {
+      "depends": [
+        "a4408bef-a3fa-4925-91a1-050b9b477124@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2974f84a-4705-4e23-a65b-04fb10fa72fd": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/murloc_white.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "c9240ed6-ad6b-4909-b58e-c292fa94d81d": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/scannonturtle.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "7ad4dfcb-f12d-42d8-b5df-726727ab9eda@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/murloc_green.png@6c48a",
+    "value": {
+      "depends": [
+        "7ad4dfcb-f12d-42d8-b5df-726727ab9eda"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fdce928c-b25b-4482-8530-c45587043696": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/snakeman.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "30a15940-3c7d-4338-8978-3e5ed6c62782@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/murloc_red.png@6c48a",
+    "value": {
+      "depends": [
+        "30a15940-3c7d-4338-8978-3e5ed6c62782"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0a0b300b-247b-46f6-bec7-0797a42cea12": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/snakeman_blue.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "c9240ed6-ad6b-4909-b58e-c292fa94d81d@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/scannonturtle.png@6c48a",
+    "value": {
+      "depends": [
+        "c9240ed6-ad6b-4909-b58e-c292fa94d81d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "15001946-ccf1-42f9-b7ec-44a5748ffbdf": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/snakeman_red.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "c431afb0-8e19-40e9-9177-9b4ea38eb468@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/murloc_sred.png@6c48a",
+    "value": {
+      "depends": [
+        "c431afb0-8e19-40e9-9177-9b4ea38eb468"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2974f84a-4705-4e23-a65b-04fb10fa72fd@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/murloc_white.png@6c48a",
+    "value": {
+      "depends": [
+        "2974f84a-4705-4e23-a65b-04fb10fa72fd"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fdce928c-b25b-4482-8530-c45587043696@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/snakeman.png@6c48a",
+    "value": {
+      "depends": [
+        "fdce928c-b25b-4482-8530-c45587043696"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1c9c510d-6818-4d1c-b8da-80083c43d2ae": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/snakeman_yellow.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "e2e6cc66-3fd5-4b1c-9469-22327fd195de": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/sumpitaner_blue.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "5d98d06f-5244-4c28-957b-cb39a7a66662": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/sumpitaner_green.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "0a0b300b-247b-46f6-bec7-0797a42cea12@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/snakeman_blue.png@6c48a",
+    "value": {
+      "depends": [
+        "0a0b300b-247b-46f6-bec7-0797a42cea12"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3590ba3b-bf53-4ea0-b01a-92b16e210665": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/sumpitaner_red.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "15001946-ccf1-42f9-b7ec-44a5748ffbdf@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/snakeman_red.png@6c48a",
+    "value": {
+      "depends": [
+        "15001946-ccf1-42f9-b7ec-44a5748ffbdf"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1c9c510d-6818-4d1c-b8da-80083c43d2ae@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/snakeman_yellow.png@6c48a",
+    "value": {
+      "depends": [
+        "1c9c510d-6818-4d1c-b8da-80083c43d2ae"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2ca56e3d-e791-4f95-ab24-5837b1a6d200": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/sumpitaner_yellow.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "e2e6cc66-3fd5-4b1c-9469-22327fd195de@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/sumpitaner_blue.png@6c48a",
+    "value": {
+      "depends": [
+        "e2e6cc66-3fd5-4b1c-9469-22327fd195de"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5d98d06f-5244-4c28-957b-cb39a7a66662@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/sumpitaner_green.png@6c48a",
+    "value": {
+      "depends": [
+        "5d98d06f-5244-4c28-957b-cb39a7a66662"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3590ba3b-bf53-4ea0-b01a-92b16e210665@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/sumpitaner_red.png@6c48a",
+    "value": {
+      "depends": [
+        "3590ba3b-bf53-4ea0-b01a-92b16e210665"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2ca56e3d-e791-4f95-ab24-5837b1a6d200@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/sumpitaner_yellow.png@6c48a",
+    "value": {
+      "depends": [
+        "2ca56e3d-e791-4f95-ab24-5837b1a6d200"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e903df68-9208-4e40-97a6-7eab4414d035": {
+    "url": "db://assets/Game/textures/heroslot",
+    "value": {},
+    "versionCode": 1
+  },
+  "31ef9835-daf8-40a5-9738-7ec210989133": {
+    "url": "db://assets/Game/textures/home_btns",
+    "value": {},
+    "versionCode": 1
+  },
+  "73805c58-2264-4e5c-a77a-53b1bb5c20fd": {
+    "url": "db://assets/Game/textures/portrait/atlantis",
+    "value": {},
+    "versionCode": 1
+  },
+  "c6d71e8f-dc2c-40c2-b49f-ffb762f4fefe": {
+    "url": "db://assets/Game/textures/portrait/egypt",
+    "value": {},
+    "versionCode": 1
+  },
+  "b7db740e-3a9a-4626-bb5d-4e03b3f826ca": {
+    "url": "db://assets/Game/textures/portrait/atlantis/boss",
+    "value": {},
+    "versionCode": 1
+  },
+  "fcd3672a-4cff-42a5-80ed-0651c3132ea2": {
+    "url": "db://assets/Game/textures/portrait/atlantis/hero",
+    "value": {},
+    "versionCode": 1
+  },
+  "bf7d88b4-a637-4308-857a-d5db71fbbeb5": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster",
+    "value": {},
+    "versionCode": 1
+  },
+  "ff489048-48e0-4e93-b5a6-3ab8c1ae9e2d": {
+    "url": "db://assets/Game/textures/portrait/egypt/boss",
+    "value": {},
+    "versionCode": 1
+  },
+  "1e7fa01e-f327-4016-a05a-ed4ee92718be": {
+    "url": "db://assets/Game/textures/portrait/egypt/hero",
+    "value": {},
+    "versionCode": 1
+  },
+  "6cb6c237-271c-4347-a7e2-a19ba010daf8": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster",
+    "value": {},
+    "versionCode": 1
+  },
+  "fc9c4c14-57a5-49b2-bd19-33004a071139": {
+    "url": "db://assets/Game/textures/portrait/indi/boss",
+    "value": {},
+    "versionCode": 1
+  },
+  "83ff6eda-9bff-46ff-b596-6b796d304fb4": {
+    "url": "db://assets/Game/textures/portrait/indi/hero",
+    "value": {},
+    "versionCode": 1
+  },
+  "6fb4f547-6efb-400a-a665-8c2d2bb9f1dc": {
+    "url": "db://assets/Game/textures/background.jpg",
+    "value": {},
+    "versionCode": 1
+  },
+  "5c51ec09-a9fc-4747-a9f2-4f53b8e9d9fa": {
+    "url": "db://assets/Game/textures/background_png.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "528baa60-6d70-4e46-8cbb-bc0f97d1503e": {
+    "url": "db://assets/Game/textures/bg_gradient_mask.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "a5fd3939-7e4d-4e4f-8337-6247b2ba0c8e": {
+    "url": "db://assets/Game/textures/bg_main_btns.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "5b5e694f-4d15-4cf4-8f41-e0a1eb796811": {
+    "url": "db://assets/Game/textures/bg_status.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "6fb4f547-6efb-400a-a665-8c2d2bb9f1dc@6c48a": {
+    "url": "db://assets/Game/textures/background.jpg@6c48a",
+    "value": {
+      "depends": [
+        "6fb4f547-6efb-400a-a665-8c2d2bb9f1dc"
+      ]
+    },
+    "versionCode": 1
+  },
+  "528baa60-6d70-4e46-8cbb-bc0f97d1503e@6c48a": {
+    "url": "db://assets/Game/textures/bg_gradient_mask.png@6c48a",
+    "value": {
+      "depends": [
+        "528baa60-6d70-4e46-8cbb-bc0f97d1503e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a5fd3939-7e4d-4e4f-8337-6247b2ba0c8e@6c48a": {
+    "url": "db://assets/Game/textures/bg_main_btns.png@6c48a",
+    "value": {
+      "depends": [
+        "a5fd3939-7e4d-4e4f-8337-6247b2ba0c8e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5b5e694f-4d15-4cf4-8f41-e0a1eb796811@6c48a": {
+    "url": "db://assets/Game/textures/bg_status.png@6c48a",
+    "value": {
+      "depends": [
+        "5b5e694f-4d15-4cf4-8f41-e0a1eb796811"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5c51ec09-a9fc-4747-a9f2-4f53b8e9d9fa@6c48a": {
+    "url": "db://assets/Game/textures/background_png.png@6c48a",
+    "value": {
+      "depends": [
+        "5c51ec09-a9fc-4747-a9f2-4f53b8e9d9fa"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5b5e694f-4d15-4cf4-8f41-e0a1eb796811@f9941": {
+    "url": "db://assets/Game/textures/bg_status.png@f9941",
+    "value": {
+      "depends": [
+        "5b5e694f-4d15-4cf4-8f41-e0a1eb796811@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "547a382f-9b8e-45a9-94f2-c33f250f57e6": {
+    "url": "db://assets/Game/textures/bg_sub_btns.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "a5fd3939-7e4d-4e4f-8337-6247b2ba0c8e@f9941": {
+    "url": "db://assets/Game/textures/bg_main_btns.png@f9941",
+    "value": {
+      "depends": [
+        "a5fd3939-7e4d-4e4f-8337-6247b2ba0c8e@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "aaf86f01-d9ec-4b10-86c1-3fee512bbd9d": {
+    "url": "db://assets/Game/textures/bg_timer.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "528baa60-6d70-4e46-8cbb-bc0f97d1503e@f9941": {
+    "url": "db://assets/Game/textures/bg_gradient_mask.png@f9941",
+    "value": {
+      "depends": [
+        "528baa60-6d70-4e46-8cbb-bc0f97d1503e@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ba92c374-9f2e-408d-bce1-df83a88aa5ca": {
+    "url": "db://assets/Game/textures/btn_expand.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "547a382f-9b8e-45a9-94f2-c33f250f57e6@6c48a": {
+    "url": "db://assets/Game/textures/bg_sub_btns.png@6c48a",
+    "value": {
+      "depends": [
+        "547a382f-9b8e-45a9-94f2-c33f250f57e6"
+      ]
+    },
+    "versionCode": 1
+  },
+  "aaf86f01-d9ec-4b10-86c1-3fee512bbd9d@6c48a": {
+    "url": "db://assets/Game/textures/bg_timer.png@6c48a",
+    "value": {
+      "depends": [
+        "aaf86f01-d9ec-4b10-86c1-3fee512bbd9d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ba92c374-9f2e-408d-bce1-df83a88aa5ca@6c48a": {
+    "url": "db://assets/Game/textures/btn_expand.png@6c48a",
+    "value": {
+      "depends": [
+        "ba92c374-9f2e-408d-bce1-df83a88aa5ca"
+      ]
+    },
+    "versionCode": 1
+  },
+  "aaf86f01-d9ec-4b10-86c1-3fee512bbd9d@f9941": {
+    "url": "db://assets/Game/textures/bg_timer.png@f9941",
+    "value": {
+      "depends": [
+        "aaf86f01-d9ec-4b10-86c1-3fee512bbd9d@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1e795446-1dcb-413a-b7e3-c77c22949a17": {
+    "url": "db://assets/Game/textures/btn_expand_slot.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "547a382f-9b8e-45a9-94f2-c33f250f57e6@f9941": {
+    "url": "db://assets/Game/textures/bg_sub_btns.png@f9941",
+    "value": {
+      "depends": [
+        "547a382f-9b8e-45a9-94f2-c33f250f57e6@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b245a56a-a90e-4a1d-a23a-0356b7345dcf": {
+    "url": "db://assets/Game/textures/btn_fold.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "ba92c374-9f2e-408d-bce1-df83a88aa5ca@f9941": {
+    "url": "db://assets/Game/textures/btn_expand.png@f9941",
+    "value": {
+      "depends": [
+        "ba92c374-9f2e-408d-bce1-df83a88aa5ca@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e95c52db-f62e-4ecb-8fd7-5a50e4d9895a": {
+    "url": "db://assets/Game/textures/btn_message.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "6fb4f547-6efb-400a-a665-8c2d2bb9f1dc@f9941": {
+    "url": "db://assets/Game/textures/background.jpg@f9941",
+    "value": {
+      "depends": [
+        "6fb4f547-6efb-400a-a665-8c2d2bb9f1dc@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4718c593-5368-4fa1-bd87-99495e3742a2": {
+    "url": "db://assets/Game/textures/icon_diamond.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "b245a56a-a90e-4a1d-a23a-0356b7345dcf@6c48a": {
+    "url": "db://assets/Game/textures/btn_fold.png@6c48a",
+    "value": {
+      "depends": [
+        "b245a56a-a90e-4a1d-a23a-0356b7345dcf"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1e795446-1dcb-413a-b7e3-c77c22949a17@6c48a": {
+    "url": "db://assets/Game/textures/btn_expand_slot.png@6c48a",
+    "value": {
+      "depends": [
+        "1e795446-1dcb-413a-b7e3-c77c22949a17"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e95c52db-f62e-4ecb-8fd7-5a50e4d9895a@6c48a": {
+    "url": "db://assets/Game/textures/btn_message.png@6c48a",
+    "value": {
+      "depends": [
+        "e95c52db-f62e-4ecb-8fd7-5a50e4d9895a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b245a56a-a90e-4a1d-a23a-0356b7345dcf@f9941": {
+    "url": "db://assets/Game/textures/btn_fold.png@f9941",
+    "value": {
+      "depends": [
+        "b245a56a-a90e-4a1d-a23a-0356b7345dcf@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "182470bf-25b8-49f5-896b-08901193eb56": {
+    "url": "db://assets/Game/textures/icon_energy.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "5c51ec09-a9fc-4747-a9f2-4f53b8e9d9fa@f9941": {
+    "url": "db://assets/Game/textures/background_png.png@f9941",
+    "value": {
+      "depends": [
+        "5c51ec09-a9fc-4747-a9f2-4f53b8e9d9fa@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b1a60b57-c24d-416b-9a62-a0f8073d6db2": {
+    "url": "db://assets/Game/textures/icon_fight.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "1e795446-1dcb-413a-b7e3-c77c22949a17@f9941": {
+    "url": "db://assets/Game/textures/btn_expand_slot.png@f9941",
+    "value": {
+      "depends": [
+        "1e795446-1dcb-413a-b7e3-c77c22949a17@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "997adfc1-de9e-4182-b64e-e427c4cddb9f": {
+    "url": "db://assets/Game/textures/icon_gold.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "4718c593-5368-4fa1-bd87-99495e3742a2@6c48a": {
+    "url": "db://assets/Game/textures/icon_diamond.png@6c48a",
+    "value": {
+      "depends": [
+        "4718c593-5368-4fa1-bd87-99495e3742a2"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e95c52db-f62e-4ecb-8fd7-5a50e4d9895a@f9941": {
+    "url": "db://assets/Game/textures/btn_message.png@f9941",
+    "value": {
+      "depends": [
+        "e95c52db-f62e-4ecb-8fd7-5a50e4d9895a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a4be0ba5-15cc-42ed-a7f0-83301ee3bceb": {
+    "url": "db://assets/Game/textures/icon_rank.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "4718c593-5368-4fa1-bd87-99495e3742a2@f9941": {
+    "url": "db://assets/Game/textures/icon_diamond.png@f9941",
+    "value": {
+      "depends": [
+        "4718c593-5368-4fa1-bd87-99495e3742a2@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fcabe6b6-a7a2-4a8f-8307-5d697c207cdb": {
+    "url": "db://assets/Game/textures/heroslot/a.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "182470bf-25b8-49f5-896b-08901193eb56@6c48a": {
+    "url": "db://assets/Game/textures/icon_energy.png@6c48a",
+    "value": {
+      "depends": [
+        "182470bf-25b8-49f5-896b-08901193eb56"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b1a60b57-c24d-416b-9a62-a0f8073d6db2@6c48a": {
+    "url": "db://assets/Game/textures/icon_fight.png@6c48a",
+    "value": {
+      "depends": [
+        "b1a60b57-c24d-416b-9a62-a0f8073d6db2"
+      ]
+    },
+    "versionCode": 1
+  },
+  "997adfc1-de9e-4182-b64e-e427c4cddb9f@6c48a": {
+    "url": "db://assets/Game/textures/icon_gold.png@6c48a",
+    "value": {
+      "depends": [
+        "997adfc1-de9e-4182-b64e-e427c4cddb9f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a4be0ba5-15cc-42ed-a7f0-83301ee3bceb@6c48a": {
+    "url": "db://assets/Game/textures/icon_rank.png@6c48a",
+    "value": {
+      "depends": [
+        "a4be0ba5-15cc-42ed-a7f0-83301ee3bceb"
+      ]
+    },
+    "versionCode": 1
+  },
+  "182470bf-25b8-49f5-896b-08901193eb56@f9941": {
+    "url": "db://assets/Game/textures/icon_energy.png@f9941",
+    "value": {
+      "depends": [
+        "182470bf-25b8-49f5-896b-08901193eb56@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "158b13c3-4f0d-4813-9c33-bbc7be0ca3f9": {
+    "url": "db://assets/Game/textures/heroslot/att_earth.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "b1a60b57-c24d-416b-9a62-a0f8073d6db2@f9941": {
+    "url": "db://assets/Game/textures/icon_fight.png@f9941",
+    "value": {
+      "depends": [
+        "b1a60b57-c24d-416b-9a62-a0f8073d6db2@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "becbadf4-dee3-428c-bcc8-8c31e6afe6b8": {
+    "url": "db://assets/Game/textures/heroslot/att_fire.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "fcabe6b6-a7a2-4a8f-8307-5d697c207cdb@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/a.png@6c48a",
+    "value": {
+      "depends": [
+        "fcabe6b6-a7a2-4a8f-8307-5d697c207cdb"
+      ]
+    },
+    "versionCode": 1
+  },
+  "997adfc1-de9e-4182-b64e-e427c4cddb9f@f9941": {
+    "url": "db://assets/Game/textures/icon_gold.png@f9941",
+    "value": {
+      "depends": [
+        "997adfc1-de9e-4182-b64e-e427c4cddb9f@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e6e8ced7-2bff-4f36-835c-b12d2cfd1517": {
+    "url": "db://assets/Game/textures/heroslot/att_water.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "a4be0ba5-15cc-42ed-a7f0-83301ee3bceb@f9941": {
+    "url": "db://assets/Game/textures/icon_rank.png@f9941",
+    "value": {
+      "depends": [
+        "a4be0ba5-15cc-42ed-a7f0-83301ee3bceb@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ea6ca70c-3dab-4929-b5c9-b91d95d1de66": {
+    "url": "db://assets/Game/textures/heroslot/att_wind.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "fcabe6b6-a7a2-4a8f-8307-5d697c207cdb@f9941": {
+    "url": "db://assets/Game/textures/heroslot/a.png@f9941",
+    "value": {
+      "depends": [
+        "fcabe6b6-a7a2-4a8f-8307-5d697c207cdb@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f38a35ea-c32e-4a64-9d2c-dbc8869cbe4b": {
+    "url": "db://assets/Game/textures/heroslot/a_highlight.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "158b13c3-4f0d-4813-9c33-bbc7be0ca3f9@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/att_earth.png@6c48a",
+    "value": {
+      "depends": [
+        "158b13c3-4f0d-4813-9c33-bbc7be0ca3f9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e6e8ced7-2bff-4f36-835c-b12d2cfd1517@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/att_water.png@6c48a",
+    "value": {
+      "depends": [
+        "e6e8ced7-2bff-4f36-835c-b12d2cfd1517"
+      ]
+    },
+    "versionCode": 1
+  },
+  "becbadf4-dee3-428c-bcc8-8c31e6afe6b8@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/att_fire.png@6c48a",
+    "value": {
+      "depends": [
+        "becbadf4-dee3-428c-bcc8-8c31e6afe6b8"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ea6ca70c-3dab-4929-b5c9-b91d95d1de66@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/att_wind.png@6c48a",
+    "value": {
+      "depends": [
+        "ea6ca70c-3dab-4929-b5c9-b91d95d1de66"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f38a35ea-c32e-4a64-9d2c-dbc8869cbe4b@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/a_highlight.png@6c48a",
+    "value": {
+      "depends": [
+        "f38a35ea-c32e-4a64-9d2c-dbc8869cbe4b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "158b13c3-4f0d-4813-9c33-bbc7be0ca3f9@f9941": {
+    "url": "db://assets/Game/textures/heroslot/att_earth.png@f9941",
+    "value": {
+      "depends": [
+        "158b13c3-4f0d-4813-9c33-bbc7be0ca3f9@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9b709222-f68c-4cf8-ab70-4a52679b3adc": {
+    "url": "db://assets/Game/textures/heroslot/b.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "e6e8ced7-2bff-4f36-835c-b12d2cfd1517@f9941": {
+    "url": "db://assets/Game/textures/heroslot/att_water.png@f9941",
+    "value": {
+      "depends": [
+        "e6e8ced7-2bff-4f36-835c-b12d2cfd1517@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a9ec8f93-fa78-48be-8ac4-0800584cb867": {
+    "url": "db://assets/Game/textures/heroslot/bg_exp.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f38a35ea-c32e-4a64-9d2c-dbc8869cbe4b@f9941": {
+    "url": "db://assets/Game/textures/heroslot/a_highlight.png@f9941",
+    "value": {
+      "depends": [
+        "f38a35ea-c32e-4a64-9d2c-dbc8869cbe4b@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "596c9658-1b9b-4327-b10b-2949987e6bb0": {
+    "url": "db://assets/Game/textures/heroslot/bg_frame.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "ea6ca70c-3dab-4929-b5c9-b91d95d1de66@f9941": {
+    "url": "db://assets/Game/textures/heroslot/att_wind.png@f9941",
+    "value": {
+      "depends": [
+        "ea6ca70c-3dab-4929-b5c9-b91d95d1de66@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "becbadf4-dee3-428c-bcc8-8c31e6afe6b8@f9941": {
+    "url": "db://assets/Game/textures/heroslot/att_fire.png@f9941",
+    "value": {
+      "depends": [
+        "becbadf4-dee3-428c-bcc8-8c31e6afe6b8@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1e4d7112-35cc-4df7-bdbd-482636611867": {
+    "url": "db://assets/Game/textures/heroslot/bg_panel_blue.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "372efc23-5be5-4f8a-a45c-38dd65a60f84": {
+    "url": "db://assets/Game/textures/heroslot/bg_panel_paper.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "9b709222-f68c-4cf8-ab70-4a52679b3adc@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/b.png@6c48a",
+    "value": {
+      "depends": [
+        "9b709222-f68c-4cf8-ab70-4a52679b3adc"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a9ec8f93-fa78-48be-8ac4-0800584cb867@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/bg_exp.png@6c48a",
+    "value": {
+      "depends": [
+        "a9ec8f93-fa78-48be-8ac4-0800584cb867"
+      ]
+    },
+    "versionCode": 1
+  },
+  "596c9658-1b9b-4327-b10b-2949987e6bb0@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/bg_frame.png@6c48a",
+    "value": {
+      "depends": [
+        "596c9658-1b9b-4327-b10b-2949987e6bb0"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1e4d7112-35cc-4df7-bdbd-482636611867@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/bg_panel_blue.png@6c48a",
+    "value": {
+      "depends": [
+        "1e4d7112-35cc-4df7-bdbd-482636611867"
+      ]
+    },
+    "versionCode": 1
+  },
+  "372efc23-5be5-4f8a-a45c-38dd65a60f84@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/bg_panel_paper.png@6c48a",
+    "value": {
+      "depends": [
+        "372efc23-5be5-4f8a-a45c-38dd65a60f84"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9b709222-f68c-4cf8-ab70-4a52679b3adc@f9941": {
+    "url": "db://assets/Game/textures/heroslot/b.png@f9941",
+    "value": {
+      "depends": [
+        "9b709222-f68c-4cf8-ab70-4a52679b3adc@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1526b69b-91c6-46c2-b416-8afd171acbe2": {
+    "url": "db://assets/Game/textures/heroslot/bg_panel_red.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "a9ec8f93-fa78-48be-8ac4-0800584cb867@f9941": {
+    "url": "db://assets/Game/textures/heroslot/bg_exp.png@f9941",
+    "value": {
+      "depends": [
+        "a9ec8f93-fa78-48be-8ac4-0800584cb867@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "650a9e2d-9446-4ae7-9138-187849ebfa69": {
+    "url": "db://assets/Game/textures/heroslot/bg_panel_wood.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "372efc23-5be5-4f8a-a45c-38dd65a60f84@f9941": {
+    "url": "db://assets/Game/textures/heroslot/bg_panel_paper.png@f9941",
+    "value": {
+      "depends": [
+        "372efc23-5be5-4f8a-a45c-38dd65a60f84@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "df9586cb-c875-421a-9323-3af3bc892966": {
+    "url": "db://assets/Game/textures/heroslot/btns_hero.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "596c9658-1b9b-4327-b10b-2949987e6bb0@f9941": {
+    "url": "db://assets/Game/textures/heroslot/bg_frame.png@f9941",
+    "value": {
+      "depends": [
+        "596c9658-1b9b-4327-b10b-2949987e6bb0@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c99e141b-f14f-4020-abb3-1333fbf3282d": {
+    "url": "db://assets/Game/textures/heroslot/btn_blue.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "1e4d7112-35cc-4df7-bdbd-482636611867@f9941": {
+    "url": "db://assets/Game/textures/heroslot/bg_panel_blue.png@f9941",
+    "value": {
+      "depends": [
+        "1e4d7112-35cc-4df7-bdbd-482636611867@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9d20182b-a133-4151-afcf-2987a6a1eb5f": {
+    "url": "db://assets/Game/textures/heroslot/btn_blue_long.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "1526b69b-91c6-46c2-b416-8afd171acbe2@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/bg_panel_red.png@6c48a",
+    "value": {
+      "depends": [
+        "1526b69b-91c6-46c2-b416-8afd171acbe2"
+      ]
+    },
+    "versionCode": 1
+  },
+  "650a9e2d-9446-4ae7-9138-187849ebfa69@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/bg_panel_wood.png@6c48a",
+    "value": {
+      "depends": [
+        "650a9e2d-9446-4ae7-9138-187849ebfa69"
+      ]
+    },
+    "versionCode": 1
+  },
+  "df9586cb-c875-421a-9323-3af3bc892966@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/btns_hero.png@6c48a",
+    "value": {
+      "depends": [
+        "df9586cb-c875-421a-9323-3af3bc892966"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9d20182b-a133-4151-afcf-2987a6a1eb5f@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/btn_blue_long.png@6c48a",
+    "value": {
+      "depends": [
+        "9d20182b-a133-4151-afcf-2987a6a1eb5f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c99e141b-f14f-4020-abb3-1333fbf3282d@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/btn_blue.png@6c48a",
+    "value": {
+      "depends": [
+        "c99e141b-f14f-4020-abb3-1333fbf3282d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "df9586cb-c875-421a-9323-3af3bc892966@f9941": {
+    "url": "db://assets/Game/textures/heroslot/btns_hero.png@f9941",
+    "value": {
+      "depends": [
+        "df9586cb-c875-421a-9323-3af3bc892966@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "95ed8e2e-8b4d-42e3-8884-0a5d06d3f9f4": {
+    "url": "db://assets/Game/textures/heroslot/btn_close.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "1526b69b-91c6-46c2-b416-8afd171acbe2@f9941": {
+    "url": "db://assets/Game/textures/heroslot/bg_panel_red.png@f9941",
+    "value": {
+      "depends": [
+        "1526b69b-91c6-46c2-b416-8afd171acbe2@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9d20182b-a133-4151-afcf-2987a6a1eb5f@f9941": {
+    "url": "db://assets/Game/textures/heroslot/btn_blue_long.png@f9941",
+    "value": {
+      "depends": [
+        "9d20182b-a133-4151-afcf-2987a6a1eb5f@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f2fbbefb-7d06-4332-a587-6c32165c5240": {
+    "url": "db://assets/Game/textures/heroslot/btn_up_blue.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "19174454-949b-4a09-bb1c-5b537650beb5": {
+    "url": "db://assets/Game/textures/heroslot/b_highlight.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "c99e141b-f14f-4020-abb3-1333fbf3282d@f9941": {
+    "url": "db://assets/Game/textures/heroslot/btn_blue.png@f9941",
+    "value": {
+      "depends": [
+        "c99e141b-f14f-4020-abb3-1333fbf3282d@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8be3b0c1-61bf-438c-a48f-7397b961f3ab": {
+    "url": "db://assets/Game/textures/heroslot/c.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "650a9e2d-9446-4ae7-9138-187849ebfa69@f9941": {
+    "url": "db://assets/Game/textures/heroslot/bg_panel_wood.png@f9941",
+    "value": {
+      "depends": [
+        "650a9e2d-9446-4ae7-9138-187849ebfa69@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ae3e12e1-6fc0-44be-a280-23973f6962b7": {
+    "url": "db://assets/Game/textures/heroslot/c_highlight.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "95ed8e2e-8b4d-42e3-8884-0a5d06d3f9f4@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/btn_close.png@6c48a",
+    "value": {
+      "depends": [
+        "95ed8e2e-8b4d-42e3-8884-0a5d06d3f9f4"
+      ]
+    },
+    "versionCode": 1
+  },
+  "19174454-949b-4a09-bb1c-5b537650beb5@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/b_highlight.png@6c48a",
+    "value": {
+      "depends": [
+        "19174454-949b-4a09-bb1c-5b537650beb5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f2fbbefb-7d06-4332-a587-6c32165c5240@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/btn_up_blue.png@6c48a",
+    "value": {
+      "depends": [
+        "f2fbbefb-7d06-4332-a587-6c32165c5240"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8be3b0c1-61bf-438c-a48f-7397b961f3ab@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/c.png@6c48a",
+    "value": {
+      "depends": [
+        "8be3b0c1-61bf-438c-a48f-7397b961f3ab"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ae3e12e1-6fc0-44be-a280-23973f6962b7@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/c_highlight.png@6c48a",
+    "value": {
+      "depends": [
+        "ae3e12e1-6fc0-44be-a280-23973f6962b7"
+      ]
+    },
+    "versionCode": 1
+  },
+  "95ed8e2e-8b4d-42e3-8884-0a5d06d3f9f4@f9941": {
+    "url": "db://assets/Game/textures/heroslot/btn_close.png@f9941",
+    "value": {
+      "depends": [
+        "95ed8e2e-8b4d-42e3-8884-0a5d06d3f9f4@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "19174454-949b-4a09-bb1c-5b537650beb5@f9941": {
+    "url": "db://assets/Game/textures/heroslot/b_highlight.png@f9941",
+    "value": {
+      "depends": [
+        "19174454-949b-4a09-bb1c-5b537650beb5@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2f5cd28d-9557-487a-9df0-34cb4cfd16aa": {
+    "url": "db://assets/Game/textures/heroslot/d.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "a075147e-c075-46d3-9a8e-8313162b966e": {
+    "url": "db://assets/Game/textures/heroslot/d_highlight.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f2fbbefb-7d06-4332-a587-6c32165c5240@f9941": {
+    "url": "db://assets/Game/textures/heroslot/btn_up_blue.png@f9941",
+    "value": {
+      "depends": [
+        "f2fbbefb-7d06-4332-a587-6c32165c5240@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9e2b5b51-b152-4505-b493-c83cf9ce8fcf": {
+    "url": "db://assets/Game/textures/heroslot/empty.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "8be3b0c1-61bf-438c-a48f-7397b961f3ab@f9941": {
+    "url": "db://assets/Game/textures/heroslot/c.png@f9941",
+    "value": {
+      "depends": [
+        "8be3b0c1-61bf-438c-a48f-7397b961f3ab@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ae3e12e1-6fc0-44be-a280-23973f6962b7@f9941": {
+    "url": "db://assets/Game/textures/heroslot/c_highlight.png@f9941",
+    "value": {
+      "depends": [
+        "ae3e12e1-6fc0-44be-a280-23973f6962b7@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2587d5be-d25c-4f46-9e7e-1270eae84427": {
+    "url": "db://assets/Game/textures/heroslot/rare1.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "426f0d96-7545-4312-808b-d221ee784bf9": {
+    "url": "db://assets/Game/textures/heroslot/rare2.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "a075147e-c075-46d3-9a8e-8313162b966e@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/d_highlight.png@6c48a",
+    "value": {
+      "depends": [
+        "a075147e-c075-46d3-9a8e-8313162b966e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2f5cd28d-9557-487a-9df0-34cb4cfd16aa@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/d.png@6c48a",
+    "value": {
+      "depends": [
+        "2f5cd28d-9557-487a-9df0-34cb4cfd16aa"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9e2b5b51-b152-4505-b493-c83cf9ce8fcf@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/empty.png@6c48a",
+    "value": {
+      "depends": [
+        "9e2b5b51-b152-4505-b493-c83cf9ce8fcf"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2587d5be-d25c-4f46-9e7e-1270eae84427@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/rare1.png@6c48a",
+    "value": {
+      "depends": [
+        "2587d5be-d25c-4f46-9e7e-1270eae84427"
+      ]
+    },
+    "versionCode": 1
+  },
+  "426f0d96-7545-4312-808b-d221ee784bf9@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/rare2.png@6c48a",
+    "value": {
+      "depends": [
+        "426f0d96-7545-4312-808b-d221ee784bf9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2f5cd28d-9557-487a-9df0-34cb4cfd16aa@f9941": {
+    "url": "db://assets/Game/textures/heroslot/d.png@f9941",
+    "value": {
+      "depends": [
+        "2f5cd28d-9557-487a-9df0-34cb4cfd16aa@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "73c887a9-622b-4706-855c-864dc6c064f5": {
+    "url": "db://assets/Game/textures/heroslot/rare3.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "a075147e-c075-46d3-9a8e-8313162b966e@f9941": {
+    "url": "db://assets/Game/textures/heroslot/d_highlight.png@f9941",
+    "value": {
+      "depends": [
+        "a075147e-c075-46d3-9a8e-8313162b966e@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6ee735a0-08d4-458b-94f9-19ad8f2f015d": {
+    "url": "db://assets/Game/textures/heroslot/s.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "9e2b5b51-b152-4505-b493-c83cf9ce8fcf@f9941": {
+    "url": "db://assets/Game/textures/heroslot/empty.png@f9941",
+    "value": {
+      "depends": [
+        "9e2b5b51-b152-4505-b493-c83cf9ce8fcf@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "af3ff951-edef-4c7e-a1dc-7555e060fcd8": {
+    "url": "db://assets/Game/textures/heroslot/star_small.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "73c887a9-622b-4706-855c-864dc6c064f5@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/rare3.png@6c48a",
+    "value": {
+      "depends": [
+        "73c887a9-622b-4706-855c-864dc6c064f5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6ee735a0-08d4-458b-94f9-19ad8f2f015d@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/s.png@6c48a",
+    "value": {
+      "depends": [
+        "6ee735a0-08d4-458b-94f9-19ad8f2f015d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "af3ff951-edef-4c7e-a1dc-7555e060fcd8@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/star_small.png@6c48a",
+    "value": {
+      "depends": [
+        "af3ff951-edef-4c7e-a1dc-7555e060fcd8"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2587d5be-d25c-4f46-9e7e-1270eae84427@f9941": {
+    "url": "db://assets/Game/textures/heroslot/rare1.png@f9941",
+    "value": {
+      "depends": [
+        "2587d5be-d25c-4f46-9e7e-1270eae84427@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "42a54bde-d054-4c49-8926-f053090e69c5": {
+    "url": "db://assets/Game/textures/heroslot/s_highlight.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "426f0d96-7545-4312-808b-d221ee784bf9@f9941": {
+    "url": "db://assets/Game/textures/heroslot/rare2.png@f9941",
+    "value": {
+      "depends": [
+        "426f0d96-7545-4312-808b-d221ee784bf9@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "14222783-36bf-4b44-9fe0-2f65d3e20067": {
+    "url": "db://assets/Game/textures/heroslot/text_evolve.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "6ee735a0-08d4-458b-94f9-19ad8f2f015d@f9941": {
+    "url": "db://assets/Game/textures/heroslot/s.png@f9941",
+    "value": {
+      "depends": [
+        "6ee735a0-08d4-458b-94f9-19ad8f2f015d@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "af3ff951-edef-4c7e-a1dc-7555e060fcd8@f9941": {
+    "url": "db://assets/Game/textures/heroslot/star_small.png@f9941",
+    "value": {
+      "depends": [
+        "af3ff951-edef-4c7e-a1dc-7555e060fcd8@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b2bc786b-590b-4831-b321-813112a32099": {
+    "url": "db://assets/Game/textures/heroslot/text_sell.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "ce5f383d-be51-45af-b99c-7d753da011da": {
+    "url": "db://assets/Game/textures/heroslot/text_upgrade.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "42a54bde-d054-4c49-8926-f053090e69c5@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/s_highlight.png@6c48a",
+    "value": {
+      "depends": [
+        "42a54bde-d054-4c49-8926-f053090e69c5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "14222783-36bf-4b44-9fe0-2f65d3e20067@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/text_evolve.png@6c48a",
+    "value": {
+      "depends": [
+        "14222783-36bf-4b44-9fe0-2f65d3e20067"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b2bc786b-590b-4831-b321-813112a32099@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/text_sell.png@6c48a",
+    "value": {
+      "depends": [
+        "b2bc786b-590b-4831-b321-813112a32099"
+      ]
+    },
+    "versionCode": 1
+  },
+  "73c887a9-622b-4706-855c-864dc6c064f5@f9941": {
+    "url": "db://assets/Game/textures/heroslot/rare3.png@f9941",
+    "value": {
+      "depends": [
+        "73c887a9-622b-4706-855c-864dc6c064f5@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "28a73d65-0999-423a-bc32-7699b0ffd544": {
+    "url": "db://assets/Game/textures/heroslot/title_atk.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "ce5f383d-be51-45af-b99c-7d753da011da@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/text_upgrade.png@6c48a",
+    "value": {
+      "depends": [
+        "ce5f383d-be51-45af-b99c-7d753da011da"
+      ]
+    },
+    "versionCode": 1
+  },
+  "42a54bde-d054-4c49-8926-f053090e69c5@f9941": {
+    "url": "db://assets/Game/textures/heroslot/s_highlight.png@f9941",
+    "value": {
+      "depends": [
+        "42a54bde-d054-4c49-8926-f053090e69c5@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f0379672-7a68-4983-9899-c41c47ba7e18": {
+    "url": "db://assets/Game/textures/heroslot/title_backpack.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "14222783-36bf-4b44-9fe0-2f65d3e20067@f9941": {
+    "url": "db://assets/Game/textures/heroslot/text_evolve.png@f9941",
+    "value": {
+      "depends": [
+        "14222783-36bf-4b44-9fe0-2f65d3e20067@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c3ad0e02-0f5e-41bc-ac66-7ee11bdd118c": {
+    "url": "db://assets/Game/textures/heroslot/title_bg.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "b2bc786b-590b-4831-b321-813112a32099@f9941": {
+    "url": "db://assets/Game/textures/heroslot/text_sell.png@f9941",
+    "value": {
+      "depends": [
+        "b2bc786b-590b-4831-b321-813112a32099@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1b5f90e0-8944-4809-9761-78b8d8372616": {
+    "url": "db://assets/Game/textures/heroslot/title_craft.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "ce5f383d-be51-45af-b99c-7d753da011da@f9941": {
+    "url": "db://assets/Game/textures/heroslot/text_upgrade.png@f9941",
+    "value": {
+      "depends": [
+        "ce5f383d-be51-45af-b99c-7d753da011da@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "957e0d6c-f1d5-4c15-8097-a23eef816f3b": {
+    "url": "db://assets/Game/textures/heroslot/title_exp.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "28a73d65-0999-423a-bc32-7699b0ffd544@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/title_atk.png@6c48a",
+    "value": {
+      "depends": [
+        "28a73d65-0999-423a-bc32-7699b0ffd544"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f0379672-7a68-4983-9899-c41c47ba7e18@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/title_backpack.png@6c48a",
+    "value": {
+      "depends": [
+        "f0379672-7a68-4983-9899-c41c47ba7e18"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c3ad0e02-0f5e-41bc-ac66-7ee11bdd118c@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/title_bg.png@6c48a",
+    "value": {
+      "depends": [
+        "c3ad0e02-0f5e-41bc-ac66-7ee11bdd118c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1b5f90e0-8944-4809-9761-78b8d8372616@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/title_craft.png@6c48a",
+    "value": {
+      "depends": [
+        "1b5f90e0-8944-4809-9761-78b8d8372616"
+      ]
+    },
+    "versionCode": 1
+  },
+  "957e0d6c-f1d5-4c15-8097-a23eef816f3b@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/title_exp.png@6c48a",
+    "value": {
+      "depends": [
+        "957e0d6c-f1d5-4c15-8097-a23eef816f3b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "28a73d65-0999-423a-bc32-7699b0ffd544@f9941": {
+    "url": "db://assets/Game/textures/heroslot/title_atk.png@f9941",
+    "value": {
+      "depends": [
+        "28a73d65-0999-423a-bc32-7699b0ffd544@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "880838a7-9a3f-4a6c-baba-2dbd6a7413b5": {
+    "url": "db://assets/Game/textures/heroslot/title_heros.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f0379672-7a68-4983-9899-c41c47ba7e18@f9941": {
+    "url": "db://assets/Game/textures/heroslot/title_backpack.png@f9941",
+    "value": {
+      "depends": [
+        "f0379672-7a68-4983-9899-c41c47ba7e18@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "70282266-fa12-485e-9a7f-c9539ee67a10": {
+    "url": "db://assets/Game/textures/heroslot/title_hero_upgrade.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "c3ad0e02-0f5e-41bc-ac66-7ee11bdd118c@f9941": {
+    "url": "db://assets/Game/textures/heroslot/title_bg.png@f9941",
+    "value": {
+      "depends": [
+        "c3ad0e02-0f5e-41bc-ac66-7ee11bdd118c@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "01e37650-ed2b-4b04-83d4-dd0b42d83688": {
+    "url": "db://assets/Game/textures/heroslot/title_monster.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "957e0d6c-f1d5-4c15-8097-a23eef816f3b@f9941": {
+    "url": "db://assets/Game/textures/heroslot/title_exp.png@f9941",
+    "value": {
+      "depends": [
+        "957e0d6c-f1d5-4c15-8097-a23eef816f3b@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1b5f90e0-8944-4809-9761-78b8d8372616@f9941": {
+    "url": "db://assets/Game/textures/heroslot/title_craft.png@f9941",
+    "value": {
+      "depends": [
+        "1b5f90e0-8944-4809-9761-78b8d8372616@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "66711b1d-c816-4cf5-8018-a936dae41af6": {
+    "url": "db://assets/Game/textures/heroslot/title_shards.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "b5195713-f7d7-4b3f-8f92-4cbeba203d9e": {
+    "url": "db://assets/Game/textures/heroslot/title_total_exp.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "880838a7-9a3f-4a6c-baba-2dbd6a7413b5@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/title_heros.png@6c48a",
+    "value": {
+      "depends": [
+        "880838a7-9a3f-4a6c-baba-2dbd6a7413b5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "70282266-fa12-485e-9a7f-c9539ee67a10@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/title_hero_upgrade.png@6c48a",
+    "value": {
+      "depends": [
+        "70282266-fa12-485e-9a7f-c9539ee67a10"
+      ]
+    },
+    "versionCode": 1
+  },
+  "01e37650-ed2b-4b04-83d4-dd0b42d83688@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/title_monster.png@6c48a",
+    "value": {
+      "depends": [
+        "01e37650-ed2b-4b04-83d4-dd0b42d83688"
+      ]
+    },
+    "versionCode": 1
+  },
+  "66711b1d-c816-4cf5-8018-a936dae41af6@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/title_shards.png@6c48a",
+    "value": {
+      "depends": [
+        "66711b1d-c816-4cf5-8018-a936dae41af6"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b5195713-f7d7-4b3f-8f92-4cbeba203d9e@6c48a": {
+    "url": "db://assets/Game/textures/heroslot/title_total_exp.png@6c48a",
+    "value": {
+      "depends": [
+        "b5195713-f7d7-4b3f-8f92-4cbeba203d9e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "880838a7-9a3f-4a6c-baba-2dbd6a7413b5@f9941": {
+    "url": "db://assets/Game/textures/heroslot/title_heros.png@f9941",
+    "value": {
+      "depends": [
+        "880838a7-9a3f-4a6c-baba-2dbd6a7413b5@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "587ed003-dfa7-4091-bc91-ececcee4737d": {
+    "url": "db://assets/Game/textures/home_btns/btn_backpack.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "70282266-fa12-485e-9a7f-c9539ee67a10@f9941": {
+    "url": "db://assets/Game/textures/heroslot/title_hero_upgrade.png@f9941",
+    "value": {
+      "depends": [
+        "70282266-fa12-485e-9a7f-c9539ee67a10@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b30a989a-7d94-431f-8e3d-3289c1583da8": {
+    "url": "db://assets/Game/textures/home_btns/btn_chuzhan.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "b5195713-f7d7-4b3f-8f92-4cbeba203d9e@f9941": {
+    "url": "db://assets/Game/textures/heroslot/title_total_exp.png@f9941",
+    "value": {
+      "depends": [
+        "b5195713-f7d7-4b3f-8f92-4cbeba203d9e@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "01e37650-ed2b-4b04-83d4-dd0b42d83688@f9941": {
+    "url": "db://assets/Game/textures/heroslot/title_monster.png@f9941",
+    "value": {
+      "depends": [
+        "01e37650-ed2b-4b04-83d4-dd0b42d83688@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "66711b1d-c816-4cf5-8018-a936dae41af6@f9941": {
+    "url": "db://assets/Game/textures/heroslot/title_shards.png@f9941",
+    "value": {
+      "depends": [
+        "66711b1d-c816-4cf5-8018-a936dae41af6@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "be19f41d-ffa0-41c5-9c87-6bc24d853502": {
+    "url": "db://assets/Game/textures/home_btns/btn_friends.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "cc4843a6-dee6-45c3-9eba-23c189b8cbc4": {
+    "url": "db://assets/Game/textures/home_btns/btn_hecheng.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "2e295c46-f72b-4c99-8a0f-4323671811a3": {
+    "url": "db://assets/Game/textures/home_btns/btn_home.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "587ed003-dfa7-4091-bc91-ececcee4737d@6c48a": {
+    "url": "db://assets/Game/textures/home_btns/btn_backpack.png@6c48a",
+    "value": {
+      "depends": [
+        "587ed003-dfa7-4091-bc91-ececcee4737d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b30a989a-7d94-431f-8e3d-3289c1583da8@6c48a": {
+    "url": "db://assets/Game/textures/home_btns/btn_chuzhan.png@6c48a",
+    "value": {
+      "depends": [
+        "b30a989a-7d94-431f-8e3d-3289c1583da8"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2e295c46-f72b-4c99-8a0f-4323671811a3@6c48a": {
+    "url": "db://assets/Game/textures/home_btns/btn_home.png@6c48a",
+    "value": {
+      "depends": [
+        "2e295c46-f72b-4c99-8a0f-4323671811a3"
+      ]
+    },
+    "versionCode": 1
+  },
+  "cc4843a6-dee6-45c3-9eba-23c189b8cbc4@6c48a": {
+    "url": "db://assets/Game/textures/home_btns/btn_hecheng.png@6c48a",
+    "value": {
+      "depends": [
+        "cc4843a6-dee6-45c3-9eba-23c189b8cbc4"
+      ]
+    },
+    "versionCode": 1
+  },
+  "be19f41d-ffa0-41c5-9c87-6bc24d853502@6c48a": {
+    "url": "db://assets/Game/textures/home_btns/btn_friends.png@6c48a",
+    "value": {
+      "depends": [
+        "be19f41d-ffa0-41c5-9c87-6bc24d853502"
+      ]
+    },
+    "versionCode": 1
+  },
+  "587ed003-dfa7-4091-bc91-ececcee4737d@f9941": {
+    "url": "db://assets/Game/textures/home_btns/btn_backpack.png@f9941",
+    "value": {
+      "depends": [
+        "587ed003-dfa7-4091-bc91-ececcee4737d@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "03fb01c1-feb1-4a61-866e-e53e9e332abf": {
+    "url": "db://assets/Game/textures/home_btns/btn_level.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "b30a989a-7d94-431f-8e3d-3289c1583da8@f9941": {
+    "url": "db://assets/Game/textures/home_btns/btn_chuzhan.png@f9941",
+    "value": {
+      "depends": [
+        "b30a989a-7d94-431f-8e3d-3289c1583da8@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4b4a59b1-e1c5-45be-b1e3-506eb82ee07a": {
+    "url": "db://assets/Game/textures/home_btns/btn_liuyan.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "2e295c46-f72b-4c99-8a0f-4323671811a3@f9941": {
+    "url": "db://assets/Game/textures/home_btns/btn_home.png@f9941",
+    "value": {
+      "depends": [
+        "2e295c46-f72b-4c99-8a0f-4323671811a3@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "be19f41d-ffa0-41c5-9c87-6bc24d853502@f9941": {
+    "url": "db://assets/Game/textures/home_btns/btn_friends.png@f9941",
+    "value": {
+      "depends": [
+        "be19f41d-ffa0-41c5-9c87-6bc24d853502@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "cc4843a6-dee6-45c3-9eba-23c189b8cbc4@f9941": {
+    "url": "db://assets/Game/textures/home_btns/btn_hecheng.png@f9941",
+    "value": {
+      "depends": [
+        "cc4843a6-dee6-45c3-9eba-23c189b8cbc4@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a129992a-64bd-4c45-bf05-e035ed1b6279": {
+    "url": "db://assets/Game/textures/home_btns/btn_raid.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "4fc7ee02-273f-4977-ad47-6ca155bf5305": {
+    "url": "db://assets/Game/textures/home_btns/btn_renwu.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "27721328-ed2d-416b-9a66-345012cff4cb": {
+    "url": "db://assets/Game/textures/home_btns/btn_rongyu.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "03fb01c1-feb1-4a61-866e-e53e9e332abf@6c48a": {
+    "url": "db://assets/Game/textures/home_btns/btn_level.png@6c48a",
+    "value": {
+      "depends": [
+        "03fb01c1-feb1-4a61-866e-e53e9e332abf"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4b4a59b1-e1c5-45be-b1e3-506eb82ee07a@6c48a": {
+    "url": "db://assets/Game/textures/home_btns/btn_liuyan.png@6c48a",
+    "value": {
+      "depends": [
+        "4b4a59b1-e1c5-45be-b1e3-506eb82ee07a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a129992a-64bd-4c45-bf05-e035ed1b6279@6c48a": {
+    "url": "db://assets/Game/textures/home_btns/btn_raid.png@6c48a",
+    "value": {
+      "depends": [
+        "a129992a-64bd-4c45-bf05-e035ed1b6279"
+      ]
+    },
+    "versionCode": 1
+  },
+  "27721328-ed2d-416b-9a66-345012cff4cb@6c48a": {
+    "url": "db://assets/Game/textures/home_btns/btn_rongyu.png@6c48a",
+    "value": {
+      "depends": [
+        "27721328-ed2d-416b-9a66-345012cff4cb"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4fc7ee02-273f-4977-ad47-6ca155bf5305@6c48a": {
+    "url": "db://assets/Game/textures/home_btns/btn_renwu.png@6c48a",
+    "value": {
+      "depends": [
+        "4fc7ee02-273f-4977-ad47-6ca155bf5305"
+      ]
+    },
+    "versionCode": 1
+  },
+  "03fb01c1-feb1-4a61-866e-e53e9e332abf@f9941": {
+    "url": "db://assets/Game/textures/home_btns/btn_level.png@f9941",
+    "value": {
+      "depends": [
+        "03fb01c1-feb1-4a61-866e-e53e9e332abf@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4b4a59b1-e1c5-45be-b1e3-506eb82ee07a@f9941": {
+    "url": "db://assets/Game/textures/home_btns/btn_liuyan.png@f9941",
+    "value": {
+      "depends": [
+        "4b4a59b1-e1c5-45be-b1e3-506eb82ee07a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4248e870-e137-4c2b-8ca4-b8b871281cbb": {
+    "url": "db://assets/Game/textures/home_btns/btn_setting.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "e382d940-eb75-4866-b8d7-e7847c088461": {
+    "url": "db://assets/Game/textures/home_btns/btn_shop.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "a129992a-64bd-4c45-bf05-e035ed1b6279@f9941": {
+    "url": "db://assets/Game/textures/home_btns/btn_raid.png@f9941",
+    "value": {
+      "depends": [
+        "a129992a-64bd-4c45-bf05-e035ed1b6279@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "27721328-ed2d-416b-9a66-345012cff4cb@f9941": {
+    "url": "db://assets/Game/textures/home_btns/btn_rongyu.png@f9941",
+    "value": {
+      "depends": [
+        "27721328-ed2d-416b-9a66-345012cff4cb@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4fc7ee02-273f-4977-ad47-6ca155bf5305@f9941": {
+    "url": "db://assets/Game/textures/home_btns/btn_renwu.png@f9941",
+    "value": {
+      "depends": [
+        "4fc7ee02-273f-4977-ad47-6ca155bf5305@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4ae63c41-a4a0-45a7-aca5-589daad9ddd9": {
+    "url": "db://assets/Game/textures/portrait/atlantis/boss/ic_generalshark.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "e6433f36-1fb4-42c5-8477-c8413f76232a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/boss/ic_hugeshark.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "fa3223bf-3ecb-41be-af59-c323ed763ce4": {
+    "url": "db://assets/Game/textures/portrait/atlantis/boss/ic_hydra.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "e382d940-eb75-4866-b8d7-e7847c088461@6c48a": {
+    "url": "db://assets/Game/textures/home_btns/btn_shop.png@6c48a",
+    "value": {
+      "depends": [
+        "e382d940-eb75-4866-b8d7-e7847c088461"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4248e870-e137-4c2b-8ca4-b8b871281cbb@6c48a": {
+    "url": "db://assets/Game/textures/home_btns/btn_setting.png@6c48a",
+    "value": {
+      "depends": [
+        "4248e870-e137-4c2b-8ca4-b8b871281cbb"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4ae63c41-a4a0-45a7-aca5-589daad9ddd9@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/boss/ic_generalshark.png@6c48a",
+    "value": {
+      "depends": [
+        "4ae63c41-a4a0-45a7-aca5-589daad9ddd9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "84499e83-3aaa-4e00-829b-fa02182e9ca3": {
+    "url": "db://assets/Game/textures/portrait/atlantis/boss/ic_shydra.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "e6433f36-1fb4-42c5-8477-c8413f76232a@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/boss/ic_hugeshark.png@6c48a",
+    "value": {
+      "depends": [
+        "e6433f36-1fb4-42c5-8477-c8413f76232a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "19510e5a-675e-42b2-bed5-62266eda417b": {
+    "url": "db://assets/Game/textures/portrait/atlantis/hero/ic_captain_jack.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "fa3223bf-3ecb-41be-af59-c323ed763ce4@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/boss/ic_hydra.png@6c48a",
+    "value": {
+      "depends": [
+        "fa3223bf-3ecb-41be-af59-c323ed763ce4"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d4ef7dc6-2b19-4e99-ad09-7f6c6870d582": {
+    "url": "db://assets/Game/textures/portrait/atlantis/hero/ic_drakan.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "4248e870-e137-4c2b-8ca4-b8b871281cbb@f9941": {
+    "url": "db://assets/Game/textures/home_btns/btn_setting.png@f9941",
+    "value": {
+      "depends": [
+        "4248e870-e137-4c2b-8ca4-b8b871281cbb@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e382d940-eb75-4866-b8d7-e7847c088461@f9941": {
+    "url": "db://assets/Game/textures/home_btns/btn_shop.png@f9941",
+    "value": {
+      "depends": [
+        "e382d940-eb75-4866-b8d7-e7847c088461@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "41a05f93-118a-4070-9f8b-eb81d9e70334": {
+    "url": "db://assets/Game/textures/portrait/atlantis/hero/ic_mermaid.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "9f76084f-009a-4f33-aa6c-d08bd9a29c01": {
+    "url": "db://assets/Game/textures/portrait/atlantis/hero/ic_mermaidqueen.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "84499e83-3aaa-4e00-829b-fa02182e9ca3@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/boss/ic_shydra.png@6c48a",
+    "value": {
+      "depends": [
+        "84499e83-3aaa-4e00-829b-fa02182e9ca3"
+      ]
+    },
+    "versionCode": 1
+  },
+  "71187f7f-36f2-4383-afc5-5d40a827013a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/hero/ic_oceaking.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "19510e5a-675e-42b2-bed5-62266eda417b@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/hero/ic_captain_jack.png@6c48a",
+    "value": {
+      "depends": [
+        "19510e5a-675e-42b2-bed5-62266eda417b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d4ef7dc6-2b19-4e99-ad09-7f6c6870d582@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/hero/ic_drakan.png@6c48a",
+    "value": {
+      "depends": [
+        "d4ef7dc6-2b19-4e99-ad09-7f6c6870d582"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9f76084f-009a-4f33-aa6c-d08bd9a29c01@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/hero/ic_mermaidqueen.png@6c48a",
+    "value": {
+      "depends": [
+        "9f76084f-009a-4f33-aa6c-d08bd9a29c01"
+      ]
+    },
+    "versionCode": 1
+  },
+  "41a05f93-118a-4070-9f8b-eb81d9e70334@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/hero/ic_mermaid.png@6c48a",
+    "value": {
+      "depends": [
+        "41a05f93-118a-4070-9f8b-eb81d9e70334"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d4ef7dc6-2b19-4e99-ad09-7f6c6870d582@f9941": {
+    "url": "db://assets/Game/textures/portrait/atlantis/hero/ic_drakan.png@f9941",
+    "value": {
+      "depends": [
+        "d4ef7dc6-2b19-4e99-ad09-7f6c6870d582@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "19510e5a-675e-42b2-bed5-62266eda417b@f9941": {
+    "url": "db://assets/Game/textures/portrait/atlantis/hero/ic_captain_jack.png@f9941",
+    "value": {
+      "depends": [
+        "19510e5a-675e-42b2-bed5-62266eda417b@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "90332344-6f3c-4fe8-9d56-50ea7cf879ce": {
+    "url": "db://assets/Game/textures/portrait/atlantis/hero/ic_oceantriton.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "7325fb21-b227-4d4a-a27d-cf065689799b": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_BigBlackCrab.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "41a05f93-118a-4070-9f8b-eb81d9e70334@f9941": {
+    "url": "db://assets/Game/textures/portrait/atlantis/hero/ic_mermaid.png@f9941",
+    "value": {
+      "depends": [
+        "41a05f93-118a-4070-9f8b-eb81d9e70334@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5226d022-edda-45d9-9230-9945a1a19af9": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_BigBrownCrab.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "9f76084f-009a-4f33-aa6c-d08bd9a29c01@f9941": {
+    "url": "db://assets/Game/textures/portrait/atlantis/hero/ic_mermaidqueen.png@f9941",
+    "value": {
+      "depends": [
+        "9f76084f-009a-4f33-aa6c-d08bd9a29c01@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "93f6516f-772d-493f-a720-9e7a65885af5": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_BigBrownCrab2.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "71187f7f-36f2-4383-afc5-5d40a827013a@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/hero/ic_oceaking.png@6c48a",
+    "value": {
+      "depends": [
+        "71187f7f-36f2-4383-afc5-5d40a827013a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7325fb21-b227-4d4a-a27d-cf065689799b@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_BigBlackCrab.png@6c48a",
+    "value": {
+      "depends": [
+        "7325fb21-b227-4d4a-a27d-cf065689799b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6fd3a79c-d071-4705-9525-5bde517ab96e": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_BigCrab.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "90332344-6f3c-4fe8-9d56-50ea7cf879ce@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/hero/ic_oceantriton.png@6c48a",
+    "value": {
+      "depends": [
+        "90332344-6f3c-4fe8-9d56-50ea7cf879ce"
+      ]
+    },
+    "versionCode": 1
+  },
+  "71187f7f-36f2-4383-afc5-5d40a827013a@f9941": {
+    "url": "db://assets/Game/textures/portrait/atlantis/hero/ic_oceaking.png@f9941",
+    "value": {
+      "depends": [
+        "71187f7f-36f2-4383-afc5-5d40a827013a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d245f91e-80dc-4096-a297-c5e514e804c2": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_BigGreenCrab.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "5226d022-edda-45d9-9230-9945a1a19af9@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_BigBrownCrab.png@6c48a",
+    "value": {
+      "depends": [
+        "5226d022-edda-45d9-9230-9945a1a19af9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c6c18d6d-8023-4fd7-8ffc-d540ed34ee54": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_BigRedCrab.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "93f6516f-772d-493f-a720-9e7a65885af5@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_BigBrownCrab2.png@6c48a",
+    "value": {
+      "depends": [
+        "93f6516f-772d-493f-a720-9e7a65885af5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "dcfadde5-b4f1-4b5d-96f0-97a79e7bab66": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_BlackSirens.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "90332344-6f3c-4fe8-9d56-50ea7cf879ce@f9941": {
+    "url": "db://assets/Game/textures/portrait/atlantis/hero/ic_oceantriton.png@f9941",
+    "value": {
+      "depends": [
+        "90332344-6f3c-4fe8-9d56-50ea7cf879ce@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6cd0aa66-4b81-42b7-95ad-1a82cc30a835": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_BlackTentacles.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "6fd3a79c-d071-4705-9525-5bde517ab96e@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_BigCrab.png@6c48a",
+    "value": {
+      "depends": [
+        "6fd3a79c-d071-4705-9525-5bde517ab96e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "52c11025-13af-4d70-98eb-085e5a9e81b6": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_BlueBatteryTurtle.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "d245f91e-80dc-4096-a297-c5e514e804c2@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_BigGreenCrab.png@6c48a",
+    "value": {
+      "depends": [
+        "d245f91e-80dc-4096-a297-c5e514e804c2"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f4174ccb-686c-4d54-ab04-e41cca2251d9": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_BlueTentacle.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "c6c18d6d-8023-4fd7-8ffc-d540ed34ee54@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_BigRedCrab.png@6c48a",
+    "value": {
+      "depends": [
+        "c6c18d6d-8023-4fd7-8ffc-d540ed34ee54"
+      ]
+    },
+    "versionCode": 1
+  },
+  "34e7c08e-f327-4912-9795-a4f8f82c7fb3": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_GreenTentacles.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "dcfadde5-b4f1-4b5d-96f0-97a79e7bab66@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_BlackSirens.png@6c48a",
+    "value": {
+      "depends": [
+        "dcfadde5-b4f1-4b5d-96f0-97a79e7bab66"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c273d0b6-7ca5-4ca2-a8e1-53b9c1366680": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_MechanicalTentacles.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "6cd0aa66-4b81-42b7-95ad-1a82cc30a835@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_BlackTentacles.png@6c48a",
+    "value": {
+      "depends": [
+        "6cd0aa66-4b81-42b7-95ad-1a82cc30a835"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2c84d042-ef14-43b8-9650-4b6155790a83": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_MechanicalTurretTurtle.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "52c11025-13af-4d70-98eb-085e5a9e81b6@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_BlueBatteryTurtle.png@6c48a",
+    "value": {
+      "depends": [
+        "52c11025-13af-4d70-98eb-085e5a9e81b6"
+      ]
+    },
+    "versionCode": 1
+  },
+  "611b950d-8510-45b0-bfa5-629fe88e9a78": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_RedBatteryTurtle.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f4174ccb-686c-4d54-ab04-e41cca2251d9@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_BlueTentacle.png@6c48a",
+    "value": {
+      "depends": [
+        "f4174ccb-686c-4d54-ab04-e41cca2251d9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d1931aa4-944e-49b6-96ce-0312591382c1": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_RedSirens.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "34e7c08e-f327-4912-9795-a4f8f82c7fb3@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_GreenTentacles.png@6c48a",
+    "value": {
+      "depends": [
+        "34e7c08e-f327-4912-9795-a4f8f82c7fb3"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c273d0b6-7ca5-4ca2-a8e1-53b9c1366680@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_MechanicalTentacles.png@6c48a",
+    "value": {
+      "depends": [
+        "c273d0b6-7ca5-4ca2-a8e1-53b9c1366680"
+      ]
+    },
+    "versionCode": 1
+  },
+  "cb7a051a-e0dd-44ad-a446-4079ed812fc9": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_RedTentacles.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "5bc5885b-d89d-4dac-acac-0435d6054b0f": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_Sirens.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "2c84d042-ef14-43b8-9650-4b6155790a83@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_MechanicalTurretTurtle.png@6c48a",
+    "value": {
+      "depends": [
+        "2c84d042-ef14-43b8-9650-4b6155790a83"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2df61e48-4bd6-4462-a19f-cfe9eb81262c": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_tentacles.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "611b950d-8510-45b0-bfa5-629fe88e9a78@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_RedBatteryTurtle.png@6c48a",
+    "value": {
+      "depends": [
+        "611b950d-8510-45b0-bfa5-629fe88e9a78"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e1c5eeb4-333c-4407-8bd0-3f52f8da2c93": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_TurretTurtle.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "d1931aa4-944e-49b6-96ce-0312591382c1@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_RedSirens.png@6c48a",
+    "value": {
+      "depends": [
+        "d1931aa4-944e-49b6-96ce-0312591382c1"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5bc5885b-d89d-4dac-acac-0435d6054b0f@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_Sirens.png@6c48a",
+    "value": {
+      "depends": [
+        "5bc5885b-d89d-4dac-acac-0435d6054b0f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "339b9300-7fba-477d-a345-ca0e0fa962b9": {
+    "url": "db://assets/Game/textures/portrait/egypt/boss/ic_scorpion_king.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "6fee2d78-e49a-4624-844e-04420497b77f": {
+    "url": "db://assets/Game/textures/portrait/egypt/boss/ic_shadomummy.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "cb7a051a-e0dd-44ad-a446-4079ed812fc9@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_RedTentacles.png@6c48a",
+    "value": {
+      "depends": [
+        "cb7a051a-e0dd-44ad-a446-4079ed812fc9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a65ccbfc-46b5-4c44-b9ed-14cd621166a9": {
+    "url": "db://assets/Game/textures/portrait/egypt/boss/ic_shadopharaoh.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "2df61e48-4bd6-4462-a19f-cfe9eb81262c@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_tentacles.png@6c48a",
+    "value": {
+      "depends": [
+        "2df61e48-4bd6-4462-a19f-cfe9eb81262c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "70c73fe6-bed6-4c57-ae64-40f3418a9e1d": {
+    "url": "db://assets/Game/textures/portrait/egypt/boss/ic_vinegarking.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "e1c5eeb4-333c-4407-8bd0-3f52f8da2c93@6c48a": {
+    "url": "db://assets/Game/textures/portrait/atlantis/monster/ic_TurretTurtle.png@6c48a",
+    "value": {
+      "depends": [
+        "e1c5eeb4-333c-4407-8bd0-3f52f8da2c93"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8ca10654-ef18-40f2-a805-5db379abc7c2": {
+    "url": "db://assets/Game/textures/portrait/egypt/hero/ic_cat_queen.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "6fee2d78-e49a-4624-844e-04420497b77f@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/boss/ic_shadomummy.png@6c48a",
+    "value": {
+      "depends": [
+        "6fee2d78-e49a-4624-844e-04420497b77f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8967da4c-ebe7-42d7-8a89-809fada638c4": {
+    "url": "db://assets/Game/textures/portrait/egypt/hero/ic_osiris.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "339b9300-7fba-477d-a345-ca0e0fa962b9@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/boss/ic_scorpion_king.png@6c48a",
+    "value": {
+      "depends": [
+        "339b9300-7fba-477d-a345-ca0e0fa962b9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "affaf1cb-cc9f-49bd-95d8-f91ec1ca2399": {
+    "url": "db://assets/Game/textures/portrait/egypt/hero/ic_pharaoh.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "a65ccbfc-46b5-4c44-b9ed-14cd621166a9@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/boss/ic_shadopharaoh.png@6c48a",
+    "value": {
+      "depends": [
+        "a65ccbfc-46b5-4c44-b9ed-14cd621166a9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0d338f67-b5b2-43c3-8939-a75780d99089": {
+    "url": "db://assets/Game/textures/portrait/egypt/hero/ic_spharaoh.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "70c73fe6-bed6-4c57-ae64-40f3418a9e1d@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/boss/ic_vinegarking.png@6c48a",
+    "value": {
+      "depends": [
+        "70c73fe6-bed6-4c57-ae64-40f3418a9e1d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ac55fd93-3d5e-4eea-9927-bac5aa687312": {
+    "url": "db://assets/Game/textures/portrait/egypt/hero/ic_sthoth.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "8ca10654-ef18-40f2-a805-5db379abc7c2@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/hero/ic_cat_queen.png@6c48a",
+    "value": {
+      "depends": [
+        "8ca10654-ef18-40f2-a805-5db379abc7c2"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8967da4c-ebe7-42d7-8a89-809fada638c4@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/hero/ic_osiris.png@6c48a",
+    "value": {
+      "depends": [
+        "8967da4c-ebe7-42d7-8a89-809fada638c4"
+      ]
+    },
+    "versionCode": 1
+  },
+  "affaf1cb-cc9f-49bd-95d8-f91ec1ca2399@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/hero/ic_pharaoh.png@6c48a",
+    "value": {
+      "depends": [
+        "affaf1cb-cc9f-49bd-95d8-f91ec1ca2399"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0d338f67-b5b2-43c3-8939-a75780d99089@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/hero/ic_spharaoh.png@6c48a",
+    "value": {
+      "depends": [
+        "0d338f67-b5b2-43c3-8939-a75780d99089"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8ca10654-ef18-40f2-a805-5db379abc7c2@f9941": {
+    "url": "db://assets/Game/textures/portrait/egypt/hero/ic_cat_queen.png@f9941",
+    "value": {
+      "depends": [
+        "8ca10654-ef18-40f2-a805-5db379abc7c2@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "eca3d095-d636-4344-be3a-a1045de20316": {
+    "url": "db://assets/Game/textures/portrait/egypt/hero/ic_thoth.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "ac55fd93-3d5e-4eea-9927-bac5aa687312@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/hero/ic_sthoth.png@6c48a",
+    "value": {
+      "depends": [
+        "ac55fd93-3d5e-4eea-9927-bac5aa687312"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8967da4c-ebe7-42d7-8a89-809fada638c4@f9941": {
+    "url": "db://assets/Game/textures/portrait/egypt/hero/ic_osiris.png@f9941",
+    "value": {
+      "depends": [
+        "8967da4c-ebe7-42d7-8a89-809fada638c4@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9f517cb4-98f3-4eb9-a297-4bf59bc0531b": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_Anubis.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "affaf1cb-cc9f-49bd-95d8-f91ec1ca2399@f9941": {
+    "url": "db://assets/Game/textures/portrait/egypt/hero/ic_pharaoh.png@f9941",
+    "value": {
+      "depends": [
+        "affaf1cb-cc9f-49bd-95d8-f91ec1ca2399@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f88426b3-5e76-4865-90b7-1904d58cc3b4": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_AnubisBlue.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "0d338f67-b5b2-43c3-8939-a75780d99089@f9941": {
+    "url": "db://assets/Game/textures/portrait/egypt/hero/ic_spharaoh.png@f9941",
+    "value": {
+      "depends": [
+        "0d338f67-b5b2-43c3-8939-a75780d99089@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e9faeafe-0249-46b6-9c9f-35bceb45eb8e": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_AnubisGreen.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "ac55fd93-3d5e-4eea-9927-bac5aa687312@f9941": {
+    "url": "db://assets/Game/textures/portrait/egypt/hero/ic_sthoth.png@f9941",
+    "value": {
+      "depends": [
+        "ac55fd93-3d5e-4eea-9927-bac5aa687312@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "431653e9-3e0a-45f9-bd1f-d6398c7488a2": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_Archers.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "eca3d095-d636-4344-be3a-a1045de20316@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/hero/ic_thoth.png@6c48a",
+    "value": {
+      "depends": [
+        "eca3d095-d636-4344-be3a-a1045de20316"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9f517cb4-98f3-4eb9-a297-4bf59bc0531b@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_Anubis.png@6c48a",
+    "value": {
+      "depends": [
+        "9f517cb4-98f3-4eb9-a297-4bf59bc0531b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "779f5916-8d99-451c-89a4-6c750ffd5f04": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_ArchersChangeColor.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f88426b3-5e76-4865-90b7-1904d58cc3b4@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_AnubisBlue.png@6c48a",
+    "value": {
+      "depends": [
+        "f88426b3-5e76-4865-90b7-1904d58cc3b4"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e9faeafe-0249-46b6-9c9f-35bceb45eb8e@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_AnubisGreen.png@6c48a",
+    "value": {
+      "depends": [
+        "e9faeafe-0249-46b6-9c9f-35bceb45eb8e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6a9910c7-21c3-4fff-93ef-b5bbdd2c266c": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_BeetleBlue.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "823df80f-a173-41ca-bb1f-3219ed7425b7": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_BeetleGreen.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "eca3d095-d636-4344-be3a-a1045de20316@f9941": {
+    "url": "db://assets/Game/textures/portrait/egypt/hero/ic_thoth.png@f9941",
+    "value": {
+      "depends": [
+        "eca3d095-d636-4344-be3a-a1045de20316@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "88eca76d-decc-4ee3-bb6c-4e5204221af0": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_BeetleRed.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "431653e9-3e0a-45f9-bd1f-d6398c7488a2@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_Archers.png@6c48a",
+    "value": {
+      "depends": [
+        "431653e9-3e0a-45f9-bd1f-d6398c7488a2"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d670d05d-f6ba-4e71-8c4e-13ebe3605e53": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_BeetleYellow.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "779f5916-8d99-451c-89a4-6c750ffd5f04@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_ArchersChangeColor.png@6c48a",
+    "value": {
+      "depends": [
+        "779f5916-8d99-451c-89a4-6c750ffd5f04"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1b9820fb-d321-43a8-99e5-804f95347b57": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_Coffin.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "6a9910c7-21c3-4fff-93ef-b5bbdd2c266c@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_BeetleBlue.png@6c48a",
+    "value": {
+      "depends": [
+        "6a9910c7-21c3-4fff-93ef-b5bbdd2c266c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "823df80f-a173-41ca-bb1f-3219ed7425b7@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_BeetleGreen.png@6c48a",
+    "value": {
+      "depends": [
+        "823df80f-a173-41ca-bb1f-3219ed7425b7"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7de2b94e-ee52-4f81-a163-1adb9181d064": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_CoffinsChangeColor.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "76962c22-2f79-43ba-a779-10025be54676": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_EgyptianViperBlue.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "88eca76d-decc-4ee3-bb6c-4e5204221af0@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_BeetleRed.png@6c48a",
+    "value": {
+      "depends": [
+        "88eca76d-decc-4ee3-bb6c-4e5204221af0"
+      ]
+    },
+    "versionCode": 1
+  },
+  "aa86a5f6-1b5d-4f39-8aac-8d4b9f646314": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_EgyptianViperGreen.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "d670d05d-f6ba-4e71-8c4e-13ebe3605e53@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_BeetleYellow.png@6c48a",
+    "value": {
+      "depends": [
+        "d670d05d-f6ba-4e71-8c4e-13ebe3605e53"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4837c1de-f953-4fa4-90a0-5a0a2ef0dc3b": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_EgyptianViperRed.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "1b9820fb-d321-43a8-99e5-804f95347b57@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_Coffin.png@6c48a",
+    "value": {
+      "depends": [
+        "1b9820fb-d321-43a8-99e5-804f95347b57"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4cbd61e3-a8eb-454a-b092-74381faf3e0e": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_EgyptianViperYellow.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "7de2b94e-ee52-4f81-a163-1adb9181d064@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_CoffinsChangeColor.png@6c48a",
+    "value": {
+      "depends": [
+        "7de2b94e-ee52-4f81-a163-1adb9181d064"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8defb5ec-4894-4a50-a9d8-eb33f64034a7": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_LancerBlue.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "76962c22-2f79-43ba-a779-10025be54676@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_EgyptianViperBlue.png@6c48a",
+    "value": {
+      "depends": [
+        "76962c22-2f79-43ba-a779-10025be54676"
+      ]
+    },
+    "versionCode": 1
+  },
+  "376596af-a490-4494-9ccc-a61653e31a48": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_Lancers.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "aa86a5f6-1b5d-4f39-8aac-8d4b9f646314@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_EgyptianViperGreen.png@6c48a",
+    "value": {
+      "depends": [
+        "aa86a5f6-1b5d-4f39-8aac-8d4b9f646314"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5260671d-de21-48e0-a4fa-66e21e067a69": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_LancerWhite.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "4837c1de-f953-4fa4-90a0-5a0a2ef0dc3b@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_EgyptianViperRed.png@6c48a",
+    "value": {
+      "depends": [
+        "4837c1de-f953-4fa4-90a0-5a0a2ef0dc3b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1b57d4d6-082c-4a79-abc0-86c9b934ff5c": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_Mummy.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "4cbd61e3-a8eb-454a-b092-74381faf3e0e@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_EgyptianViperYellow.png@6c48a",
+    "value": {
+      "depends": [
+        "4cbd61e3-a8eb-454a-b092-74381faf3e0e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6c1c03e7-0a86-4f2e-a2aa-605d8e33256c": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_MummyChangesColor.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "8defb5ec-4894-4a50-a9d8-eb33f64034a7@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_LancerBlue.png@6c48a",
+    "value": {
+      "depends": [
+        "8defb5ec-4894-4a50-a9d8-eb33f64034a7"
+      ]
+    },
+    "versionCode": 1
+  },
+  "97ab5c2b-0b55-4bd9-8e72-4785f7f145ea": {
+    "url": "db://assets/Game/textures/portrait/indi/boss/ic_bloodwind.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "376596af-a490-4494-9ccc-a61653e31a48@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_Lancers.png@6c48a",
+    "value": {
+      "depends": [
+        "376596af-a490-4494-9ccc-a61653e31a48"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5260671d-de21-48e0-a4fa-66e21e067a69@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_LancerWhite.png@6c48a",
+    "value": {
+      "depends": [
+        "5260671d-de21-48e0-a4fa-66e21e067a69"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c96e50ac-ef08-432a-8658-124800b484ef": {
+    "url": "db://assets/Game/textures/portrait/indi/boss/ic_cipacret.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "ef058b16-9144-4ff3-92b2-852ecf9e2c9e": {
+    "url": "db://assets/Game/textures/portrait/indi/boss/ic_sbloodwind.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "1b57d4d6-082c-4a79-abc0-86c9b934ff5c@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_Mummy.png@6c48a",
+    "value": {
+      "depends": [
+        "1b57d4d6-082c-4a79-abc0-86c9b934ff5c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c6f7b40b-cb59-4c6a-8890-c015efc5e6f5": {
+    "url": "db://assets/Game/textures/portrait/indi/boss/ic_scipacret.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "6c1c03e7-0a86-4f2e-a2aa-605d8e33256c@6c48a": {
+    "url": "db://assets/Game/textures/portrait/egypt/monster/ic_MummyChangesColor.png@6c48a",
+    "value": {
+      "depends": [
+        "6c1c03e7-0a86-4f2e-a2aa-605d8e33256c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b9815935-3260-4973-afdd-eb2b0a93d940": {
+    "url": "db://assets/Game/textures/portrait/indi/hero/ic_huchcy.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "97ab5c2b-0b55-4bd9-8e72-4785f7f145ea@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/boss/ic_bloodwind.png@6c48a",
+    "value": {
+      "depends": [
+        "97ab5c2b-0b55-4bd9-8e72-4785f7f145ea"
+      ]
+    },
+    "versionCode": 1
+  },
+  "276c533f-f19e-41f9-9bfd-d98c7ba8e21f": {
+    "url": "db://assets/Game/textures/portrait/indi/hero/ic_jones.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "c96e50ac-ef08-432a-8658-124800b484ef@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/boss/ic_cipacret.png@6c48a",
+    "value": {
+      "depends": [
+        "c96e50ac-ef08-432a-8658-124800b484ef"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a6d9dca5-2004-4d75-a72b-b7a213f4e714": {
+    "url": "db://assets/Game/textures/portrait/indi/hero/ic_stlaloc.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "ef058b16-9144-4ff3-92b2-852ecf9e2c9e@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/boss/ic_sbloodwind.png@6c48a",
+    "value": {
+      "depends": [
+        "ef058b16-9144-4ff3-92b2-852ecf9e2c9e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8ee40652-ec27-44e8-baa0-a8e2cfa21a94": {
+    "url": "db://assets/Game/textures/portrait/indi/hero/ic_supejones.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "c6f7b40b-cb59-4c6a-8890-c015efc5e6f5@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/boss/ic_scipacret.png@6c48a",
+    "value": {
+      "depends": [
+        "c6f7b40b-cb59-4c6a-8890-c015efc5e6f5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "919187fd-50a0-4002-ad12-40f4a46d4174": {
+    "url": "db://assets/Game/textures/portrait/indi/hero/ic_tizerc.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "b9815935-3260-4973-afdd-eb2b0a93d940@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/hero/ic_huchcy.png@6c48a",
+    "value": {
+      "depends": [
+        "b9815935-3260-4973-afdd-eb2b0a93d940"
+      ]
+    },
+    "versionCode": 1
+  },
+  "276c533f-f19e-41f9-9bfd-d98c7ba8e21f@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/hero/ic_jones.png@6c48a",
+    "value": {
+      "depends": [
+        "276c533f-f19e-41f9-9bfd-d98c7ba8e21f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a6d9dca5-2004-4d75-a72b-b7a213f4e714@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/hero/ic_stlaloc.png@6c48a",
+    "value": {
+      "depends": [
+        "a6d9dca5-2004-4d75-a72b-b7a213f4e714"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8ee40652-ec27-44e8-baa0-a8e2cfa21a94@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/hero/ic_supejones.png@6c48a",
+    "value": {
+      "depends": [
+        "8ee40652-ec27-44e8-baa0-a8e2cfa21a94"
+      ]
+    },
+    "versionCode": 1
+  },
+  "919187fd-50a0-4002-ad12-40f4a46d4174@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/hero/ic_tizerc.png@6c48a",
+    "value": {
+      "depends": [
+        "919187fd-50a0-4002-ad12-40f4a46d4174"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b9815935-3260-4973-afdd-eb2b0a93d940@f9941": {
+    "url": "db://assets/Game/textures/portrait/indi/hero/ic_huchcy.png@f9941",
+    "value": {
+      "depends": [
+        "b9815935-3260-4973-afdd-eb2b0a93d940@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f14220fd-b242-4ba3-85a0-fdc16ce6c1b5": {
+    "url": "db://assets/Game/textures/portrait/indi/hero/ic_tlaloc.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "276c533f-f19e-41f9-9bfd-d98c7ba8e21f@f9941": {
+    "url": "db://assets/Game/textures/portrait/indi/hero/ic_jones.png@f9941",
+    "value": {
+      "depends": [
+        "276c533f-f19e-41f9-9bfd-d98c7ba8e21f@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "69ee3bed-3716-4b4a-8c93-5e4d741cfc06": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_BlackWizard.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "a6d9dca5-2004-4d75-a72b-b7a213f4e714@f9941": {
+    "url": "db://assets/Game/textures/portrait/indi/hero/ic_stlaloc.png@f9941",
+    "value": {
+      "depends": [
+        "a6d9dca5-2004-4d75-a72b-b7a213f4e714@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d0b0d2d9-1dac-4708-a24b-8fcd8986b46f": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_GiantSpiders.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "8ee40652-ec27-44e8-baa0-a8e2cfa21a94@f9941": {
+    "url": "db://assets/Game/textures/portrait/indi/hero/ic_supejones.png@f9941",
+    "value": {
+      "depends": [
+        "8ee40652-ec27-44e8-baa0-a8e2cfa21a94@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "873e91fd-6ca5-499c-91bc-40fcc9447a0e": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_GoldenWizard.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "919187fd-50a0-4002-ad12-40f4a46d4174@f9941": {
+    "url": "db://assets/Game/textures/portrait/indi/hero/ic_tizerc.png@f9941",
+    "value": {
+      "depends": [
+        "919187fd-50a0-4002-ad12-40f4a46d4174@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1c30fff0-a1f3-457c-ac98-53517ab3cdc5": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_GreenWizard.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f14220fd-b242-4ba3-85a0-fdc16ce6c1b5@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/hero/ic_tlaloc.png@6c48a",
+    "value": {
+      "depends": [
+        "f14220fd-b242-4ba3-85a0-fdc16ce6c1b5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "69ee3bed-3716-4b4a-8c93-5e4d741cfc06@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_BlackWizard.png@6c48a",
+    "value": {
+      "depends": [
+        "69ee3bed-3716-4b4a-8c93-5e4d741cfc06"
+      ]
+    },
+    "versionCode": 1
+  },
+  "79bfd558-baab-416f-8c7b-fe170bb3f0e1": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_NativeWarrior.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "873e91fd-6ca5-499c-91bc-40fcc9447a0e@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_GoldenWizard.png@6c48a",
+    "value": {
+      "depends": [
+        "873e91fd-6ca5-499c-91bc-40fcc9447a0e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d0b0d2d9-1dac-4708-a24b-8fcd8986b46f@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_GiantSpiders.png@6c48a",
+    "value": {
+      "depends": [
+        "d0b0d2d9-1dac-4708-a24b-8fcd8986b46f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e1927522-8733-4102-ba65-8997db419b93": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_SnakeMan.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "ed6b4af8-5bb9-4714-b473-9132e3e8eb65": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_SnakeMan1.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "1c30fff0-a1f3-457c-ac98-53517ab3cdc5@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_GreenWizard.png@6c48a",
+    "value": {
+      "depends": [
+        "1c30fff0-a1f3-457c-ac98-53517ab3cdc5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1776e31a-cee2-44bb-9b29-fd18048c511e": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_SnakeMan2.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f14220fd-b242-4ba3-85a0-fdc16ce6c1b5@f9941": {
+    "url": "db://assets/Game/textures/portrait/indi/hero/ic_tlaloc.png@f9941",
+    "value": {
+      "depends": [
+        "f14220fd-b242-4ba3-85a0-fdc16ce6c1b5@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d4c4ae33-ef49-4bd1-8f32-d149dc215517": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_SnakeMan3.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "79bfd558-baab-416f-8c7b-fe170bb3f0e1@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_NativeWarrior.png@6c48a",
+    "value": {
+      "depends": [
+        "79bfd558-baab-416f-8c7b-fe170bb3f0e1"
+      ]
+    },
+    "versionCode": 1
+  },
+  "db68e56f-b77d-41d1-b5bb-f600a7df3de7": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_TheBlueWizard.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "e1927522-8733-4102-ba65-8997db419b93@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_SnakeMan.png@6c48a",
+    "value": {
+      "depends": [
+        "e1927522-8733-4102-ba65-8997db419b93"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6c0376d5-5485-4dfc-a2f1-8fb6676c07d1": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_TheGiantBlackSpider.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "ed6b4af8-5bb9-4714-b473-9132e3e8eb65@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_SnakeMan1.png@6c48a",
+    "value": {
+      "depends": [
+        "ed6b4af8-5bb9-4714-b473-9132e3e8eb65"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1776e31a-cee2-44bb-9b29-fd18048c511e@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_SnakeMan2.png@6c48a",
+    "value": {
+      "depends": [
+        "1776e31a-cee2-44bb-9b29-fd18048c511e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "10e5b9bb-8f58-467d-9e43-f99403e88f3b": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_TheGiantBrownSpider.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "1915790a-6b35-4cd5-8a24-e973fcd4e2be": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_TheGiantGreenSpider.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "d4c4ae33-ef49-4bd1-8f32-d149dc215517@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_SnakeMan3.png@6c48a",
+    "value": {
+      "depends": [
+        "d4c4ae33-ef49-4bd1-8f32-d149dc215517"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c675bc4c-331d-487b-9bec-6c89cb3145b6": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/cannonturtle.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "db68e56f-b77d-41d1-b5bb-f600a7df3de7@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_TheBlueWizard.png@6c48a",
+    "value": {
+      "depends": [
+        "db68e56f-b77d-41d1-b5bb-f600a7df3de7"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6c0376d5-5485-4dfc-a2f1-8fb6676c07d1@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_TheGiantBlackSpider.png@6c48a",
+    "value": {
+      "depends": [
+        "6c0376d5-5485-4dfc-a2f1-8fb6676c07d1"
+      ]
+    },
+    "versionCode": 1
+  },
+  "97217455-06d3-4da1-a800-38e0b221a0d4": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/chighost_armour.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "3df26f5a-06be-4170-9bd9-efb344a78fc9": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/chighost_blue.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "1915790a-6b35-4cd5-8a24-e973fcd4e2be@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_TheGiantGreenSpider.png@6c48a",
+    "value": {
+      "depends": [
+        "1915790a-6b35-4cd5-8a24-e973fcd4e2be"
+      ]
+    },
+    "versionCode": 1
+  },
+  "10e5b9bb-8f58-467d-9e43-f99403e88f3b@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/ic_TheGiantBrownSpider.png@6c48a",
+    "value": {
+      "depends": [
+        "10e5b9bb-8f58-467d-9e43-f99403e88f3b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5c55f2e6-1721-4f9f-96b2-3b1b30b23701": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/chighost_green.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "6d7a2097-39eb-45b0-b0cf-9990a0992f28": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/chighost_purple.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "c675bc4c-331d-487b-9bec-6c89cb3145b6@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/cannonturtle.png@6c48a",
+    "value": {
+      "depends": [
+        "c675bc4c-331d-487b-9bec-6c89cb3145b6"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a477fa45-eda8-4a78-b2dc-ac334c040d5d": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/chighost_red.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "97217455-06d3-4da1-a800-38e0b221a0d4@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/chighost_armour.png@6c48a",
+    "value": {
+      "depends": [
+        "97217455-06d3-4da1-a800-38e0b221a0d4"
+      ]
+    },
+    "versionCode": 1
+  },
+  "abffcd97-8f0f-4f61-a061-f5fca72d25ca": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/indiwarrio.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "5c55f2e6-1721-4f9f-96b2-3b1b30b23701@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/chighost_green.png@6c48a",
+    "value": {
+      "depends": [
+        "5c55f2e6-1721-4f9f-96b2-3b1b30b23701"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3df26f5a-06be-4170-9bd9-efb344a78fc9@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/chighost_blue.png@6c48a",
+    "value": {
+      "depends": [
+        "3df26f5a-06be-4170-9bd9-efb344a78fc9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6d7a2097-39eb-45b0-b0cf-9990a0992f28@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/chighost_purple.png@6c48a",
+    "value": {
+      "depends": [
+        "6d7a2097-39eb-45b0-b0cf-9990a0992f28"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b5e07d3f-fd13-43ad-8701-213da69bdd79": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/indiwarrior_bird.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f237c7db-0f6a-48fb-b60f-e6497a0de4e9": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/indiwarrior_brown.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "e72f4cec-599d-4091-86b4-028fb8c3c026": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/indiwarrior_green.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "a477fa45-eda8-4a78-b2dc-ac334c040d5d@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/chighost_red.png@6c48a",
+    "value": {
+      "depends": [
+        "a477fa45-eda8-4a78-b2dc-ac334c040d5d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4d2cd84d-fde9-498d-8261-68f590bc9b09": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/indiwarrior_knife.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "abffcd97-8f0f-4f61-a061-f5fca72d25ca@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/indiwarrio.png@6c48a",
+    "value": {
+      "depends": [
+        "abffcd97-8f0f-4f61-a061-f5fca72d25ca"
+      ]
+    },
+    "versionCode": 1
+  },
+  "358e1ec6-1b8e-4857-8bc9-f102ec0fa341": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/indiwarrior_purple.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f237c7db-0f6a-48fb-b60f-e6497a0de4e9@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/indiwarrior_brown.png@6c48a",
+    "value": {
+      "depends": [
+        "f237c7db-0f6a-48fb-b60f-e6497a0de4e9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "59b9d9c6-7c1e-4cd9-aaa9-5c5dac2d5081": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/indiwarrior_red.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "b5e07d3f-fd13-43ad-8701-213da69bdd79@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/indiwarrior_bird.png@6c48a",
+    "value": {
+      "depends": [
+        "b5e07d3f-fd13-43ad-8701-213da69bdd79"
+      ]
+    },
+    "versionCode": 1
+  },
+  "42c40a58-212c-46d6-bf18-ccb2bc7a89d6": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/murloc.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "e72f4cec-599d-4091-86b4-028fb8c3c026@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/indiwarrior_green.png@6c48a",
+    "value": {
+      "depends": [
+        "e72f4cec-599d-4091-86b4-028fb8c3c026"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1ddb0f8a-a848-4590-82c8-21664e86cd0f": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/murloc_black.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "4d2cd84d-fde9-498d-8261-68f590bc9b09@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/indiwarrior_knife.png@6c48a",
+    "value": {
+      "depends": [
+        "4d2cd84d-fde9-498d-8261-68f590bc9b09"
+      ]
+    },
+    "versionCode": 1
+  },
+  "19672ff4-04a5-4aca-8c28-7906c2d8b715": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/murloc_blue.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "358e1ec6-1b8e-4857-8bc9-f102ec0fa341@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/indiwarrior_purple.png@6c48a",
+    "value": {
+      "depends": [
+        "358e1ec6-1b8e-4857-8bc9-f102ec0fa341"
+      ]
+    },
+    "versionCode": 1
+  },
+  "59b9d9c6-7c1e-4cd9-aaa9-5c5dac2d5081@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/indiwarrior_red.png@6c48a",
+    "value": {
+      "depends": [
+        "59b9d9c6-7c1e-4cd9-aaa9-5c5dac2d5081"
+      ]
+    },
+    "versionCode": 1
+  },
+  "42c40a58-212c-46d6-bf18-ccb2bc7a89d6@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/murloc.png@6c48a",
+    "value": {
+      "depends": [
+        "42c40a58-212c-46d6-bf18-ccb2bc7a89d6"
+      ]
+    },
+    "versionCode": 1
+  },
+  "19672ff4-04a5-4aca-8c28-7906c2d8b715@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/murloc_blue.png@6c48a",
+    "value": {
+      "depends": [
+        "19672ff4-04a5-4aca-8c28-7906c2d8b715"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1ddb0f8a-a848-4590-82c8-21664e86cd0f@6c48a": {
+    "url": "db://assets/Game/textures/portrait/indi/monster/littleMonsterHead/murloc_black.png@6c48a",
+    "value": {
+      "depends": [
+        "1ddb0f8a-a848-4590-82c8-21664e86cd0f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "bece3c4f-4bac-4c75-ab00-9248250227f8": {
+    "url": "db://assets/Game/ground.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "bece3c4f-4bac-4c75-ab00-9248250227f8@6c48a": {
+    "url": "db://assets/Game/ground.png@6c48a",
+    "value": {
+      "depends": [
+        "bece3c4f-4bac-4c75-ab00-9248250227f8"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2653ca33-9f62-4870-9578-60fbc508cf84": {
+    "url": "db://assets/Game/migrate-canvas.ts",
+    "value": {},
+    "versionCode": 1
+  }
+}

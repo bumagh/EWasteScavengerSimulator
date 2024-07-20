@@ -1,0 +1,1504 @@
+2024-7-20 21:42:20 - log: Load engine in C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine
+2024-7-20 21:42:21 - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,meshopt,particle-2d,physics-2d-box2d,profiler,spine,tiled-map,tween,ui,video,webview)
+2024-7-20 21:42:21 - log: Register native engine in C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\native
+2024-7-20 21:42:21 - log: Request namespace: device-list
+2024-7-20 21:42:28 - log: [Scene] meshopt wasm decoder initialized
+2024-7-20 21:42:28 - log: [Scene] [box2d]:box2d wasm lib loaded.
+2024-7-20 21:42:28 - log: [Scene] [bullet]:bullet wasm lib loaded.
+2024-7-20 21:42:28 - log: [Scene] [PHYSICS]: using builtin.
+2024-7-20 21:42:29 - log: [Scene] Cocos Creator v3.8.3
+2024-7-20 21:42:29 - info: [Scene] Forward render pipeline initialized.
+2024-7-20 21:42:29 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2024-7-20 23:05:41 - error: [Window] Can not change the asset "db://assets/Game/textures/portrait", because the original asset is not exist. Maybe it is a new asset.Error: [Window] Can not change the asset "db://assets/Game/textures/portrait", because the original asset is not exist. Maybe it is a new asset.
+    at Object.changed (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\modules\editor-extensions\extensions\assets\dist\components\tree-data.ccc:1:3993)
+    at VueComponent.changed (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\modules\editor-extensions\extensions\assets\dist\components\tree.ccc:1:6611)
+    at Object.changed (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\modules\editor-extensions\extensions\assets\dist\panel.ccc:1:9100)
+    at C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\node_modules\@editor\panel\lib\element.ccc:1:5038
+    at new Promise (<anonymous>)
+    at EventEmitter.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\node_modules\@editor\panel\lib\element.ccc:1:4999)
+    at EventEmitter.emit (events.js:315:20)
+2024-7-20 23:05:41 - log: D:\2work\4cocos\5demos\UIDemo1\assets\textures 资源 meta 文件已存在，跳过 meta 导入，如果需要请在偏好设置内开启
+2024-7-20 23:07:07 - error: [Programming] {hidden(::PackerDriver::)} 无法解析入口 file:///D:/2work/2GameDev/EWasteScavengerSimulatorCocos2d/assets/Game/migrate-canvas.ts。[Programming] {hidden(::PackerDriver::)} 无法解析入口 file:///D:/2work/2GameDev/EWasteScavengerSimulatorCocos2d/assets/Game/migrate-canvas.ts。  
+at PackerDriverLogger.error (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\programming\dist\packer-driver\logger.ccc:1:1098)  
+at QuickPack._resolveEntry (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:116:26)  
+at async QuickPack.build (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:52:25)  
+at async PackTarget.build (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:3:4120)  
+at async PackerDriver._startBuildIteration (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:2:554)
+2024-7-20 23:07:07 - error: [Programming] {hidden(::PackerDriver::)} 无法解析入口 file:///D:/2work/2GameDev/EWasteScavengerSimulatorCocos2d/assets/Game/migrate-canvas.ts。[Programming] {hidden(::PackerDriver::)} 无法解析入口 file:///D:/2work/2GameDev/EWasteScavengerSimulatorCocos2d/assets/Game/migrate-canvas.ts。  
+at PackerDriverLogger.error (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\programming\dist\packer-driver\logger.ccc:1:1098)  
+at QuickPack._resolveEntry (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:116:26)  
+at async QuickPack.build (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:52:25)  
+at async PackTarget.build (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:3:4120)  
+at async PackerDriver._startBuildIteration (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:2:554)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: 731777n3LdF7rEriG3jUd4KError: [Scene] Missing class: 731777n3LdF7rEriG3jUd4K
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: 0d6f9QGL49Fa4UGVF9fmZrdError: [Scene] Missing class: 0d6f9QGL49Fa4UGVF9fmZrd
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: ee01cuuXWdKPp3K6ZSH+XiOError: [Scene] Missing class: ee01cuuXWdKPp3K6ZSH+XiO
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: ee01cuuXWdKPp3K6ZSH+XiOError: [Scene] Missing class: ee01cuuXWdKPp3K6ZSH+XiO
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: 88c12+9VW9MSa0k23tDsf+rError: [Scene] Missing class: 88c12+9VW9MSa0k23tDsf+r
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: bc2c4zW09lHwpndXfuPHzZvError: [Scene] Missing class: bc2c4zW09lHwpndXfuPHzZv
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: 6cf851wT2xK+7apBEpV2PF2Error: [Scene] Missing class: 6cf851wT2xK+7apBEpV2PF2
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: edc2a7itdpDQ5BDY+sVWkwJError: [Scene] Missing class: edc2a7itdpDQ5BDY+sVWkwJ
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnCharge" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop/shop_menu/btnCharge"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnCharge" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop/shop_menu/btnCharge"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_close" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/btn_close"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_close" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/btn_close"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_sm_red" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/btn_sm_red"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_sm_red" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/btn_sm_red"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_sm_blue" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/btn_sm_blue"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_sm_blue" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/btn_sm_blue"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_charge" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/header/btn_charge"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_charge" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/header/btn_charge"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnBuy" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/content/item1/btnBuy"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnBuy" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/content/item1/btnBuy"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnBuy" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/content/item2/btnBuy"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnBuy" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/content/item2/btnBuy"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnBuy" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/content/item3/btnBuy"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnBuy" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/content/item3/btnBuy"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "731777n3LdF7rEriG3jUd4K" attached to "chargePanel" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ChargeUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "73177ee7-dcb7-45ee-b12b-886de351de0a"
+Class ID: "731777n3LdF7rEriG3jUd4K"
+Error: [Scene] Script "731777n3LdF7rEriG3jUd4K" attached to "chargePanel" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ChargeUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "73177ee7-dcb7-45ee-b12b-886de351de0a"
+Class ID: "731777n3LdF7rEriG3jUd4K"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnUnlock" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop/shop_menu/btnUnlock"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnUnlock" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop/shop_menu/btnUnlock"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnExpand" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop/shop_menu/btnExpand"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnExpand" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop/shop_menu/btnExpand"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnStamima" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop/shop_menu/btnStamima"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnStamima" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop/shop_menu/btnStamima"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnEnergy" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop/shop_menu/btnEnergy"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnEnergy" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop/shop_menu/btnEnergy"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "0d6f9QGL49Fa4UGVF9fmZrd" attached to "Shop" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ShopUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "0d6f9406-2f8f-456b-8506-545f5f999add"
+Class ID: "0d6f9QGL49Fa4UGVF9fmZrd"
+Error: [Scene] Script "0d6f9QGL49Fa4UGVF9fmZrd" attached to "Shop" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ShopUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "0d6f9406-2f8f-456b-8506-545f5f999add"
+Class ID: "0d6f9QGL49Fa4UGVF9fmZrd"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "ee01cuuXWdKPp3K6ZSH+XiO" attached to "pvp_timer" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/upper/pvp_timer"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\EnergyCounter.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "ee01cbae-5d67-4a3e-9dca-e99487f9788e"
+Class ID: "ee01cuuXWdKPp3K6ZSH+XiO"
+Error: [Scene] Script "ee01cuuXWdKPp3K6ZSH+XiO" attached to "pvp_timer" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/upper/pvp_timer"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\EnergyCounter.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "ee01cbae-5d67-4a3e-9dca-e99487f9788e"
+Class ID: "ee01cuuXWdKPp3K6ZSH+XiO"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "ee01cuuXWdKPp3K6ZSH+XiO" attached to "pve_timer" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/upper/pve_timer"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\EnergyCounter.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "ee01cbae-5d67-4a3e-9dca-e99487f9788e"
+Class ID: "ee01cuuXWdKPp3K6ZSH+XiO"
+Error: [Scene] Script "ee01cuuXWdKPp3K6ZSH+XiO" attached to "pve_timer" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/upper/pve_timer"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\EnergyCounter.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "ee01cbae-5d67-4a3e-9dca-e99487f9788e"
+Class ID: "ee01cuuXWdKPp3K6ZSH+XiO"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_message" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/upper/btn_message"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_message" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/upper/btn_message"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnLeft" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack/btnLeft"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnLeft" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack/btnLeft"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnRight" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack/btnRight"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnRight" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack/btnRight"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_sell" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack/btn_sell"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_sell" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack/btn_sell"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_upgrade" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack/btn_upgrade"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_upgrade" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack/btn_upgrade"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_upgrade" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack/btn_upgrade"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_upgrade" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack/btn_upgrade"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "88c12+9VW9MSa0k23tDsf+r" attached to "backPack" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\BackPackUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "88c12fbd-556f-4c49-ad24-db7b43b1ffab"
+Class ID: "88c12+9VW9MSa0k23tDsf+r"
+Error: [Scene] Script "88c12+9VW9MSa0k23tDsf+r" attached to "backPack" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\BackPackUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "88c12fbd-556f-4c49-ad24-db7b43b1ffab"
+Class ID: "88c12+9VW9MSa0k23tDsf+r"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "bc2c4zW09lHwpndXfuPHzZv" attached to "sub_btns" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/sub_btns"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\SubBtnsUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "bc2c4cd6-d3d9-47c2-99dd-5dfb8f1f366f"
+Class ID: "bc2c4zW09lHwpndXfuPHzZv"
+Error: [Scene] Script "bc2c4zW09lHwpndXfuPHzZv" attached to "sub_btns" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/sub_btns"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\SubBtnsUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "bc2c4cd6-d3d9-47c2-99dd-5dfb8f1f366f"
+Class ID: "bc2c4zW09lHwpndXfuPHzZv"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_home" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_home"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_home" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_home"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_level" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_level"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_level" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_level"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_raid" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_raid"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_raid" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_raid"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "6cf851wT2xK+7apBEpV2PF2" attached to "chanllenge" is missing or invalid. Detailed information:
+Node path: "Canvas/chanllenge"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ChallengeUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "6cf85d70-4f6c-4afb-b6a9-044a55d8f176"
+Class ID: "6cf851wT2xK+7apBEpV2PF2"
+Error: [Scene] Script "6cf851wT2xK+7apBEpV2PF2" attached to "chanllenge" is missing or invalid. Detailed information:
+Node path: "Canvas/chanllenge"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ChallengeUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "6cf85d70-4f6c-4afb-b6a9-044a55d8f176"
+Class ID: "6cf851wT2xK+7apBEpV2PF2"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_shop" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_shop"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_shop" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_shop"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_friends" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_friends"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_friends" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_friends"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_setting" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_setting"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_setting" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_setting"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "edc2a7itdpDQ5BDY+sVWkwJ" attached to "Home" is missing or invalid. Detailed information:
+Node path: "Canvas/Home"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\HomeUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "edc2aee2-b5da-4343-9043-63eb155a4c09"
+Class ID: "edc2a7itdpDQ5BDY+sVWkwJ"
+Error: [Scene] Script "edc2a7itdpDQ5BDY+sVWkwJ" attached to "Home" is missing or invalid. Detailed information:
+Node path: "Canvas/Home"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\HomeUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "edc2aee2-b5da-4343-9043-63eb155a4c09"
+Class ID: "edc2a7itdpDQ5BDY+sVWkwJ"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: 731777n3LdF7rEriG3jUd4KError: [Scene] Missing class: 731777n3LdF7rEriG3jUd4K
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: 0d6f9QGL49Fa4UGVF9fmZrdError: [Scene] Missing class: 0d6f9QGL49Fa4UGVF9fmZrd
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: ee01cuuXWdKPp3K6ZSH+XiOError: [Scene] Missing class: ee01cuuXWdKPp3K6ZSH+XiO
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: ee01cuuXWdKPp3K6ZSH+XiOError: [Scene] Missing class: ee01cuuXWdKPp3K6ZSH+XiO
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: 88c12+9VW9MSa0k23tDsf+rError: [Scene] Missing class: 88c12+9VW9MSa0k23tDsf+r
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: bc2c4zW09lHwpndXfuPHzZvError: [Scene] Missing class: bc2c4zW09lHwpndXfuPHzZv
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: 6cf851wT2xK+7apBEpV2PF2Error: [Scene] Missing class: 6cf851wT2xK+7apBEpV2PF2
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9Error: [Scene] Missing class: aeffbvAe81PUK6yo5lqC9d9
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - warn: [Scene] Missing class: edc2a7itdpDQ5BDY+sVWkwJError: [Scene] Missing class: edc2a7itdpDQ5BDY+sVWkwJ
+    at Object.classFinder (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:982)
+    at _Deserializer.classFinder [as _classFinder] (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:118036:34)
+    at _Deserializer._deserializeTypeTaggedObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49035:30)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48989:29)
+    at _Deserializer._deserializeAndAssignField (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49156:38)
+    at _Deserializer._deserializeArray (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:49017:40)
+    at _Deserializer._deserializeObject (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:48995:29)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnCharge" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop/shop_menu/btnCharge"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnCharge" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop/shop_menu/btnCharge"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_close" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/btn_close"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_close" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/btn_close"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_sm_red" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/btn_sm_red"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_sm_red" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/btn_sm_red"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_sm_blue" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/btn_sm_blue"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_sm_blue" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/btn_sm_blue"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_charge" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/header/btn_charge"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_charge" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/header/btn_charge"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnBuy" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/content/item1/btnBuy"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnBuy" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/content/item1/btnBuy"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnBuy" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/content/item2/btnBuy"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnBuy" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/content/item2/btnBuy"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnBuy" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/content/item3/btnBuy"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnBuy" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel/content/item3/btnBuy"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "731777n3LdF7rEriG3jUd4K" attached to "chargePanel" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ChargeUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "73177ee7-dcb7-45ee-b12b-886de351de0a"
+Class ID: "731777n3LdF7rEriG3jUd4K"
+Error: [Scene] Script "731777n3LdF7rEriG3jUd4K" attached to "chargePanel" is missing or invalid. Detailed information:
+Node path: "Canvas/chargePanel"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ChargeUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "73177ee7-dcb7-45ee-b12b-886de351de0a"
+Class ID: "731777n3LdF7rEriG3jUd4K"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnUnlock" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop/shop_menu/btnUnlock"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnUnlock" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop/shop_menu/btnUnlock"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnExpand" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop/shop_menu/btnExpand"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnExpand" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop/shop_menu/btnExpand"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnStamima" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop/shop_menu/btnStamima"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnStamima" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop/shop_menu/btnStamima"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnEnergy" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop/shop_menu/btnEnergy"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnEnergy" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop/shop_menu/btnEnergy"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "0d6f9QGL49Fa4UGVF9fmZrd" attached to "Shop" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ShopUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "0d6f9406-2f8f-456b-8506-545f5f999add"
+Class ID: "0d6f9QGL49Fa4UGVF9fmZrd"
+Error: [Scene] Script "0d6f9QGL49Fa4UGVF9fmZrd" attached to "Shop" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/Shop"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ShopUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "0d6f9406-2f8f-456b-8506-545f5f999add"
+Class ID: "0d6f9QGL49Fa4UGVF9fmZrd"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "ee01cuuXWdKPp3K6ZSH+XiO" attached to "pvp_timer" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/upper/pvp_timer"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\EnergyCounter.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "ee01cbae-5d67-4a3e-9dca-e99487f9788e"
+Class ID: "ee01cuuXWdKPp3K6ZSH+XiO"
+Error: [Scene] Script "ee01cuuXWdKPp3K6ZSH+XiO" attached to "pvp_timer" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/upper/pvp_timer"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\EnergyCounter.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "ee01cbae-5d67-4a3e-9dca-e99487f9788e"
+Class ID: "ee01cuuXWdKPp3K6ZSH+XiO"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "ee01cuuXWdKPp3K6ZSH+XiO" attached to "pve_timer" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/upper/pve_timer"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\EnergyCounter.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "ee01cbae-5d67-4a3e-9dca-e99487f9788e"
+Class ID: "ee01cuuXWdKPp3K6ZSH+XiO"
+Error: [Scene] Script "ee01cuuXWdKPp3K6ZSH+XiO" attached to "pve_timer" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/upper/pve_timer"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\EnergyCounter.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "ee01cbae-5d67-4a3e-9dca-e99487f9788e"
+Class ID: "ee01cuuXWdKPp3K6ZSH+XiO"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_message" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/upper/btn_message"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_message" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/upper/btn_message"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnLeft" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack/btnLeft"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnLeft" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack/btnLeft"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnRight" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack/btnRight"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btnRight" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack/btnRight"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_sell" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack/btn_sell"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_sell" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack/btn_sell"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_upgrade" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack/btn_upgrade"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_upgrade" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack/btn_upgrade"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_upgrade" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack/btn_upgrade"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_upgrade" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack/btn_upgrade"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "88c12+9VW9MSa0k23tDsf+r" attached to "backPack" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\BackPackUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "88c12fbd-556f-4c49-ad24-db7b43b1ffab"
+Class ID: "88c12+9VW9MSa0k23tDsf+r"
+Error: [Scene] Script "88c12+9VW9MSa0k23tDsf+r" attached to "backPack" is missing or invalid. Detailed information:
+Node path: "Canvas/backPack"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\BackPackUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "88c12fbd-556f-4c49-ad24-db7b43b1ffab"
+Class ID: "88c12+9VW9MSa0k23tDsf+r"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "bc2c4zW09lHwpndXfuPHzZv" attached to "sub_btns" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/sub_btns"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\SubBtnsUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "bc2c4cd6-d3d9-47c2-99dd-5dfb8f1f366f"
+Class ID: "bc2c4zW09lHwpndXfuPHzZv"
+Error: [Scene] Script "bc2c4zW09lHwpndXfuPHzZv" attached to "sub_btns" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/sub_btns"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\SubBtnsUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "bc2c4cd6-d3d9-47c2-99dd-5dfb8f1f366f"
+Class ID: "bc2c4zW09lHwpndXfuPHzZv"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_home" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_home"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_home" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_home"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_level" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_level"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_level" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_level"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_raid" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_raid"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_raid" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_raid"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "6cf851wT2xK+7apBEpV2PF2" attached to "chanllenge" is missing or invalid. Detailed information:
+Node path: "Canvas/chanllenge"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ChallengeUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "6cf85d70-4f6c-4afb-b6a9-044a55d8f176"
+Class ID: "6cf851wT2xK+7apBEpV2PF2"
+Error: [Scene] Script "6cf851wT2xK+7apBEpV2PF2" attached to "chanllenge" is missing or invalid. Detailed information:
+Node path: "Canvas/chanllenge"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ChallengeUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "6cf85d70-4f6c-4afb-b6a9-044a55d8f176"
+Class ID: "6cf851wT2xK+7apBEpV2PF2"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_shop" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_shop"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_shop" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_shop"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_friends" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_friends"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_friends" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_friends"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_setting" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_setting"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+Error: [Scene] Script "aeffbvAe81PUK6yo5lqC9d9" attached to "btn_setting" is missing or invalid. Detailed information:
+Node path: "Canvas/Home/lower/main_btns/layout/btn_setting"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\ButtonScaler.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d"
+Class ID: "aeffbvAe81PUK6yo5lqC9d9"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)
+2024-7-20 23:07:07 - error: [Scene] Script "edc2a7itdpDQ5BDY+sVWkwJ" attached to "Home" is missing or invalid. Detailed information:
+Node path: "Canvas/Home"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\HomeUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "edc2aee2-b5da-4343-9043-63eb155a4c09"
+Class ID: "edc2a7itdpDQ5BDY+sVWkwJ"
+Error: [Scene] Script "edc2a7itdpDQ5BDY+sVWkwJ" attached to "Home" is missing or invalid. Detailed information:
+Node path: "Canvas/Home"
+Script file: "D:\2work\2GameDev\EWasteScavengerSimulatorCocos2d\assets\Game\scripts-001\HomeUI.ts"
+Script deleted time: "2024/7/20下午11:07:06"
+Script UUID: "edc2aee2-b5da-4343-9043-63eb155a4c09"
+Class ID: "edc2a7itdpDQ5BDY+sVWkwJ"
+
+    at report (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:25)
+    at reportByWalker (C:\ProgramData\cocos\editors\Creator\3.8.3\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:7:127)

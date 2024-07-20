@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "AMD Ryzen 5 5600 6-Core Processor              ",
+        "version": "Windows 10 Pro"
+    },
+    "sceneListMap": {
+        "49d2fca9-9fa0-4ac4-aa39-5b86afcba392": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scenes\\Game.scene"
+    },
+    "deviceMd5": "76914541cc6ceb48794eb038ce05cb00"
+}

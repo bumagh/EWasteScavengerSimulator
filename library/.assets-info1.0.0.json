@@ -1,0 +1,2199 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Libraries.meta": {
+      "time": 1713363749257.1196
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Libraries\\Algorithm.ts.meta": {
+      "time": 1721483858563.0398
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Libraries\\Debug.ts.meta": {
+      "time": 1721483858564.04
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Libraries\\EventManager.ts.meta": {
+      "time": 1721483858564.04
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Libraries\\List.ts.meta": {
+      "time": 1721483858565.0405
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Libraries\\Validator.ts.meta": {
+      "time": 1721483858565.0405
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Libraries": {
+      "time": 1721483858557.0386,
+      "uuid": "f49be72f-ee0e-4bd1-82c6-e6074a233825"
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Libraries\\Algorithm.ts": {
+      "time": 1707219418568.8083,
+      "uuid": "2e383ac5-51ba-43f2-a101-710b4d1c7dff"
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Libraries\\Debug.ts": {
+      "time": 1706266168053.6653,
+      "uuid": "ef686639-1c3b-451c-9b1e-f234189ff79f"
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Libraries\\EventManager.ts": {
+      "time": 1706266168053.6653,
+      "uuid": "66f856d8-9e21-4970-8fdc-60ed83748a97"
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Libraries\\List.ts": {
+      "time": 1713363643631.1062,
+      "uuid": "494e5387-3bde-48c3-ab4f-2dfc04912c32"
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Libraries\\Validator.ts": {
+      "time": 1706266168053.6653,
+      "uuid": "bd4e86d3-2bc6-428a-85c0-3364ea627885"
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game.meta": {
+      "time": 1713362782728.8752
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Images.meta": {
+      "time": 1713362782744.5166
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Prefabs.meta": {
+      "time": 1713362782744.5166
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scenes.meta": {
+      "time": 1713362782744.5166
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scripts.meta": {
+      "time": 1713362782744.5166
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scripts\\Architecture.ts.meta": {
+      "time": 1721483858618.0518
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scripts\\Common.meta": {
+      "time": 1713362782744.5166
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scripts\\Game.meta": {
+      "time": 1713362782744.5166
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scripts\\Common\\NodeRef.ts.meta": {
+      "time": 1721483858618.0518
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scripts\\Common\\TouchEventProxy.ts.meta": {
+      "time": 1721483858619.052
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scripts\\Game\\Ball.ts.meta": {
+      "time": 1721483858620.0525
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scripts\\Game\\GameCtrl.ts.meta": {
+      "time": 1721483858620.0525
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scripts\\Game\\GameUICtrl.ts.meta": {
+      "time": 1721483858622.0527
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scripts\\Game\\Outline.ts.meta": {
+      "time": 1721483858623.0537
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game": {
+      "time": 1721488023605.1047,
+      "uuid": "49d8e021-b217-4cb9-904a-7e54fd5549a9"
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Images": {
+      "time": 1721483869102.2734,
+      "uuid": "504fee44-5ae5-4053-b1ad-10249d60c926"
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Prefabs": {
+      "time": 1721483876827.969,
+      "uuid": "81e2f4fd-fdf5-4718-a497-1b9e645c22a6"
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scenes": {
+      "time": 1721483923119.1882,
+      "uuid": "38db499d-4d60-4c46-8062-91685fa0a7dc"
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scripts": {
+      "time": 1721483858587.046,
+      "uuid": "f415bc0b-c814-4bf9-ac47-b3864d42525a"
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scripts\\Common": {
+      "time": 1721483858586.0452,
+      "uuid": "4a83ac87-9f1b-4bf8-ba94-96dfdb5dfeba"
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scripts\\Game": {
+      "time": 1721483858581.0469,
+      "uuid": "116e6b63-21f0-4e84-bea2-0e88e19058f3"
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scripts\\Architecture.ts": {
+      "time": 1713363694686.1682,
+      "uuid": "daa67414-2fea-4e93-a752-dc6ab9fda581"
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scripts\\Common\\NodeRef.ts": {
+      "time": 1713363729360.739,
+      "uuid": "8b4c71a9-1a13-4f66-bd97-2c12d65fdad0"
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scripts\\Common\\TouchEventProxy.ts": {
+      "time": 1713363738658.7666,
+      "uuid": "ff2e889a-3d89-4617-b8ff-19f9aa40544a"
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scripts\\Game\\Ball.ts": {
+      "time": 1713441814705.1997,
+      "uuid": "2421e2eb-3d77-4996-833e-c7967fbb3fac"
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scripts\\Game\\GameCtrl.ts": {
+      "time": 1713442110580.1204,
+      "uuid": "172df504-4892-425b-99be-f1d8a6a0f9a7"
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scripts\\Game\\GameUICtrl.ts": {
+      "time": 1713441814711.1443,
+      "uuid": "418e657c-ad10-4a30-92b1-107b9eebbd24"
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scripts\\Game\\Outline.ts": {
+      "time": 1713443321469.9219,
+      "uuid": "8392054c-0da3-47b5-b486-9eafbbe61b78"
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scenes\\Game.scene.meta": {
+      "time": 1721483923121.189
+    },
+    "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scenes\\Game.scene": {
+      "time": 1721487927234.088,
+      "uuid": "49d2fca9-9fa0-4ac4-aa39-5b86afcba392"
+    }
+  },
+  "missing": {
+    "f1f4d924-c632-492c-a66a-1b71427652d5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Images\\circle.png",
+      "time": 1713362782744.5166,
+      "removeTime": 1721483869018
+    },
+    "8fa82b13-37ec-4dd4-9fbf-82c3b9636f09": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Images\\OneQuaters.png",
+      "time": 1713441814688.52,
+      "removeTime": 1721483869025
+    },
+    "667e3de3-033c-4a41-8183-0d87fe25c717": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Images\\circle_half_door.png",
+      "time": 1713441814688.52,
+      "removeTime": 1721483869036
+    },
+    "b99f0e44-2891-495f-8654-8fb5af0e8188": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Images\\circle_fill.png",
+      "time": 1713362782744.5166,
+      "removeTime": 1721483869127
+    },
+    "d42eadd8-1887-4290-af2b-a1f229a0f2c9": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Images\\circle_full.png",
+      "time": 1713441814688.52,
+      "removeTime": 1721483869127
+    },
+    "022164b7-02e2-4d7d-847c-0cea86ee4d02": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Images\\half_sep.png",
+      "time": 1713441814688.52,
+      "removeTime": 1721483869127
+    },
+    "67b257c9-ee09-4d5a-914c-9e3582d4bef5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Images\\ThreeQuaters.png",
+      "time": 1713441814688.52,
+      "removeTime": 1721483869127
+    },
+    "c4693477-5284-458d-a26e-109e243dd4c3": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Prefabs\\Outline.prefab",
+      "time": 1713444268741.1768,
+      "removeTime": 1721483876823
+    },
+    "db512db8-d411-4e34-8c57-8ebf30887aa5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Prefabs\\Ball.prefab",
+      "time": 1713373215085.2192,
+      "removeTime": 1721483876823
+    },
+    "b5d61b98-c024-4d94-a7d3-2dc251d990ce": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Prefabs\\OutlineOneQuater.prefab",
+      "time": 1713441814705.1997,
+      "removeTime": 1721483876832
+    },
+    "7ce6f4a6-2445-499a-b56e-5f484daf7193": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\Scenes\\Game.scene",
+      "time": 1713444272215.3044,
+      "removeTime": 1721483885790
+    },
+    "e80debe2-d321-4766-b71b-e1c3adbcdb55": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\animation",
+      "time": 1721487931254.0332,
+      "removeTime": 1721488026933
+    },
+    "55ba02c2-d269-4d81-8fb0-61645f4b7a59": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\animation\\tabs",
+      "time": 1721487931241.0303,
+      "removeTime": 1721488026933
+    },
+    "1210c08c-e904-4e3e-a21c-fd0d37e1e341": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\animation\\figure_breath.anim",
+      "time": 1721461645544.2964,
+      "removeTime": 1721488026933
+    },
+    "95bc1c50-a456-4845-a533-5a8d8d2fd16b": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\animation\\menu_back.anim",
+      "time": 1721461645551.2983,
+      "removeTime": 1721488026933
+    },
+    "8125423d-2c3c-4780-b483-dcfd4532c05f": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\animation\\menu_intro.anim",
+      "time": 1721461645553.2986,
+      "removeTime": 1721488026933
+    },
+    "0c6f4595-4696-4740-9a41-d39aafc2734a": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\animation\\menu_reset.anim",
+      "time": 1721461645554.2988,
+      "removeTime": 1721488026933
+    },
+    "1472f312-9671-4996-a036-34c3f3c1bd41": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\animation\\shop_intro.anim",
+      "time": 1721461645555.2993,
+      "removeTime": 1721488026933
+    },
+    "68c4d91b-ba25-408a-9588-89f1e5b5fc64": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\animation\\shop_outro.anim",
+      "time": 1721461645557.2993,
+      "removeTime": 1721488026933
+    },
+    "848b2e65-93ba-4411-be84-8e836dd5b25f": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\animation\\shop_reset.anim",
+      "time": 1721461645558.2998,
+      "removeTime": 1721488026933
+    },
+    "a5da42bf-54a8-4f59-8ac5-70ccce1ed990": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\animation\\sub_fold.anim",
+      "time": 1721461645560.3008,
+      "removeTime": 1721488026933
+    },
+    "5ab2e3ea-b712-480d-ab01-0f41b2e92b12": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\animation\\sub_pop.anim",
+      "time": 1721461645561.3008,
+      "removeTime": 1721488026933
+    },
+    "f70ce0f4-11cd-4f3e-b24f-6d7786f5ca76": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\animation\\tab_turn_big.anim",
+      "time": 1721461645562.3015,
+      "removeTime": 1721488026934
+    },
+    "25a5c5f0-6d35-4440-bc6e-c3c7f637f8cd": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\animation\\tab_turn_small.anim",
+      "time": 1721461645564.301,
+      "removeTime": 1721488026934
+    },
+    "f64f87e6-913b-43b6-b4e9-4fafa5775951": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\animation\\tabs\\tab_turnbig.anim",
+      "time": 1721461645566.3015,
+      "removeTime": 1721488026934
+    },
+    "7ec8ee3b-013d-4ae6-90e2-0446bac580fd": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\animation\\tabs\\tab_turnsmall.anim",
+      "time": 1721461645567.3018,
+      "removeTime": 1721488026934
+    },
+    "837dfd61-e153-482d-9590-97d29f9f74a5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\font",
+      "time": 1721487931293.0422,
+      "removeTime": 1721488026934
+    },
+    "ce8f2ad5-a316-4653-ba49-398b4f04557f": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\font\\haibao_outline.fnt",
+      "time": 1721461645570.3022,
+      "removeTime": 1721488026934
+    },
+    "225ed31a-60be-425b-b94a-dd19050730a4": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\font\\haibao_outline.png",
+      "time": 1721461645574.3037,
+      "removeTime": 1721488026934
+    },
+    "1316ed6c-3cd7-469b-8f14-ab659123629c": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\font\\haibao_shadow.fnt",
+      "time": 1721461645575.3037,
+      "removeTime": 1721488026934
+    },
+    "0c2bef11-b494-4511-9c56-f5195e65f929": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\font\\haibao_shadow.png",
+      "time": 1721461645577.3638,
+      "removeTime": 1721488026934
+    },
+    "0b084d87-7bd1-44ef-a4ea-9a30bbc618f8": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model",
+      "time": 1721487931341.0527,
+      "removeTime": 1721488026934
+    },
+    "de267643-b22f-4ad9-b531-e69d755ff709": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos",
+      "time": 1721487931391.0642,
+      "removeTime": 1721488026934
+    },
+    "140c33f2-f713-447d-976b-04e0b355e6b0": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\knight",
+      "time": 1721487931340.0525,
+      "removeTime": 1721488026934
+    },
+    "75b08e51-53d1-4bca-b3de-ad7713d25d2c": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations",
+      "time": 1721487931390.064,
+      "removeTime": 1721488026934
+    },
+    "fbbae3f7-8907-488a-b2c2-0eca0985008d": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\knight\\textures",
+      "time": 1721487931335.0515,
+      "removeTime": 1721488026934
+    },
+    "58cf3db3-e6f4-4943-a076-26157912429c": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\body.mtl",
+      "time": 1721461677036.64,
+      "removeTime": 1721488026934
+    },
+    "6cd4e8c1-b63f-4bbb-b3db-b323fa08b435": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\Cocos.prefab",
+      "time": 1721461677041.641,
+      "removeTime": 1721488026934
+    },
+    "b3df5b21-2fe6-410e-a10d-3df317e61bb5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\cocosfinish_01.bin",
+      "time": 1721461645634.3777,
+      "removeTime": 1721488026934
+    },
+    "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\cocosfinish_01_baseColor.png",
+      "time": 1721461645641.379,
+      "removeTime": 1721488026934
+    },
+    "026c4a15-e07d-4053-86de-9f9fe30188e5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\cocosfinish_01_emissive.png",
+      "time": 1721461645642.3794,
+      "removeTime": 1721488026934
+    },
+    "3af9be2f-93d2-41a0-b7b7-3cc03054b34a": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\cocosfinish_01_normal.png",
+      "time": 1721461645648.3806,
+      "removeTime": 1721488026934
+    },
+    "64b1edbd-75c7-4159-a65a-f1e6d8c9812a": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\cocosfinish_01_occlusionRoughnessMetallic.png",
+      "time": 1721461645652.3813,
+      "removeTime": 1721488026934
+    },
+    "dcab7d1f-201e-45d8-911c-833cc5427723": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\cocosfinish_02.bin",
+      "time": 1721461645653.3816,
+      "removeTime": 1721488026934
+    },
+    "8949c1f1-9b2b-418c-b150-611a94543416": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\cocosfinish_02_baseColor.png",
+      "time": 1721461645654.3818,
+      "removeTime": 1721488026934
+    },
+    "19819162-ce3f-4f7c-8889-8b2f35bf274c": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\cocosfinish_02_normal.png",
+      "time": 1721461645658.3826,
+      "removeTime": 1721488026934
+    },
+    "cd618de5-59fc-4899-ba4f-55195f3e24ce": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\cocosfinish_02_occlusionRoughnessMetallic.png",
+      "time": 1721461645659.3833,
+      "removeTime": 1721488026934
+    },
+    "5bee9f0c-9771-4e73-b0ea-0bbb6da67698": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\cocos_mesh.gltf",
+      "time": 1721461645625.3752,
+      "removeTime": 1721488026934
+    },
+    "fb9825a0-fd7f-48c5-b121-9af90f9f2011": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\cocos_mesh_helmet.gltf",
+      "time": 1721461645627.3762,
+      "removeTime": 1721488026935
+    },
+    "90f86573-5baf-41e2-97db-8604d1f42b65": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\cocos_skel.gltf",
+      "time": 1721461645628.376,
+      "removeTime": 1721488026935
+    },
+    "8d2d3098-6841-41fc-af7f-4bac9e32b080": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\cocos_skel_ibm.bin",
+      "time": 1721461645629.3765,
+      "removeTime": 1721488026935
+    },
+    "b9ab6374-4e67-4db2-bb75-0256c62f6c7b": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\cocos_squat_anim.bin",
+      "time": 1721461645631.3767,
+      "removeTime": 1721488026935
+    },
+    "7e81a899-6c7c-493d-80cf-e4f730e4f48f": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\helmet.mtl",
+      "time": 1721461677175.6714,
+      "removeTime": 1721488026935
+    },
+    "708ea3ab-7caa-4235-9f22-a554e2240687": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\knight\\role.mtl",
+      "time": 1721461677178.672,
+      "removeTime": 1721488026935
+    },
+    "0884a4a8-dd0b-448a-bab6-c34c7709e84e": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\knight\\scene.bin",
+      "time": 1721461645666.385,
+      "removeTime": 1721488026935
+    },
+    "5cc5f0f4-43dd-405c-a9c0-6247d1bfa1b0": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\knight\\scene.gltf",
+      "time": 1721461645667.3855,
+      "removeTime": 1721488026935
+    },
+    "73443895-6d8f-41b5-8e3f-4110d0f4dc31": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations\\cocos_anim_attack.bin",
+      "time": 1721461645585.3667,
+      "removeTime": 1721488026935
+    },
+    "a873a742-b503-4a96-8570-6fe542697035": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations\\cocos_anim_attack.gltf",
+      "time": 1721461645586.3667,
+      "removeTime": 1721488026935
+    },
+    "d1a7cd09-b5d9-422f-a4f3-112d85f1059c": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations\\cocos_anim_die.bin",
+      "time": 1721461645589.3677,
+      "removeTime": 1721488026935
+    },
+    "caf172df-03b7-4c5a-8a53-93f3e4be5146": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations\\cocos_anim_die.gltf",
+      "time": 1721461645590.3674,
+      "removeTime": 1721488026935
+    },
+    "fe407fd3-1b9c-4fb7-9a97-edb4cdae6314": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations\\cocos_anim_down.bin",
+      "time": 1721461645593.3684,
+      "removeTime": 1721488026935
+    },
+    "27ac412c-9efa-4ead-8e2c-fe6533c7878f": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations\\cocos_anim_down.gltf",
+      "time": 1721461645595.3696,
+      "removeTime": 1721488026935
+    },
+    "a1efb6ff-ef74-4037-8801-d310eca22fd5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations\\cocos_anim_hurt.bin",
+      "time": 1721461645596.3691,
+      "removeTime": 1721488026935
+    },
+    "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations\\cocos_anim_hurt.gltf",
+      "time": 1721461645598.3691,
+      "removeTime": 1721488026935
+    },
+    "e9d41da7-da95-4119-8a6c-0937de2adb57": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations\\cocos_anim_idle.bin",
+      "time": 1721461645603.3704,
+      "removeTime": 1721488026935
+    },
+    "445d5d9d-c56b-4528-bc90-c847357e5d94": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations\\cocos_anim_idle.gltf",
+      "time": 1721461645605.371,
+      "removeTime": 1721488026935
+    },
+    "33a7dcc9-4eed-4d49-baac-d190c3d2a157": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations\\cocos_anim_jump.bin",
+      "time": 1721461645607.371,
+      "removeTime": 1721488026935
+    },
+    "501da3c5-f2d8-45f7-bc04-5130d58811ff": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations\\cocos_anim_jump.gltf",
+      "time": 1721461645609.3718,
+      "removeTime": 1721488026935
+    },
+    "f1d8a0c8-d2d8-473f-a769-803842978f68": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations\\cocos_anim_run.bin",
+      "time": 1721461645611.3723,
+      "removeTime": 1721488026935
+    },
+    "50735e20-7211-4e9c-b676-4d648cdc0cbb": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations\\cocos_anim_run.gltf",
+      "time": 1721461645612.3726,
+      "removeTime": 1721488026935
+    },
+    "a9e047be-e87a-43d9-bbd5-1b3f5dbe2026": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations\\cocos_anim_shoot.bin",
+      "time": 1721461645614.3728,
+      "removeTime": 1721488026935
+    },
+    "1cf73293-3e10-49c1-bfa1-59daaadbd18b": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations\\cocos_anim_shoot.gltf",
+      "time": 1721461645616.3733,
+      "removeTime": 1721488026935
+    },
+    "7290f264-a898-4355-8041-8514dbd0051f": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations\\cocos_anim_squat.bin",
+      "time": 1721461645617.3738,
+      "removeTime": 1721488026935
+    },
+    "58c9fdbf-de49-4141-83fa-9ad83f78591c": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations\\cocos_anim_squat.gltf",
+      "time": 1721461645619.3738,
+      "removeTime": 1721488026936
+    },
+    "e08b2140-55f5-4d1f-af55-565183504a80": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations\\cocos_anim_walk.bin",
+      "time": 1721461645621.3748,
+      "removeTime": 1721488026936
+    },
+    "b1cb32e6-c8c9-40c9-9d52-119dae416b32": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\cocos\\animations\\cocos_anim_walk.gltf",
+      "time": 1721461645623.3748,
+      "removeTime": 1721488026936
+    },
+    "39c01d9f-4fa2-4f90-ad50-c8f4c35cc5e6": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\model\\knight\\textures\\Material_baseColor.png",
+      "time": 1721461645674.3865,
+      "removeTime": 1721488026936
+    },
+    "474e831f-46fc-4c3b-b865-a1e22d683bcf": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\prefab",
+      "time": 1721487934013.656,
+      "removeTime": 1721488026936
+    },
+    "dc78ac71-e8bb-4c89-9115-71bce6cc4928": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\prefab\\heroslot.prefab",
+      "time": 1721461676947.6199,
+      "removeTime": 1721488026936
+    },
+    "2125d7ef-b22b-472a-9b75-9614156e272d": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\prefab\\item.prefab",
+      "time": 1721461676947.6199,
+      "removeTime": 1721488026936
+    },
+    "576c8694-8c35-4537-9711-30b8d26a6dc8": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\prefab\\ListItem.prefab",
+      "time": 1721461676950.6206,
+      "removeTime": 1721488026936
+    },
+    "ffe5c4c2-a7a6-4196-a3a4-34d40fcb706b": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\prefab\\tab.prefab",
+      "time": 1721461676953.6213,
+      "removeTime": 1721488026936
+    },
+    "4932a7e0-9cb0-420b-b575-385e245f0eab": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scene",
+      "time": 1721487934699.8113,
+      "removeTime": 1721488026936
+    },
+    "b59e0761-ea04-4a78-b7c0-1672219c7f18": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scene\\home.scene",
+      "time": 1721461676965.6235,
+      "removeTime": 1721488026936
+    },
+    "8c6b0112-f426-4ad0-b99f-46b1a0a06111": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scene\\list-with-data.scene",
+      "time": 1721461676966.6245,
+      "removeTime": 1721488026936
+    },
+    "540207eb-24f5-4198-9e73-0854aff12ed8": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scene\\rocker.scene",
+      "time": 1721461676981.6274,
+      "removeTime": 1721488026936
+    },
+    "d282105e-d88e-4458-9f83-513400b9f2b1": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scene\\test-list.scene",
+      "time": 1721461676981.6274,
+      "removeTime": 1721488026936
+    },
+    "1aa710af-41d7-4ff9-9af7-09c042ad9e36": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001",
+      "time": 1721487941325.099,
+      "removeTime": 1721488026936
+    },
+    "b7e585b8-8eaf-43e7-af26-6712a75911a4": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\AdapterContent.ts",
+      "time": 1721461645690.39,
+      "removeTime": 1721488026936
+    },
+    "88c12fbd-556f-4c49-ad24-db7b43b1ffab": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\BackPackUI.ts",
+      "time": 1721461645691.3901,
+      "removeTime": 1721488026936
+    },
+    "aeffbbc0-7bcd-4f50-aeb2-a3996a0bd77d": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\ButtonScaler.ts",
+      "time": 1721461645692.3904,
+      "removeTime": 1721488026936
+    },
+    "6cf85d70-4f6c-4afb-b6a9-044a55d8f176": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\ChallengeUI.ts",
+      "time": 1721461645693.3904,
+      "removeTime": 1721488026936
+    },
+    "73177ee7-dcb7-45ee-b12b-886de351de0a": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\ChargeUI.ts",
+      "time": 1721461645694.3916,
+      "removeTime": 1721488026936
+    },
+    "ee01cbae-5d67-4a3e-9dca-e99487f9788e": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\EnergyCounter.ts",
+      "time": 1721461645695.391,
+      "removeTime": 1721488026936
+    },
+    "57d1506f-0e3c-4b04-bc50-4fa87f57169b": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\HeroSlot.ts",
+      "time": 1721461645696.392,
+      "removeTime": 1721488026936
+    },
+    "edc2aee2-b5da-4343-9043-63eb155a4c09": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\HomeUI.ts",
+      "time": 1721461645697.3916,
+      "removeTime": 1721488026936
+    },
+    "65624be9-42bf-46c3-8e05-3de4041d684c": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\ItemList.ts",
+      "time": 1721461645699.392,
+      "removeTime": 1721488026936
+    },
+    "34f7e749-44ce-4c2b-a097-0da0cec66834": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\ItemTemplate.ts",
+      "time": 1721461645700.3923,
+      "removeTime": 1721488026936
+    },
+    "a254bdaf-9915-45af-99c5-84247b5b0c1b": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\PanelTransition.ts",
+      "time": 1721461645701.3926,
+      "removeTime": 1721488026936
+    },
+    "da599459-849c-438d-a0f5-deff0b4ceee5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\PanelType.ts",
+      "time": 1721461645702.3926,
+      "removeTime": 1721488026937
+    },
+    "2fc7fd0d-922c-4f34-a282-d42e3d1811a9": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\rocker",
+      "time": 1721487941308.0945,
+      "removeTime": 1721488026937
+    },
+    "0d6f9406-2f8f-456b-8506-545f5f999add": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\ShopUI.ts",
+      "time": 1721461645703.3928,
+      "removeTime": 1721488026937
+    },
+    "bc2c4cd6-d3d9-47c2-99dd-5dfb8f1f366f": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\SubBtnsUI.ts",
+      "time": 1721461645704.393,
+      "removeTime": 1721488026937
+    },
+    "5c7e7d96-a19b-4655-ae9d-e9ae094b33d9": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\tabs",
+      "time": 1721487941304.094,
+      "removeTime": 1721488026937
+    },
+    "7480f582-cd47-4b2a-9cef-42ae1521f860": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\test-list",
+      "time": 1721487941297.093,
+      "removeTime": 1721488026937
+    },
+    "7b93d422-45f5-4472-af8e-bd9a005669ce": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\rocker\\head-scale.ts",
+      "time": 1721461645706.3943,
+      "removeTime": 1721488026937
+    },
+    "03934756-ae55-4a2c-921b-a4f0850a5cf7": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\rocker\\rockerCtrl.ts",
+      "time": 1721461645707.394,
+      "removeTime": 1721488026937
+    },
+    "b6ee5850-f54b-4174-8875-018c3653eda0": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\tabs\\MainMenu.ts",
+      "time": 1721461645709.3943,
+      "removeTime": 1721488026937
+    },
+    "f6bf218f-c16f-4184-97e1-3a959db3d0cf": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\tabs\\MenuSidebar.ts",
+      "time": 1721461645710.3943,
+      "removeTime": 1721488026937
+    },
+    "9e9b3dc1-e9e5-412a-b554-487ca44448e8": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\tabs\\TabCtrl.ts",
+      "time": 1721461645712.395,
+      "removeTime": 1721488026937
+    },
+    "b20ed616-639a-4ca3-abfd-9efa57c03b1b": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\test-list\\BackButton.ts",
+      "time": 1721461645713.395,
+      "removeTime": 1721488026937
+    },
+    "dfb24d20-524e-45cc-b256-dbe19b1c946f": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\test-list\\ListItem.ts",
+      "time": 1721461645714.3955,
+      "removeTime": 1721488026937
+    },
+    "56ce0300-7432-47da-a05e-c3232e4d09d6": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\scripts-001\\test-list\\SceneList.ts",
+      "time": 1721461645715.3955,
+      "removeTime": 1721488026937
+    },
+    "c4075533-4d36-45f0-9844-dc553fbbdd9a": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures",
+      "time": 1721487941844.2153,
+      "removeTime": 1721488026937
+    },
+    "2fd221c0-1c1f-4bca-8df9-9507e1879c37": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait",
+      "time": 1721487941675.1775,
+      "removeTime": 1721488026937
+    },
+    "79958760-72ce-4a74-9321-3aec40b5117d": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop",
+      "time": 1721487941422.12,
+      "removeTime": 1721488026937
+    },
+    "c00c234d-44d9-4e79-83ae-2b1499fcd946": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\testlist",
+      "time": 1721487941367.1082,
+      "removeTime": 1721488026937
+    },
+    "4234457a-edc1-4c85-aff7-abfb2b74180a": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin",
+      "time": 1721487941458.129,
+      "removeTime": 1721488026937
+    },
+    "87dec5c9-20a5-4a97-a737-0e7aa520cf6f": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\hero",
+      "time": 1721487941457.1287,
+      "removeTime": 1721488026937
+    },
+    "5b618d2b-db5f-4d47-beb7-f1230073306b": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\monster",
+      "time": 1721487941446.126,
+      "removeTime": 1721488026937
+    },
+    "8d1e3998-ea38-4133-b609-0f5f4147a600": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\singleColor.png",
+      "time": 1721461646082.4785,
+      "removeTime": 1721488026937
+    },
+    "4ac85aea-60d8-4f78-9b30-6b8c627f13b9": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\timer_bar.png",
+      "time": 1721461646087.4797,
+      "removeTime": 1721488026937
+    },
+    "8241bc51-cd62-498f-89fb-9aa26c3ec321": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\timer_slot.png",
+      "time": 1721461646088.48,
+      "removeTime": 1721488026937
+    },
+    "a7609cf2-2718-402a-850e-1f882dd21903": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\txt_beibao.png",
+      "time": 1721461646089.4802,
+      "removeTime": 1721488026937
+    },
+    "af48b30b-0a6c-4117-9a19-46979c28982a": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\txt_chuzhan.png",
+      "time": 1721461646090.4805,
+      "removeTime": 1721488026938
+    },
+    "8f182ff8-ecc0-4ab4-a6ee-f35ee9ae0870": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\txt_hecheng.png",
+      "time": 1721461646091.4805,
+      "removeTime": 1721488026938
+    },
+    "f4f34005-226d-41fd-8f6c-9fcb3734f53d": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\txt_liuyan.png",
+      "time": 1721461646092.4807,
+      "removeTime": 1721488026938
+    },
+    "3b6a0bf5-4c05-457e-9928-702e3e85d0b6": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\txt_renwu.png",
+      "time": 1721461646093.4812,
+      "removeTime": 1721488026938
+    },
+    "f1c132d7-af62-423a-ae57-d0b889d98159": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\txt_rongyu.png",
+      "time": 1721461646094.4812,
+      "removeTime": 1721488026938
+    },
+    "e8694ba4-6656-423c-940b-cf867130a097": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\banner_goumai_egypt.png",
+      "time": 1721461646022.4648,
+      "removeTime": 1721488026938
+    },
+    "e174d60b-9c9b-4bc3-aad4-bbd8c14b2e78": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\banner_goumai_ocean.png",
+      "time": 1721461646024.4653,
+      "removeTime": 1721488026938
+    },
+    "441a6473-a030-480e-b100-2f57c7d90e54": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\banner_gradient.png",
+      "time": 1721461646025.4656,
+      "removeTime": 1721488026938
+    },
+    "de42000a-e7c7-4063-b713-805a935c45fe": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\banner_green.png",
+      "time": 1721461646026.4663,
+      "removeTime": 1721488026938
+    },
+    "46b38b38-ee1b-4e93-bfb9-521818afdd07": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\banner_red_long.png",
+      "time": 1721461646027.4663,
+      "removeTime": 1721488026938
+    },
+    "9fb9a7d5-fcf4-4b79-91a4-c1df2b65780c": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\banner_subscribe.png",
+      "time": 1721461646029.4666,
+      "removeTime": 1721488026938
+    },
+    "300b1f69-c2cf-40a8-a15c-6b1f7b1d67f0": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\bg_shop.png",
+      "time": 1721461646034.4675,
+      "removeTime": 1721488026938
+    },
+    "d87be67e-395c-47ac-bd29-0bff0b6e4fc8": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\bot_frame.png",
+      "time": 1721461646036.4683,
+      "removeTime": 1721488026938
+    },
+    "c6691cf2-4900-43e7-9c69-a52525117d8a": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\btn_green_diamond.png",
+      "time": 1721461646037.4685,
+      "removeTime": 1721488026938
+    },
+    "c01311ba-6c23-47bf-b052-729bebe3a42b": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\btn_purple.png",
+      "time": 1721461646038.4685,
+      "removeTime": 1721488026938
+    },
+    "e3d93cc3-ac8e-4957-b5bf-14e478a7be90": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\btn_purple2.png",
+      "time": 1721461646040.4688,
+      "removeTime": 1721488026938
+    },
+    "389c6364-70f1-4c5c-8f5f-26f359f5bcf7": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\btn_red.png",
+      "time": 1721461646041.4692,
+      "removeTime": 1721488026938
+    },
+    "20e7ac1d-8656-400c-975f-0a977e3b9da5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\btn_sm_blue.png",
+      "time": 1721461646041.4692,
+      "removeTime": 1721488026938
+    },
+    "767c0341-f58d-4aee-b24f-8e4f1620ba44": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\btn_sm_red.png",
+      "time": 1721461646042.4695,
+      "removeTime": 1721488026938
+    },
+    "fbb5cf79-0ce6-4a03-9381-2f6510574155": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\icon_crystal.png",
+      "time": 1721461646044.4702,
+      "removeTime": 1721488026938
+    },
+    "a8fec483-0424-4c4d-8b95-288c14808e3e": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\icon_ticket.png",
+      "time": 1721461646044.4702,
+      "removeTime": 1721488026939
+    },
+    "6b1c93db-2320-4f9c-a3ee-3a67bb88f161": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\item1.png",
+      "time": 1721461646046.4705,
+      "removeTime": 1721488026939
+    },
+    "2ccbf417-2d62-4a1d-9107-630f5badbcb6": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\item2.png",
+      "time": 1721461646047.4707,
+      "removeTime": 1721488026939
+    },
+    "4f4e03f1-31f0-4f93-8540-c0c3cbb318c5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\item3.png",
+      "time": 1721461646049.4712,
+      "removeTime": 1721488026939
+    },
+    "84122a76-903d-4578-824a-28ac0cd2460a": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\shop_chain.png",
+      "time": 1721461646050.4712,
+      "removeTime": 1721488026939
+    },
+    "f31071bd-281a-414f-b843-ccd5796f7ebb": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\shop_figure.png",
+      "time": 1721461646055.4731,
+      "removeTime": 1721488026939
+    },
+    "f8eef53e-99c2-4b3e-8e67-6cf504c7b20d": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\shop_title_bg.png",
+      "time": 1721461646057.473,
+      "removeTime": 1721488026939
+    },
+    "0e1b01d2-0269-4286-9541-428fd9bc47bf": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\text_be_vip.png",
+      "time": 1721461646059.4734,
+      "removeTime": 1721488026939
+    },
+    "b7a9ebc1-96f6-49c9-82e3-17ab2be15805": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\text_buchongjingli.png",
+      "time": 1721461646060.4734,
+      "removeTime": 1721488026939
+    },
+    "d50ae28a-62c0-447a-8e0e-cd49842acfe5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\text_buchongtili.png",
+      "time": 1721461646063.474,
+      "removeTime": 1721488026939
+    },
+    "36b83f6d-2106-4b6a-b37b-484ca0552e94": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\text_buy1.png",
+      "time": 1721461646065.4749,
+      "removeTime": 1721488026939
+    },
+    "4364c054-c8ff-4413-96a1-89f6cf362a6a": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\text_buy10.png",
+      "time": 1721461646066.4749,
+      "removeTime": 1721488026939
+    },
+    "0e46df5d-a9ba-476d-95c6-d5dca8c6843f": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\text_chongzhi.png",
+      "time": 1721461646067.4753,
+      "removeTime": 1721488026939
+    },
+    "116b799f-09ea-47ad-964a-013f0b472788": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\text_diamond_gift.png",
+      "time": 1721461646068.4753,
+      "removeTime": 1721488026939
+    },
+    "4e7d173c-116d-4741-a892-eaed6ee48548": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\text_duihuan.png",
+      "time": 1721461646069.4756,
+      "removeTime": 1721488026939
+    },
+    "d8e39ac8-7374-4f62-b2f3-82dab255da8a": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\text_goumai.png",
+      "time": 1721461646070.4756,
+      "removeTime": 1721488026939
+    },
+    "7acfc981-61e9-41e0-92bd-0248c87ea4ba": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\text_kuochong.png",
+      "time": 1721461646072.4763,
+      "removeTime": 1721488026939
+    },
+    "1ceb471e-0076-4b9f-a0ea-6e9a307e3e9b": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\text_sm_chongzhi.png",
+      "time": 1721461646073.4766,
+      "removeTime": 1721488026939
+    },
+    "0a4620d3-49a1-45a2-b35e-5b0626c8ccc9": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\text_sm_goumai.png",
+      "time": 1721461646074.4768,
+      "removeTime": 1721488026939
+    },
+    "ddac677f-8ca7-461f-afd9-21ee8a31eb60": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\text_subscribe.png",
+      "time": 1721461646075.4773,
+      "removeTime": 1721488026939
+    },
+    "8a6c7d28-8c40-40ae-a676-63387f2e837c": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\text_title_chongzhi.png",
+      "time": 1721461646077.4778,
+      "removeTime": 1721488026939
+    },
+    "05c5cd61-47b9-4736-825d-4a3e96c8bf0e": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\text_title_goumai.png",
+      "time": 1721461646078.4778,
+      "removeTime": 1721488026939
+    },
+    "21da35a1-af78-44c6-936a-71939fc44177": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\title_vip.png",
+      "time": 1721461646079.4778,
+      "removeTime": 1721488026939
+    },
+    "79517e2c-8be9-43b2-b827-a7627668fd3e": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\v_progressbar_bar.png",
+      "time": 1721461646080.478,
+      "removeTime": 1721488026939
+    },
+    "f24eda59-2fbc-4049-8fcb-b8760e722567": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\shop\\v_progressbar_frame.png",
+      "time": 1721461646081.4785,
+      "removeTime": 1721488026939
+    },
+    "ef1ece82-46e5-43f3-b7ae-f8ca066eb041": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\testlist\\exitLeft.png",
+      "time": 1721461646084.479,
+      "removeTime": 1721488026939
+    },
+    "0d68e115-799b-4fc4-a809-d2db26efa613": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\testlist\\left.png",
+      "time": 1721461646085.4792,
+      "removeTime": 1721488026940
+    },
+    "18abe283-bda0-4c34-820a-eacb447b8d55": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\testlist\\panelBG.png",
+      "time": 1721461646085.4792,
+      "removeTime": 1721488026940
+    },
+    "aa2f4b86-f9f6-4434-94ff-10165c4e9780": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\testlist\\right.png",
+      "time": 1721461646086.4795,
+      "removeTime": 1721488026940
+    },
+    "93e99691-afa5-4a9c-89e8-79c0a7cd0af5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\hero\\ic_yuji.png",
+      "time": 1721461646000.4602,
+      "removeTime": 1721488026940
+    },
+    "a6928338-f5c6-4737-b6bd-0e71616b5c77": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\monster\\17.png",
+      "time": 1721461646002.4604,
+      "removeTime": 1721488026940
+    },
+    "8505a290-2050-4292-bde0-c64037765e21": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\monster\\18.png",
+      "time": 1721461646003.4607,
+      "removeTime": 1721488026940
+    },
+    "0deb361c-04fb-42ec-bbb9-de65ccb66cba": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\monster\\19.png",
+      "time": 1721461646004.461,
+      "removeTime": 1721488026940
+    },
+    "29226ebe-ef79-4d1a-8c86-fa2af419bada": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\monster\\20.png",
+      "time": 1721461646006.4614,
+      "removeTime": 1721488026940
+    },
+    "d630bee3-6a76-400b-864d-0832423ab0b2": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\monster\\21.png",
+      "time": 1721461646007.462,
+      "removeTime": 1721488026940
+    },
+    "853063f5-6ad7-42b3-9815-fe251cef94f8": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\monster\\22.png",
+      "time": 1721461646008.462,
+      "removeTime": 1721488026940
+    },
+    "cede0b52-5fc9-4d87-a685-0813aea29c82": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\monster\\23.png",
+      "time": 1721461646009.4622,
+      "removeTime": 1721488026940
+    },
+    "c2e444cc-564f-4681-916b-861afac01c2d": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\monster\\24.png",
+      "time": 1721461646010.4622,
+      "removeTime": 1721488026940
+    },
+    "13035411-a75f-4176-bb2d-323628f31616": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\monster\\25.png",
+      "time": 1721461646011.4624,
+      "removeTime": 1721488026940
+    },
+    "eb545d90-8d8d-497c-bc8e-95e9f59a253e": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\monster\\26.png",
+      "time": 1721461646013.463,
+      "removeTime": 1721488026940
+    },
+    "01af2912-d2ae-4714-9a36-a1f50882e096": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\monster\\27.png",
+      "time": 1721461646014.4636,
+      "removeTime": 1721488026940
+    },
+    "39f4d357-ba84-4c98-8e9a-11839d5a2b21": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\monster\\28.png",
+      "time": 1721461646016.4636,
+      "removeTime": 1721488026940
+    },
+    "4cd18926-49cb-4e0d-81e7-be8115c27db7": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\monster\\29.png",
+      "time": 1721461646017.4639,
+      "removeTime": 1721488026940
+    },
+    "ecec6729-475a-4d26-857c-9a5eba2fd4cc": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\monster\\30.png",
+      "time": 1721461646018.4646,
+      "removeTime": 1721488026940
+    },
+    "ac791e15-78c2-4e7f-9a87-73a61dc66b1a": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\monster\\31.png",
+      "time": 1721461646019.464,
+      "removeTime": 1721488026940
+    },
+    "6dbfd9f5-b5ed-4026-b8bb-23330fd09095": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi",
+      "time": 1721487941597.1602,
+      "removeTime": 1721488026940
+    },
+    "507dd030-cdb3-46e1-8555-01993a637942": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\init",
+      "time": 1721487941476.1326,
+      "removeTime": 1721488026940
+    },
+    "c32ff1b1-59bc-4384-b26b-de27019ce6f9": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster",
+      "time": 1721487941581.1565,
+      "removeTime": 1721488026940
+    },
+    "abcc3f3b-2596-4cf2-a1d8-9429bbbe4e98": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\boss",
+      "time": 1721487941463.1306,
+      "removeTime": 1721488026940
+    },
+    "05c9cb4f-0d9b-4a0f-ba59-604fc1c4a55f": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead",
+      "time": 1721487941546.1487,
+      "removeTime": 1721488026940
+    },
+    "2c8316d0-05c5-4d7f-8be9-75caa6346a1f": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\init\\ic_hilf.png",
+      "time": 1721461645976.4546,
+      "removeTime": 1721488026940
+    },
+    "8c7b3fb3-1f8a-4647-a85c-84c592b4720a": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\init\\ic_norm.png",
+      "time": 1721461645977.4546,
+      "removeTime": 1721488026941
+    },
+    "026453df-ae8a-49aa-88f9-4efa42416e10": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\init\\ic_salamander.png",
+      "time": 1721461645978.4548,
+      "removeTime": 1721488026941
+    },
+    "f9702168-f18a-43c8-93cc-8f4babe6a9c8": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\init\\ic_shilf.png",
+      "time": 1721461645979.4553,
+      "removeTime": 1721488026941
+    },
+    "893f6783-50a1-46d7-a74d-dafc7e24f27c": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\init\\ic_snrom.png",
+      "time": 1721461645980.4553,
+      "removeTime": 1721488026941
+    },
+    "7c038c21-7242-48d4-b962-aa8b5cb384b9": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\init\\ic_ssalamander.png",
+      "time": 1721461645982.4558,
+      "removeTime": 1721488026941
+    },
+    "6c8824f5-7919-4160-96cf-df00e4925f74": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\init\\ic_sundine.png",
+      "time": 1721461645983.4565,
+      "removeTime": 1721488026941
+    },
+    "9df40ffb-41f7-451a-a583-58a1275a176b": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\init\\ic_undine.png",
+      "time": 1721461645984.4565,
+      "removeTime": 1721488026941
+    },
+    "e6e4f4d0-edad-4eaa-9427-208b91c3b9b6": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\boss\\ic_chterminator.png",
+      "time": 1721461645987.457,
+      "removeTime": 1721488026941
+    },
+    "a8dcc43f-396f-4d30-9a2a-4115287245f5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\boss\\ic_ninetales.png",
+      "time": 1721461645988.4573,
+      "removeTime": 1721488026941
+    },
+    "946a7e47-1937-4e6f-a0e5-8f3d743327ac": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\boss\\ic_schterminator.png",
+      "time": 1721461645989.4575,
+      "removeTime": 1721488026941
+    },
+    "f8dbb1b3-bed5-4acb-8307-fb94ce08d0dd": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\boss\\ic_sninetales.png",
+      "time": 1721461645990.4578,
+      "removeTime": 1721488026941
+    },
+    "125386c6-cc44-4610-8826-92bf97743a41": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\hero\\4.png",
+      "time": 1721461645992.4583,
+      "removeTime": 1721488026941
+    },
+    "abd7a017-e7e6-42f8-a71e-fb8e80ea4556": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\hero\\5.png",
+      "time": 1721461645994.459,
+      "removeTime": 1721488026941
+    },
+    "a63ffc16-5eff-44e0-b5c1-0a600ab9ed3d": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\hero\\6.png",
+      "time": 1721461645995.4587,
+      "removeTime": 1721488026941
+    },
+    "3bf24284-94f2-45f1-9847-c87bef4b5922": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\hero\\ic_jingke.png",
+      "time": 1721461645996.4592,
+      "removeTime": 1721488026941
+    },
+    "46bd4c3a-8b2c-4bde-88df-a3e1286224c3": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\hero\\ic_xiangyu.png",
+      "time": 1721461645998.46,
+      "removeTime": 1721488026941
+    },
+    "a4408bef-a3fa-4925-91a1-050b9b477124": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\qin\\hero\\ic_yingzheng.png",
+      "time": 1721461645999.4602,
+      "removeTime": 1721488026941
+    },
+    "951e6a60-63d5-456f-9b46-ac6332b896fa": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\murloc_gray.png",
+      "time": 1721461645957.4502,
+      "removeTime": 1721488026941
+    },
+    "7ad4dfcb-f12d-42d8-b5df-726727ab9eda": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\murloc_green.png",
+      "time": 1721461645959.4512,
+      "removeTime": 1721488026941
+    },
+    "30a15940-3c7d-4338-8978-3e5ed6c62782": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\murloc_red.png",
+      "time": 1721461645960.451,
+      "removeTime": 1721488026941
+    },
+    "c431afb0-8e19-40e9-9177-9b4ea38eb468": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\murloc_sred.png",
+      "time": 1721461645961.4514,
+      "removeTime": 1721488026941
+    },
+    "2974f84a-4705-4e23-a65b-04fb10fa72fd": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\murloc_white.png",
+      "time": 1721461645962.452,
+      "removeTime": 1721488026941
+    },
+    "c9240ed6-ad6b-4909-b58e-c292fa94d81d": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\scannonturtle.png",
+      "time": 1721461645963.4517,
+      "removeTime": 1721488026941
+    },
+    "fdce928c-b25b-4482-8530-c45587043696": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\snakeman.png",
+      "time": 1721461645965.4526,
+      "removeTime": 1721488026941
+    },
+    "0a0b300b-247b-46f6-bec7-0797a42cea12": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\snakeman_blue.png",
+      "time": 1721461645967.4524,
+      "removeTime": 1721488026941
+    },
+    "15001946-ccf1-42f9-b7ec-44a5748ffbdf": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\snakeman_red.png",
+      "time": 1721461645968.4531,
+      "removeTime": 1721488026942
+    },
+    "1c9c510d-6818-4d1c-b8da-80083c43d2ae": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\snakeman_yellow.png",
+      "time": 1721461645969.4531,
+      "removeTime": 1721488026942
+    },
+    "e2e6cc66-3fd5-4b1c-9469-22327fd195de": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\sumpitaner_blue.png",
+      "time": 1721461645970.4534,
+      "removeTime": 1721488026942
+    },
+    "5d98d06f-5244-4c28-957b-cb39a7a66662": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\sumpitaner_green.png",
+      "time": 1721461645971.4536,
+      "removeTime": 1721488026942
+    },
+    "3590ba3b-bf53-4ea0-b01a-92b16e210665": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\sumpitaner_red.png",
+      "time": 1721461645973.4546,
+      "removeTime": 1721488026942
+    },
+    "2ca56e3d-e791-4f95-ab24-5837b1a6d200": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\sumpitaner_yellow.png",
+      "time": 1721461645974.454,
+      "removeTime": 1721488026942
+    },
+    "e903df68-9208-4e40-97a6-7eab4414d035": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot",
+      "time": 1721487941830.213,
+      "removeTime": 1721488026942
+    },
+    "31ef9835-daf8-40a5-9738-7ec210989133": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\home_btns",
+      "time": 1721487941773.2,
+      "removeTime": 1721488026942
+    },
+    "73805c58-2264-4e5c-a77a-53b1bb5c20fd": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis",
+      "time": 1721487941733.1904,
+      "removeTime": 1721488026942
+    },
+    "c6d71e8f-dc2c-40c2-b49f-ffb762f4fefe": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt",
+      "time": 1721487941668.1758,
+      "removeTime": 1721488026942
+    },
+    "b7db740e-3a9a-4626-bb5d-4e03b3f826ca": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\boss",
+      "time": 1721487941742.1926,
+      "removeTime": 1721488026942
+    },
+    "fcd3672a-4cff-42a5-80ed-0651c3132ea2": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\hero",
+      "time": 1721487941730.19,
+      "removeTime": 1721488026942
+    },
+    "bf7d88b4-a637-4308-857a-d5db71fbbeb5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\monster",
+      "time": 1721487941715.1868,
+      "removeTime": 1721488026942
+    },
+    "ff489048-48e0-4e93-b5a6-3ab8c1ae9e2d": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\boss",
+      "time": 1721487941673.1777,
+      "removeTime": 1721488026942
+    },
+    "1e7fa01e-f327-4016-a05a-ed4ee92718be": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\hero",
+      "time": 1721487941667.1758,
+      "removeTime": 1721488026942
+    },
+    "6cb6c237-271c-4347-a7e2-a19ba010daf8": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster",
+      "time": 1721487941657.1736,
+      "removeTime": 1721488026942
+    },
+    "fc9c4c14-57a5-49b2-bd19-33004a071139": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\boss",
+      "time": 1721487941606.162,
+      "removeTime": 1721488026942
+    },
+    "83ff6eda-9bff-46ff-b596-6b796d304fb4": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\hero",
+      "time": 1721487941595.1597,
+      "removeTime": 1721488026942
+    },
+    "6fb4f547-6efb-400a-a665-8c2d2bb9f1dc": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\background.jpg",
+      "time": 1721461645719.3965,
+      "removeTime": 1721488026942
+    },
+    "5c51ec09-a9fc-4747-a9f2-4f53b8e9d9fa": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\background_png.png",
+      "time": 1721461645728.3984,
+      "removeTime": 1721488026942
+    },
+    "528baa60-6d70-4e46-8cbb-bc0f97d1503e": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\bg_gradient_mask.png",
+      "time": 1721461645730.399,
+      "removeTime": 1721488026942
+    },
+    "a5fd3939-7e4d-4e4f-8337-6247b2ba0c8e": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\bg_main_btns.png",
+      "time": 1721461645732.3994,
+      "removeTime": 1721488026942
+    },
+    "5b5e694f-4d15-4cf4-8f41-e0a1eb796811": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\bg_status.png",
+      "time": 1721461645733.3997,
+      "removeTime": 1721488026943
+    },
+    "547a382f-9b8e-45a9-94f2-c33f250f57e6": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\bg_sub_btns.png",
+      "time": 1721461645735.4001,
+      "removeTime": 1721488026943
+    },
+    "aaf86f01-d9ec-4b10-86c1-3fee512bbd9d": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\bg_timer.png",
+      "time": 1721461645736.4004,
+      "removeTime": 1721488026943
+    },
+    "ba92c374-9f2e-408d-bce1-df83a88aa5ca": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\btn_expand.png",
+      "time": 1721461645738.401,
+      "removeTime": 1721488026943
+    },
+    "1e795446-1dcb-413a-b7e3-c77c22949a17": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\btn_expand_slot.png",
+      "time": 1721461645739.4016,
+      "removeTime": 1721488026943
+    },
+    "b245a56a-a90e-4a1d-a23a-0356b7345dcf": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\btn_fold.png",
+      "time": 1721461645740.4014,
+      "removeTime": 1721488026943
+    },
+    "e95c52db-f62e-4ecb-8fd7-5a50e4d9895a": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\btn_message.png",
+      "time": 1721461645741.4014,
+      "removeTime": 1721488026943
+    },
+    "4718c593-5368-4fa1-bd87-99495e3742a2": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\icon_diamond.png",
+      "time": 1721461645812.4175,
+      "removeTime": 1721488026943
+    },
+    "182470bf-25b8-49f5-896b-08901193eb56": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\icon_energy.png",
+      "time": 1721461645813.418,
+      "removeTime": 1721488026943
+    },
+    "b1a60b57-c24d-416b-9a62-a0f8073d6db2": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\icon_fight.png",
+      "time": 1721461645814.418,
+      "removeTime": 1721488026943
+    },
+    "997adfc1-de9e-4182-b64e-e427c4cddb9f": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\icon_gold.png",
+      "time": 1721461645816.4185,
+      "removeTime": 1721488026943
+    },
+    "a4be0ba5-15cc-42ed-a7f0-83301ee3bceb": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\icon_rank.png",
+      "time": 1721461645817.4187,
+      "removeTime": 1721488026943
+    },
+    "fcabe6b6-a7a2-4a8f-8307-5d697c207cdb": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\a.png",
+      "time": 1721461645743.4023,
+      "removeTime": 1721488026943
+    },
+    "158b13c3-4f0d-4813-9c33-bbc7be0ca3f9": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\att_earth.png",
+      "time": 1721461645745.4023,
+      "removeTime": 1721488026943
+    },
+    "becbadf4-dee3-428c-bcc8-8c31e6afe6b8": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\att_fire.png",
+      "time": 1721461645746.4026,
+      "removeTime": 1721488026943
+    },
+    "e6e8ced7-2bff-4f36-835c-b12d2cfd1517": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\att_water.png",
+      "time": 1721461645747.4028,
+      "removeTime": 1721488026943
+    },
+    "ea6ca70c-3dab-4929-b5c9-b91d95d1de66": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\att_wind.png",
+      "time": 1721461645748.403,
+      "removeTime": 1721488026943
+    },
+    "f38a35ea-c32e-4a64-9d2c-dbc8869cbe4b": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\a_highlight.png",
+      "time": 1721461645744.402,
+      "removeTime": 1721488026943
+    },
+    "9b709222-f68c-4cf8-ab70-4a52679b3adc": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\b.png",
+      "time": 1721461645749.404,
+      "removeTime": 1721488026943
+    },
+    "a9ec8f93-fa78-48be-8ac4-0800584cb867": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\bg_exp.png",
+      "time": 1721461645752.4038,
+      "removeTime": 1721488026943
+    },
+    "596c9658-1b9b-4327-b10b-2949987e6bb0": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\bg_frame.png",
+      "time": 1721461645753.404,
+      "removeTime": 1721488026943
+    },
+    "1e4d7112-35cc-4df7-bdbd-482636611867": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\bg_panel_blue.png",
+      "time": 1721461645756.4048,
+      "removeTime": 1721488026943
+    },
+    "372efc23-5be5-4f8a-a45c-38dd65a60f84": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\bg_panel_paper.png",
+      "time": 1721461645758.4053,
+      "removeTime": 1721488026943
+    },
+    "1526b69b-91c6-46c2-b416-8afd171acbe2": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\bg_panel_red.png",
+      "time": 1721461645760.4058,
+      "removeTime": 1721488026943
+    },
+    "650a9e2d-9446-4ae7-9138-187849ebfa69": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\bg_panel_wood.png",
+      "time": 1721461645763.4065,
+      "removeTime": 1721488026943
+    },
+    "df9586cb-c875-421a-9323-3af3bc892966": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\btns_hero.png",
+      "time": 1721461645769.4077,
+      "removeTime": 1721488026943
+    },
+    "c99e141b-f14f-4020-abb3-1333fbf3282d": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\btn_blue.png",
+      "time": 1721461645764.4065,
+      "removeTime": 1721488026944
+    },
+    "9d20182b-a133-4151-afcf-2987a6a1eb5f": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\btn_blue_long.png",
+      "time": 1721461645765.407,
+      "removeTime": 1721488026944
+    },
+    "95ed8e2e-8b4d-42e3-8884-0a5d06d3f9f4": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\btn_close.png",
+      "time": 1721461645766.4072,
+      "removeTime": 1721488026944
+    },
+    "f2fbbefb-7d06-4332-a587-6c32165c5240": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\btn_up_blue.png",
+      "time": 1721461645768.4077,
+      "removeTime": 1721488026944
+    },
+    "19174454-949b-4a09-bb1c-5b537650beb5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\b_highlight.png",
+      "time": 1721461645750.4033,
+      "removeTime": 1721488026944
+    },
+    "8be3b0c1-61bf-438c-a48f-7397b961f3ab": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\c.png",
+      "time": 1721461645770.408,
+      "removeTime": 1721488026944
+    },
+    "ae3e12e1-6fc0-44be-a280-23973f6962b7": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\c_highlight.png",
+      "time": 1721461645771.4084,
+      "removeTime": 1721488026944
+    },
+    "2f5cd28d-9557-487a-9df0-34cb4cfd16aa": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\d.png",
+      "time": 1721461645772.4087,
+      "removeTime": 1721488026944
+    },
+    "a075147e-c075-46d3-9a8e-8313162b966e": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\d_highlight.png",
+      "time": 1721461645773.4087,
+      "removeTime": 1721488026944
+    },
+    "9e2b5b51-b152-4505-b493-c83cf9ce8fcf": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\empty.png",
+      "time": 1721461645774.409,
+      "removeTime": 1721488026944
+    },
+    "2587d5be-d25c-4f46-9e7e-1270eae84427": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\rare1.png",
+      "time": 1721461645776.41,
+      "removeTime": 1721488026944
+    },
+    "426f0d96-7545-4312-808b-d221ee784bf9": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\rare2.png",
+      "time": 1721461645777.4104,
+      "removeTime": 1721488026944
+    },
+    "73c887a9-622b-4706-855c-864dc6c064f5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\rare3.png",
+      "time": 1721461645779.4104,
+      "removeTime": 1721488026944
+    },
+    "6ee735a0-08d4-458b-94f9-19ad8f2f015d": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\s.png",
+      "time": 1721461645780.4104,
+      "removeTime": 1721488026944
+    },
+    "af3ff951-edef-4c7e-a1dc-7555e060fcd8": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\star_small.png",
+      "time": 1721461645782.411,
+      "removeTime": 1721488026944
+    },
+    "42a54bde-d054-4c49-8926-f053090e69c5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\s_highlight.png",
+      "time": 1721461645781.4104,
+      "removeTime": 1721488026944
+    },
+    "14222783-36bf-4b44-9fe0-2f65d3e20067": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\text_evolve.png",
+      "time": 1721461645783.4111,
+      "removeTime": 1721488026944
+    },
+    "b2bc786b-590b-4831-b321-813112a32099": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\text_sell.png",
+      "time": 1721461645784.4111,
+      "removeTime": 1721488026944
+    },
+    "ce5f383d-be51-45af-b99c-7d753da011da": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\text_upgrade.png",
+      "time": 1721461645784.4111,
+      "removeTime": 1721488026944
+    },
+    "28a73d65-0999-423a-bc32-7699b0ffd544": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\title_atk.png",
+      "time": 1721461645785.4119,
+      "removeTime": 1721488026944
+    },
+    "f0379672-7a68-4983-9899-c41c47ba7e18": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\title_backpack.png",
+      "time": 1721461645786.4116,
+      "removeTime": 1721488026944
+    },
+    "c3ad0e02-0f5e-41bc-ac66-7ee11bdd118c": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\title_bg.png",
+      "time": 1721461645788.412,
+      "removeTime": 1721488026944
+    },
+    "1b5f90e0-8944-4809-9761-78b8d8372616": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\title_craft.png",
+      "time": 1721461645789.4124,
+      "removeTime": 1721488026945
+    },
+    "957e0d6c-f1d5-4c15-8097-a23eef816f3b": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\title_exp.png",
+      "time": 1721461645790.4126,
+      "removeTime": 1721488026945
+    },
+    "880838a7-9a3f-4a6c-baba-2dbd6a7413b5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\title_heros.png",
+      "time": 1721461645793.413,
+      "removeTime": 1721488026945
+    },
+    "70282266-fa12-485e-9a7f-c9539ee67a10": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\title_hero_upgrade.png",
+      "time": 1721461645792.413,
+      "removeTime": 1721488026945
+    },
+    "01e37650-ed2b-4b04-83d4-dd0b42d83688": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\title_monster.png",
+      "time": 1721461645794.4133,
+      "removeTime": 1721488026945
+    },
+    "66711b1d-c816-4cf5-8018-a936dae41af6": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\title_shards.png",
+      "time": 1721461645795.4136,
+      "removeTime": 1721488026945
+    },
+    "b5195713-f7d7-4b3f-8f92-4cbeba203d9e": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\heroslot\\title_total_exp.png",
+      "time": 1721461645796.4138,
+      "removeTime": 1721488026945
+    },
+    "587ed003-dfa7-4091-bc91-ececcee4737d": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\home_btns\\btn_backpack.png",
+      "time": 1721461645797.4143,
+      "removeTime": 1721488026945
+    },
+    "b30a989a-7d94-431f-8e3d-3289c1583da8": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\home_btns\\btn_chuzhan.png",
+      "time": 1721461645798.4143,
+      "removeTime": 1721488026945
+    },
+    "be19f41d-ffa0-41c5-9c87-6bc24d853502": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\home_btns\\btn_friends.png",
+      "time": 1721461645800.4148,
+      "removeTime": 1721488026945
+    },
+    "cc4843a6-dee6-45c3-9eba-23c189b8cbc4": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\home_btns\\btn_hecheng.png",
+      "time": 1721461645801.415,
+      "removeTime": 1721488026945
+    },
+    "2e295c46-f72b-4c99-8a0f-4323671811a3": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\home_btns\\btn_home.png",
+      "time": 1721461645802.4153,
+      "removeTime": 1721488026945
+    },
+    "03fb01c1-feb1-4a61-866e-e53e9e332abf": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\home_btns\\btn_level.png",
+      "time": 1721461645803.4153,
+      "removeTime": 1721488026945
+    },
+    "4b4a59b1-e1c5-45be-b1e3-506eb82ee07a": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\home_btns\\btn_liuyan.png",
+      "time": 1721461645804.4158,
+      "removeTime": 1721488026945
+    },
+    "a129992a-64bd-4c45-bf05-e035ed1b6279": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\home_btns\\btn_raid.png",
+      "time": 1721461645806.416,
+      "removeTime": 1721488026945
+    },
+    "4fc7ee02-273f-4977-ad47-6ca155bf5305": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\home_btns\\btn_renwu.png",
+      "time": 1721461645807.4165,
+      "removeTime": 1721488026945
+    },
+    "27721328-ed2d-416b-9a66-345012cff4cb": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\home_btns\\btn_rongyu.png",
+      "time": 1721461645808.4165,
+      "removeTime": 1721488026945
+    },
+    "4248e870-e137-4c2b-8ca4-b8b871281cbb": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\home_btns\\btn_setting.png",
+      "time": 1721461645809.4167,
+      "removeTime": 1721488026945
+    },
+    "e382d940-eb75-4866-b8d7-e7847c088461": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\home_btns\\btn_shop.png",
+      "time": 1721461645810.4172,
+      "removeTime": 1721488026945
+    },
+    "4ae63c41-a4a0-45a7-aca5-589daad9ddd9": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\boss\\ic_generalshark.png",
+      "time": 1721461645820.4192,
+      "removeTime": 1721488026945
+    },
+    "e6433f36-1fb4-42c5-8477-c8413f76232a": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\boss\\ic_hugeshark.png",
+      "time": 1721461645821.4194,
+      "removeTime": 1721488026945
+    },
+    "fa3223bf-3ecb-41be-af59-c323ed763ce4": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\boss\\ic_hydra.png",
+      "time": 1721461645823.4202,
+      "removeTime": 1721488026945
+    },
+    "84499e83-3aaa-4e00-829b-fa02182e9ca3": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\boss\\ic_shydra.png",
+      "time": 1721461645824.4204,
+      "removeTime": 1721488026946
+    },
+    "19510e5a-675e-42b2-bed5-62266eda417b": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\hero\\ic_captain_jack.png",
+      "time": 1721461645826.4204,
+      "removeTime": 1721488026946
+    },
+    "d4ef7dc6-2b19-4e99-ad09-7f6c6870d582": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\hero\\ic_drakan.png",
+      "time": 1721461645827.421,
+      "removeTime": 1721488026946
+    },
+    "41a05f93-118a-4070-9f8b-eb81d9e70334": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\hero\\ic_mermaid.png",
+      "time": 1721461645828.4211,
+      "removeTime": 1721488026946
+    },
+    "9f76084f-009a-4f33-aa6c-d08bd9a29c01": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\hero\\ic_mermaidqueen.png",
+      "time": 1721461645830.4216,
+      "removeTime": 1721488026946
+    },
+    "71187f7f-36f2-4383-afc5-5d40a827013a": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\hero\\ic_oceaking.png",
+      "time": 1721461645832.4226,
+      "removeTime": 1721488026946
+    },
+    "90332344-6f3c-4fe8-9d56-50ea7cf879ce": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\hero\\ic_oceantriton.png",
+      "time": 1721461645834.4229,
+      "removeTime": 1721488026946
+    },
+    "7325fb21-b227-4d4a-a27d-cf065689799b": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\monster\\ic_BigBlackCrab.png",
+      "time": 1721461645837.4236,
+      "removeTime": 1721488026946
+    },
+    "5226d022-edda-45d9-9230-9945a1a19af9": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\monster\\ic_BigBrownCrab.png",
+      "time": 1721461645841.4255,
+      "removeTime": 1721488026946
+    },
+    "93f6516f-772d-493f-a720-9e7a65885af5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\monster\\ic_BigBrownCrab2.png",
+      "time": 1721461645843.4248,
+      "removeTime": 1721488026946
+    },
+    "6fd3a79c-d071-4705-9525-5bde517ab96e": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\monster\\ic_BigCrab.png",
+      "time": 1721461645844.4248,
+      "removeTime": 1721488026946
+    },
+    "d245f91e-80dc-4096-a297-c5e514e804c2": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\monster\\ic_BigGreenCrab.png",
+      "time": 1721461645846.4253,
+      "removeTime": 1721488026946
+    },
+    "c6c18d6d-8023-4fd7-8ffc-d540ed34ee54": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\monster\\ic_BigRedCrab.png",
+      "time": 1721461645847.4258,
+      "removeTime": 1721488026946
+    },
+    "dcfadde5-b4f1-4b5d-96f0-97a79e7bab66": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\monster\\ic_BlackSirens.png",
+      "time": 1721461645848.4258,
+      "removeTime": 1721488026946
+    },
+    "6cd0aa66-4b81-42b7-95ad-1a82cc30a835": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\monster\\ic_BlackTentacles.png",
+      "time": 1721461645849.426,
+      "removeTime": 1721488026946
+    },
+    "52c11025-13af-4d70-98eb-085e5a9e81b6": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\monster\\ic_BlueBatteryTurtle.png",
+      "time": 1721461645851.4265,
+      "removeTime": 1721488026946
+    },
+    "f4174ccb-686c-4d54-ab04-e41cca2251d9": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\monster\\ic_BlueTentacle.png",
+      "time": 1721461645852.4265,
+      "removeTime": 1721488026946
+    },
+    "34e7c08e-f327-4912-9795-a4f8f82c7fb3": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\monster\\ic_GreenTentacles.png",
+      "time": 1721461645853.4272,
+      "removeTime": 1721488026946
+    },
+    "c273d0b6-7ca5-4ca2-a8e1-53b9c1366680": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\monster\\ic_MechanicalTentacles.png",
+      "time": 1721461645855.428,
+      "removeTime": 1721488026946
+    },
+    "2c84d042-ef14-43b8-9650-4b6155790a83": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\monster\\ic_MechanicalTurretTurtle.png",
+      "time": 1721461645856.428,
+      "removeTime": 1721488026946
+    },
+    "611b950d-8510-45b0-bfa5-629fe88e9a78": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\monster\\ic_RedBatteryTurtle.png",
+      "time": 1721461645857.4277,
+      "removeTime": 1721488026946
+    },
+    "d1931aa4-944e-49b6-96ce-0312591382c1": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\monster\\ic_RedSirens.png",
+      "time": 1721461645858.428,
+      "removeTime": 1721488026946
+    },
+    "cb7a051a-e0dd-44ad-a446-4079ed812fc9": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\monster\\ic_RedTentacles.png",
+      "time": 1721461645859.4282,
+      "removeTime": 1721488026946
+    },
+    "5bc5885b-d89d-4dac-acac-0435d6054b0f": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\monster\\ic_Sirens.png",
+      "time": 1721461645860.4287,
+      "removeTime": 1721488026946
+    },
+    "2df61e48-4bd6-4462-a19f-cfe9eb81262c": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\monster\\ic_tentacles.png",
+      "time": 1721461645863.429,
+      "removeTime": 1721488026946
+    },
+    "e1c5eeb4-333c-4407-8bd0-3f52f8da2c93": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\atlantis\\monster\\ic_TurretTurtle.png",
+      "time": 1721461645861.4287,
+      "removeTime": 1721488026946
+    },
+    "339b9300-7fba-477d-a345-ca0e0fa962b9": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\boss\\ic_scorpion_king.png",
+      "time": 1721461645865.4294,
+      "removeTime": 1721488026946
+    },
+    "6fee2d78-e49a-4624-844e-04420497b77f": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\boss\\ic_shadomummy.png",
+      "time": 1721461645866.4297,
+      "removeTime": 1721488026947
+    },
+    "a65ccbfc-46b5-4c44-b9ed-14cd621166a9": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\boss\\ic_shadopharaoh.png",
+      "time": 1721461645868.4307,
+      "removeTime": 1721488026947
+    },
+    "70c73fe6-bed6-4c57-ae64-40f3418a9e1d": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\boss\\ic_vinegarking.png",
+      "time": 1721461645869.4304,
+      "removeTime": 1721488026947
+    },
+    "8ca10654-ef18-40f2-a805-5db379abc7c2": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\hero\\ic_cat_queen.png",
+      "time": 1721461645871.431,
+      "removeTime": 1721488026947
+    },
+    "8967da4c-ebe7-42d7-8a89-809fada638c4": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\hero\\ic_osiris.png",
+      "time": 1721461645872.4316,
+      "removeTime": 1721488026947
+    },
+    "affaf1cb-cc9f-49bd-95d8-f91ec1ca2399": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\hero\\ic_pharaoh.png",
+      "time": 1721461645873.4314,
+      "removeTime": 1721488026947
+    },
+    "0d338f67-b5b2-43c3-8939-a75780d99089": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\hero\\ic_spharaoh.png",
+      "time": 1721461645875.4321,
+      "removeTime": 1721488026947
+    },
+    "ac55fd93-3d5e-4eea-9927-bac5aa687312": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\hero\\ic_sthoth.png",
+      "time": 1721461645876.432,
+      "removeTime": 1721488026947
+    },
+    "eca3d095-d636-4344-be3a-a1045de20316": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\hero\\ic_thoth.png",
+      "time": 1721461645877.4324,
+      "removeTime": 1721488026947
+    },
+    "9f517cb4-98f3-4eb9-a297-4bf59bc0531b": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster\\ic_Anubis.png",
+      "time": 1721461645879.4333,
+      "removeTime": 1721488026947
+    },
+    "f88426b3-5e76-4865-90b7-1904d58cc3b4": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster\\ic_AnubisBlue.png",
+      "time": 1721461645880.433,
+      "removeTime": 1721488026947
+    },
+    "e9faeafe-0249-46b6-9c9f-35bceb45eb8e": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster\\ic_AnubisGreen.png",
+      "time": 1721461645881.4336,
+      "removeTime": 1721488026947
+    },
+    "431653e9-3e0a-45f9-bd1f-d6398c7488a2": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster\\ic_Archers.png",
+      "time": 1721461645883.434,
+      "removeTime": 1721488026947
+    },
+    "779f5916-8d99-451c-89a4-6c750ffd5f04": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster\\ic_ArchersChangeColor.png",
+      "time": 1721461645884.4338,
+      "removeTime": 1721488026947
+    },
+    "6a9910c7-21c3-4fff-93ef-b5bbdd2c266c": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster\\ic_BeetleBlue.png",
+      "time": 1721461645885.434,
+      "removeTime": 1721488026947
+    },
+    "823df80f-a173-41ca-bb1f-3219ed7425b7": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster\\ic_BeetleGreen.png",
+      "time": 1721461645887.4346,
+      "removeTime": 1721488026947
+    },
+    "88eca76d-decc-4ee3-bb6c-4e5204221af0": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster\\ic_BeetleRed.png",
+      "time": 1721461645888.4346,
+      "removeTime": 1721488026947
+    },
+    "d670d05d-f6ba-4e71-8c4e-13ebe3605e53": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster\\ic_BeetleYellow.png",
+      "time": 1721461645890.4355,
+      "removeTime": 1721488026947
+    },
+    "1b9820fb-d321-43a8-99e5-804f95347b57": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster\\ic_Coffin.png",
+      "time": 1721461645891.4353,
+      "removeTime": 1721488026947
+    },
+    "7de2b94e-ee52-4f81-a163-1adb9181d064": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster\\ic_CoffinsChangeColor.png",
+      "time": 1721461645892.4358,
+      "removeTime": 1721488026947
+    },
+    "76962c22-2f79-43ba-a779-10025be54676": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster\\ic_EgyptianViperBlue.png",
+      "time": 1721461645893.4358,
+      "removeTime": 1721488026947
+    },
+    "aa86a5f6-1b5d-4f39-8aac-8d4b9f646314": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster\\ic_EgyptianViperGreen.png",
+      "time": 1721461645894.436,
+      "removeTime": 1721488026947
+    },
+    "4837c1de-f953-4fa4-90a0-5a0a2ef0dc3b": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster\\ic_EgyptianViperRed.png",
+      "time": 1721461645896.4365,
+      "removeTime": 1721488026947
+    },
+    "4cbd61e3-a8eb-454a-b092-74381faf3e0e": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster\\ic_EgyptianViperYellow.png",
+      "time": 1721461645898.437,
+      "removeTime": 1721488026947
+    },
+    "8defb5ec-4894-4a50-a9d8-eb33f64034a7": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster\\ic_LancerBlue.png",
+      "time": 1721461645899.4375,
+      "removeTime": 1721488026947
+    },
+    "376596af-a490-4494-9ccc-a61653e31a48": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster\\ic_Lancers.png",
+      "time": 1721461645901.438,
+      "removeTime": 1721488026947
+    },
+    "5260671d-de21-48e0-a4fa-66e21e067a69": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster\\ic_LancerWhite.png",
+      "time": 1721461645900.438,
+      "removeTime": 1721488026948
+    },
+    "1b57d4d6-082c-4a79-abc0-86c9b934ff5c": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster\\ic_Mummy.png",
+      "time": 1721461645903.4385,
+      "removeTime": 1721488026948
+    },
+    "6c1c03e7-0a86-4f2e-a2aa-605d8e33256c": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\egypt\\monster\\ic_MummyChangesColor.png",
+      "time": 1721461645904.4382,
+      "removeTime": 1721488026948
+    },
+    "97ab5c2b-0b55-4bd9-8e72-4785f7f145ea": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\boss\\ic_bloodwind.png",
+      "time": 1721461645907.4397,
+      "removeTime": 1721488026948
+    },
+    "c96e50ac-ef08-432a-8658-124800b484ef": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\boss\\ic_cipacret.png",
+      "time": 1721461645908.4392,
+      "removeTime": 1721488026948
+    },
+    "ef058b16-9144-4ff3-92b2-852ecf9e2c9e": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\boss\\ic_sbloodwind.png",
+      "time": 1721461645909.4395,
+      "removeTime": 1721488026948
+    },
+    "c6f7b40b-cb59-4c6a-8890-c015efc5e6f5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\boss\\ic_scipacret.png",
+      "time": 1721461645910.4397,
+      "removeTime": 1721488026948
+    },
+    "b9815935-3260-4973-afdd-eb2b0a93d940": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\hero\\ic_huchcy.png",
+      "time": 1721461645912.4402,
+      "removeTime": 1721488026948
+    },
+    "276c533f-f19e-41f9-9bfd-d98c7ba8e21f": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\hero\\ic_jones.png",
+      "time": 1721461645914.4404,
+      "removeTime": 1721488026948
+    },
+    "a6d9dca5-2004-4d75-a72b-b7a213f4e714": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\hero\\ic_stlaloc.png",
+      "time": 1721461645915.441,
+      "removeTime": 1721488026948
+    },
+    "8ee40652-ec27-44e8-baa0-a8e2cfa21a94": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\hero\\ic_supejones.png",
+      "time": 1721461645916.4414,
+      "removeTime": 1721488026948
+    },
+    "919187fd-50a0-4002-ad12-40f4a46d4174": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\hero\\ic_tizerc.png",
+      "time": 1721461645917.4414,
+      "removeTime": 1721488026948
+    },
+    "f14220fd-b242-4ba3-85a0-fdc16ce6c1b5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\hero\\ic_tlaloc.png",
+      "time": 1721461645918.4414,
+      "removeTime": 1721488026948
+    },
+    "69ee3bed-3716-4b4a-8c93-5e4d741cfc06": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\ic_BlackWizard.png",
+      "time": 1721461645921.4421,
+      "removeTime": 1721488026948
+    },
+    "d0b0d2d9-1dac-4708-a24b-8fcd8986b46f": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\ic_GiantSpiders.png",
+      "time": 1721461645922.4424,
+      "removeTime": 1721488026948
+    },
+    "873e91fd-6ca5-499c-91bc-40fcc9447a0e": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\ic_GoldenWizard.png",
+      "time": 1721461645923.443,
+      "removeTime": 1721488026948
+    },
+    "1c30fff0-a1f3-457c-ac98-53517ab3cdc5": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\ic_GreenWizard.png",
+      "time": 1721461645924.4426,
+      "removeTime": 1721488026948
+    },
+    "79bfd558-baab-416f-8c7b-fe170bb3f0e1": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\ic_NativeWarrior.png",
+      "time": 1721461645925.443,
+      "removeTime": 1721488026948
+    },
+    "e1927522-8733-4102-ba65-8997db419b93": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\ic_SnakeMan.png",
+      "time": 1721461645927.4434,
+      "removeTime": 1721488026948
+    },
+    "ed6b4af8-5bb9-4714-b473-9132e3e8eb65": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\ic_SnakeMan1.png",
+      "time": 1721461645928.4436,
+      "removeTime": 1721488026948
+    },
+    "1776e31a-cee2-44bb-9b29-fd18048c511e": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\ic_SnakeMan2.png",
+      "time": 1721461645929.444,
+      "removeTime": 1721488026948
+    },
+    "d4c4ae33-ef49-4bd1-8f32-d149dc215517": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\ic_SnakeMan3.png",
+      "time": 1721461645930.444,
+      "removeTime": 1721488026948
+    },
+    "db68e56f-b77d-41d1-b5bb-f600a7df3de7": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\ic_TheBlueWizard.png",
+      "time": 1721461645932.445,
+      "removeTime": 1721488026948
+    },
+    "6c0376d5-5485-4dfc-a2f1-8fb6676c07d1": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\ic_TheGiantBlackSpider.png",
+      "time": 1721461645933.4448,
+      "removeTime": 1721488026948
+    },
+    "10e5b9bb-8f58-467d-9e43-f99403e88f3b": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\ic_TheGiantBrownSpider.png",
+      "time": 1721461645934.445,
+      "removeTime": 1721488026948
+    },
+    "1915790a-6b35-4cd5-8a24-e973fcd4e2be": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\ic_TheGiantGreenSpider.png",
+      "time": 1721461645935.4458,
+      "removeTime": 1721488026948
+    },
+    "c675bc4c-331d-487b-9bec-6c89cb3145b6": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\cannonturtle.png",
+      "time": 1721461645936.4453,
+      "removeTime": 1721488026949
+    },
+    "97217455-06d3-4da1-a800-38e0b221a0d4": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\chighost_armour.png",
+      "time": 1721461645938.446,
+      "removeTime": 1721488026949
+    },
+    "3df26f5a-06be-4170-9bd9-efb344a78fc9": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\chighost_blue.png",
+      "time": 1721461645939.4468,
+      "removeTime": 1721488026949
+    },
+    "5c55f2e6-1721-4f9f-96b2-3b1b30b23701": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\chighost_green.png",
+      "time": 1721461645941.4468,
+      "removeTime": 1721488026949
+    },
+    "6d7a2097-39eb-45b0-b0cf-9990a0992f28": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\chighost_purple.png",
+      "time": 1721461645942.447,
+      "removeTime": 1721488026949
+    },
+    "a477fa45-eda8-4a78-b2dc-ac334c040d5d": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\chighost_red.png",
+      "time": 1721461645944.4478,
+      "removeTime": 1721488026949
+    },
+    "abffcd97-8f0f-4f61-a061-f5fca72d25ca": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\indiwarrio.png",
+      "time": 1721461645945.4478,
+      "removeTime": 1721488026949
+    },
+    "b5e07d3f-fd13-43ad-8701-213da69bdd79": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\indiwarrior_bird.png",
+      "time": 1721461645946.4478,
+      "removeTime": 1721488026949
+    },
+    "f237c7db-0f6a-48fb-b60f-e6497a0de4e9": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\indiwarrior_brown.png",
+      "time": 1721461645947.448,
+      "removeTime": 1721488026949
+    },
+    "e72f4cec-599d-4091-86b4-028fb8c3c026": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\indiwarrior_green.png",
+      "time": 1721461645948.448,
+      "removeTime": 1721488026949
+    },
+    "4d2cd84d-fde9-498d-8261-68f590bc9b09": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\indiwarrior_knife.png",
+      "time": 1721461645950.4492,
+      "removeTime": 1721488026949
+    },
+    "358e1ec6-1b8e-4857-8bc9-f102ec0fa341": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\indiwarrior_purple.png",
+      "time": 1721461645951.449,
+      "removeTime": 1721488026949
+    },
+    "59b9d9c6-7c1e-4cd9-aaa9-5c5dac2d5081": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\indiwarrior_red.png",
+      "time": 1721461645952.4492,
+      "removeTime": 1721488026949
+    },
+    "42c40a58-212c-46d6-bf18-ccb2bc7a89d6": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\murloc.png",
+      "time": 1721461645953.4495,
+      "removeTime": 1721488026949
+    },
+    "1ddb0f8a-a848-4590-82c8-21664e86cd0f": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\murloc_black.png",
+      "time": 1721461645955.45,
+      "removeTime": 1721488026949
+    },
+    "19672ff4-04a5-4aca-8c28-7906c2d8b715": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\textures\\portrait\\indi\\monster\\littleMonsterHead\\murloc_blue.png",
+      "time": 1721461645956.4504,
+      "removeTime": 1721488026949
+    },
+    "bece3c4f-4bac-4c75-ab00-9248250227f8": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\ground.png",
+      "time": 1721461645578.3647,
+      "removeTime": 1721488026949
+    },
+    "2653ca33-9f62-4870-9578-60fbc508cf84": {
+      "path": "D:\\2work\\2GameDev\\EWasteScavengerSimulatorCocos2d\\assets\\Game\\migrate-canvas.ts",
+      "time": 1721461645579.365,
+      "removeTime": 1721488026949
+    }
+  }
+}
